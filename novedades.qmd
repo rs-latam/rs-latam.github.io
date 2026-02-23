@@ -1,0 +1,65 @@
+---
+title: "Novedades"
+---
+
+Mantente al día con las últimas actualizaciones sobre la conferencia.
+
+---
+
+::: {.news-item}
+::: {.news-date}
+Fecha
+:::
+
+## Conocé los talleres a los que podés inscribirte
+
+Información de los tallers
+
+Los talleres tienen cupo limitado. 
+
+[Ver programa completo](programa.qmd){.btn .btn-primary}
+:::
+
+---
+
+::: {.news-item}
+::: {.news-date}
+Fecha
+:::
+
+## Confirmado: Charla plenaria de Juan de los Palotes
+
+¡Estamos emocionados de anunciar que **Juan de los Palores**, cargo/institución, será nuestra keynote speaker de apertura!
+
+Mini bio
+
+Su presentación "título" abrirá la conferencia el 25 de agosto a las 12:00 PM (UTC -3).
+
+[Conoce más sobre las charlas plenarias](speakers.qmd){.btn .btn-primary}
+:::
+
+---
+
+::: {.news-item}
+::: {.news-date}
+Fecha
+:::
+
+## ¡Últimos días para la presentación de trabajos!
+
+Algo de texto
+
+[Envia tu propuesta](llamado.qmd){.btn .btn-primary}
+:::
+
+
+---
+
+::: {style="margin-top: 3rem; padding: 1.5rem; background: #f8f8f8; border-radius: 8px; text-align: center;"}
+**Síguenos en redes sociales (no sé cuáles vamos a usar)**
+
+[Twitter](#) | [LinkedIn](#) | [Instagram](#) | [Facebook](#)
+
+Usa el hashtag **#RSLA2026** para compartir tus expectativas
+
+:::

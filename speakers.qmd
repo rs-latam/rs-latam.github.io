@@ -1,0 +1,110 @@
+---
+title: "Ponentes"
+---
+
+## Charlas plenarias
+
+::: {.speaker-grid}
+::: {.speaker-card}
+![](https://placehold.co/400)
+
+### Persona
+
+**Cargo**  
+
+Empresa/Institución
+
+*Keynote de Apertura*
+
+Completar mini bio
+
+[LinkedIn](#) | [Twitter](#)
+:::
+
+::: {.speaker-card}
+
+![](https://placehold.co/400)
+
+### Persona
+
+**Cargo**  
+
+Empresa/Institución
+
+*Keynote día 2*
+
+Completar mini bio
+
+[LinkedIn](#) | [Twitter](#)
+
+:::
+
+::: {.speaker-card}
+
+![](https://placehold.co/400)
+
+### Persona
+
+**Cargo**  
+
+Empresa/Institución
+
+*Keynote de Cierre*
+
+Completar mini bio
+
+[LinkedIn](#) | [Twitter](#)
+
+:::
+:::
+
+---
+
+
+
+---
+
+## Talleres
+
+::: {.speaker-grid}
+::: {.speaker-card}
+
+### Título
+
+Descripción 
+
+Instructores/as
+
+:::
+
+::: {.speaker-card}
+
+### Título
+
+Descripción 
+
+Instructores/as
+
+:::
+
+::: {.speaker-card}
+
+### Título
+
+Descripción 
+
+Instructores/as
+
+:::
+:::
+
+---
+
+
+::: {.cta-section}
+
+Algo de texto
+
+[Inscripción](registro.qmd){.btn .btn-light .btn-lg}
+
+:::

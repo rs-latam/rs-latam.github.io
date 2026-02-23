@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "RSLA26"
+  navbar:
+    background: "#7C004C"
+    foreground: "#FFFFFF"
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Programa"
+        href: programa.qmd
+      - text: "Ponentes"
+        href: speakers.qmd
+      - text: "Inscripción"
+        href: registro.qmd
+      - text: "Presentación de trabajos"
+        href: llamado.qmd
+      - text: "Novedades"
+        href: novedades.qmd
+    right:
+      - icon: github
+        href: https://github.com/rs-latam
+      - icon: twitter
+        href: https://twitter.com/
+  
+  page-footer:
+    background: "#7C004C"
+    foreground: "#FFFFFF"
+    center: "Research Software Latinoamérica (RSLA26)"
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    toc: false
+    page-layout: full
