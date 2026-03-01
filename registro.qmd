@@ -2,4 +2,6 @@
 title: "Inscripción"
 ---
 
-Información sobre la inscripción
+::: {style="font-size: 3rem; text-align: center;"}
+🚧 Sitio en construcción
+:::

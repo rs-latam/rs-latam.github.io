@@ -58,7 +58,7 @@ Algo de texto
 ::: {style="margin-top: 3rem; padding: 1.5rem; background: #f8f8f8; border-radius: 8px; text-align: center;"}
 **Síguenos en redes sociales (no sé cuáles vamos a usar)**
 
-[Twitter](#) | [LinkedIn](#) | [Instagram](#) | [Facebook](#)
+[LinkedIn](#) | [Instagram](#) 
 
 Usa el hashtag **#RSLA2026** para compartir tus expectativas
 

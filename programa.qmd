@@ -2,224 +2,226 @@
 title: "Programa de la Conferencia"
 ---
 
-## Cronograma
-
-
-
-::: {.schedule-day}
-## Día 1 - Miércoles 25 de Agosto
-
-::: {.schedule-item}
-
-::: {.schedule-time}
-
-12:00pm - 1:00pm (UTC -3)
-
-:::
-::: {.schedule-content}
-
-**Keynote de Apertura**  
-*[Nombre del Speaker]*  
-Título de la presentación principal
-
-:::
-:::
-
-::: {.schedule-item}
-::: {.schedule-time}
-1:00pm - 2:00pm (UTC -3)
-
-:::
-::: {.schedule-content}
-
-**Sesión/mesa - título**  
-
-- Título charla 1 - *Autores*
-- Título charla 2 - *Autores*
-- Título charla 3 - *Autores*
-
-:::
-:::
-
-::: {.schedule-item}
-::: {.schedule-time}
-
-2:00pm - 2:15pm (UTC -3)
-
-:::
-::: {.schedule-content}
-
-**Coffee Break**  
-¿Hacemos alguna actividad para socializar en el break?
-
-:::
-:::
-
-::: {.schedule-item}
-::: {.schedule-time}
-2:15pm - 3:00pm (UTC -3)
-:::
-
-::: {.schedule-content}
-
-**Panel de discusión**
-Tema: Título del panel
-
-Panelistas: Nombres
-Modera: Nombre
-
-:::
-:::
-
+::: {style="font-size: 3rem; text-align: center;"}
+🚧 Sitio en construcción
 :::
 
 
----
 
-::: {.schedule-day}
-## Día 2 - Miércoles 26 de Agosto
+<!-- ::: {.schedule-day} -->
+<!-- ## Día 1 - Miércoles 25 de Agosto -->
 
-::: {.schedule-item}
+<!-- ::: {.schedule-item} -->
 
-::: {.schedule-time}
+<!-- ::: {.schedule-time} -->
 
-12:00pm - 1:00pm (UTC -3)
+<!-- 12:00pm - 1:00pm (UTC -3) -->
 
-:::
-::: {.schedule-content}
+<!-- ::: -->
+<!-- ::: {.schedule-content} -->
 
-**Keynote día 2**  
-*[Nombre del Speaker]*  
-Título de la presentación principal
+<!-- **Keynote de Apertura**   -->
+<!-- *[Nombre del Speaker]*   -->
+<!-- Título de la presentación principal -->
 
-:::
-:::
+<!-- ::: -->
+<!-- ::: -->
 
-::: {.schedule-item}
-::: {.schedule-time}
-1:00pm - 2:00pm (UTC -3)
+<!-- ::: {.schedule-item} -->
+<!-- ::: {.schedule-time} -->
+<!-- 1:00pm - 2:00pm (UTC -3) -->
 
-:::
-::: {.schedule-content}
+<!-- ::: -->
+<!-- ::: {.schedule-content} -->
 
-**Sesión/mesa - título**  
+<!-- **Sesión/mesa - título**   -->
 
-- Título charla 1 - *Autores*
-- Título charla 2 - *Autores*
-- Título charla 3 - *Autores*
+<!-- - Título charla 1 - *Autores* -->
+<!-- - Título charla 2 - *Autores* -->
+<!-- - Título charla 3 - *Autores* -->
 
-:::
-:::
+<!-- ::: -->
+<!-- ::: -->
 
-::: {.schedule-item}
-::: {.schedule-time}
+<!-- ::: {.schedule-item} -->
+<!-- ::: {.schedule-time} -->
 
-2:00pm - 2:15pm (UTC -3)
+<!-- 2:00pm - 2:15pm (UTC -3) -->
 
-:::
-::: {.schedule-content}
+<!-- ::: -->
+<!-- ::: {.schedule-content} -->
 
-**Coffee Break**  
+<!-- **Coffee Break**   -->
+<!-- ¿Hacemos alguna actividad para socializar en el break? -->
 
-:::
-:::
+<!-- ::: -->
+<!-- ::: -->
 
-::: {.schedule-item}
-::: {.schedule-time}
-2:15pm - 3:00pm (UTC -3)
-:::
+<!-- ::: {.schedule-item} -->
+<!-- ::: {.schedule-time} -->
+<!-- 2:15pm - 3:00pm (UTC -3) -->
+<!-- ::: -->
 
-::: {.schedule-content}
+<!-- ::: {.schedule-content} -->
 
-**Panel de discusión**
-Tema: Título del panel
+<!-- **Panel de discusión** -->
+<!-- Tema: Título del panel -->
 
-Panelistas: Nombres
-Modera: Nombre
+<!-- Panelistas: Nombres -->
+<!-- Modera: Nombre -->
 
-:::
-:::
-:::
+<!-- ::: -->
+<!-- ::: -->
 
----
-
-::: {.schedule-day}
-## Día 3 - Miércoles 27 de Agosto
-
-::: {.schedule-item}
-
-::: {.schedule-time}
-
-12:00pm - 1:00pm (UTC -3)
-
-:::
-::: {.schedule-content}
-
-**Keynote de Apertura**  
-*[Nombre del Speaker]*  
-Título de la presentación principal
-
-:::
-:::
-
-::: {.schedule-item}
-::: {.schedule-time}
-1:00pm - 2:00pm (UTC -3)
-
-:::
-::: {.schedule-content}
-
-**Sesión/mesa - título**  
-
-- Título charla 1 - *Autores*
-- Título charla 2 - *Autores*
-- Título charla 3 - *Autores*
-
-:::
-:::
-
-::: {.schedule-item}
-::: {.schedule-time}
-
-2:00pm - 2:15pm (UTC -3)
-
-:::
-::: {.schedule-content}
-
-**Coffee Break**  
-¿Hacemos alguna actividad para socializar en el break?
-
-:::
-:::
-
-::: {.schedule-item}
-::: {.schedule-time}
-2:15pm - 3:00pm (UTC -3)
-:::
-
-::: {.schedule-content}
-
-**Panel de discusión**
-Tema: Título del panel
-
-Panelistas: Nombres
-Modera: Nombre
-
-:::
-:::
-
-:::
+<!-- ::: -->
 
 
----
+<!-- --- -->
 
-::: {.cta-section}
+<!-- ::: {.schedule-day} -->
+<!-- ## Día 2 - Miércoles 26 de Agosto -->
 
-## Research Software Latinoamérica 2026
+<!-- ::: {.schedule-item} -->
 
-Asegura tu lugar en la I Conferencia de Software de Investigación de Latinoamérica
+<!-- ::: {.schedule-time} -->
 
-[Inscribite ahora](registro.qmd){.btn .btn-light .btn-lg}
-:::
+<!-- 12:00pm - 1:00pm (UTC -3) -->
+
+<!-- ::: -->
+<!-- ::: {.schedule-content} -->
+
+<!-- **Keynote día 2**   -->
+<!-- *[Nombre del Speaker]*   -->
+<!-- Título de la presentación principal -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.schedule-item} -->
+<!-- ::: {.schedule-time} -->
+<!-- 1:00pm - 2:00pm (UTC -3) -->
+
+<!-- ::: -->
+<!-- ::: {.schedule-content} -->
+
+<!-- **Sesión/mesa - título**   -->
+
+<!-- - Título charla 1 - *Autores* -->
+<!-- - Título charla 2 - *Autores* -->
+<!-- - Título charla 3 - *Autores* -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.schedule-item} -->
+<!-- ::: {.schedule-time} -->
+
+<!-- 2:00pm - 2:15pm (UTC -3) -->
+
+<!-- ::: -->
+<!-- ::: {.schedule-content} -->
+
+<!-- **Coffee Break**   -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.schedule-item} -->
+<!-- ::: {.schedule-time} -->
+<!-- 2:15pm - 3:00pm (UTC -3) -->
+<!-- ::: -->
+
+<!-- ::: {.schedule-content} -->
+
+<!-- **Panel de discusión** -->
+<!-- Tema: Título del panel -->
+
+<!-- Panelistas: Nombres -->
+<!-- Modera: Nombre -->
+
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- --- -->
+
+<!-- ::: {.schedule-day} -->
+<!-- ## Día 3 - Miércoles 27 de Agosto -->
+
+<!-- ::: {.schedule-item} -->
+
+<!-- ::: {.schedule-time} -->
+
+<!-- 12:00pm - 1:00pm (UTC -3) -->
+
+<!-- ::: -->
+<!-- ::: {.schedule-content} -->
+
+<!-- **Keynote de Apertura**   -->
+<!-- *[Nombre del Speaker]*   -->
+<!-- Título de la presentación principal -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.schedule-item} -->
+<!-- ::: {.schedule-time} -->
+<!-- 1:00pm - 2:00pm (UTC -3) -->
+
+<!-- ::: -->
+<!-- ::: {.schedule-content} -->
+
+<!-- **Sesión/mesa - título**   -->
+
+<!-- - Título charla 1 - *Autores* -->
+<!-- - Título charla 2 - *Autores* -->
+<!-- - Título charla 3 - *Autores* -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.schedule-item} -->
+<!-- ::: {.schedule-time} -->
+
+<!-- 2:00pm - 2:15pm (UTC -3) -->
+
+<!-- ::: -->
+<!-- ::: {.schedule-content} -->
+
+<!-- **Coffee Break**   -->
+<!-- ¿Hacemos alguna actividad para socializar en el break? -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.schedule-item} -->
+<!-- ::: {.schedule-time} -->
+<!-- 2:15pm - 3:00pm (UTC -3) -->
+<!-- ::: -->
+
+<!-- ::: {.schedule-content} -->
+
+<!-- **Panel de discusión** -->
+<!-- Tema: Título del panel -->
+
+<!-- Panelistas: Nombres -->
+<!-- Modera: Nombre -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: -->
+
+
+<!-- --- -->
+
+<!-- ::: {.cta-section} -->
+
+<!-- ## Research Software Latinoamérica 2026 -->
+
+<!-- Asegura tu lugar en la I Conferencia de Software de Investigación de Latinoamérica -->
+
+<!-- [Inscribite ahora](registro.qmd){.btn .btn-light .btn-lg} -->
+<!-- ::: -->
 
 

@@ -1,184 +1,44 @@
 [
   {
-    "objectID": "speakers.html",
-    "href": "speakers.html",
-    "title": "Ponentes",
-    "section": "",
-    "text": "Cargo\nEmpresa/Institución\nKeynote de Apertura\nCompletar mini bio\nLinkedIn | Twitter\n\n\n\n\n\n\nCargo\nEmpresa/Institución\nKeynote día 2\nCompletar mini bio\nLinkedIn | Twitter\n\n\n\n\n\n\nCargo\nEmpresa/Institución\nKeynote de Cierre\nCompletar mini bio\nLinkedIn | Twitter"
-  },
-  {
-    "objectID": "speakers.html#charlas-plenarias",
-    "href": "speakers.html#charlas-plenarias",
-    "title": "Ponentes",
-    "section": "",
-    "text": "Cargo\nEmpresa/Institución\nKeynote de Apertura\nCompletar mini bio\nLinkedIn | Twitter\n\n\n\n\n\n\nCargo\nEmpresa/Institución\nKeynote día 2\nCompletar mini bio\nLinkedIn | Twitter\n\n\n\n\n\n\nCargo\nEmpresa/Institución\nKeynote de Cierre\nCompletar mini bio\nLinkedIn | Twitter"
-  },
-  {
-    "objectID": "speakers.html#talleres",
-    "href": "speakers.html#talleres",
-    "title": "Ponentes",
-    "section": "Talleres",
-    "text": "Talleres\n\n\nTítulo\nDescripción\nInstructores/as\n\n\nTítulo\nDescripción\nInstructores/as\n\n\nTítulo\nDescripción\nInstructores/as\n\n\n\n\nAlgo de texto\nInscripción"
-  },
-  {
-    "objectID": "programa.html#día-1---miércoles-25-de-agosto",
-    "href": "programa.html#día-1---miércoles-25-de-agosto",
-    "title": "Programa de la Conferencia",
-    "section": "Día 1 - Miércoles 25 de Agosto",
-    "text": "Día 1 - Miércoles 25 de Agosto\n\n\n12:00pm - 1:00pm (UTC -3)\n\n\nKeynote de Apertura\n[Nombre del Speaker]\nTítulo de la presentación principal\n\n\n\n\n1:00pm - 2:00pm (UTC -3)\n\n\nSesión/mesa - título\n\nTítulo charla 1 - Autores\nTítulo charla 2 - Autores\nTítulo charla 3 - Autores\n\n\n\n\n\n2:00pm - 2:15pm (UTC -3)\n\n\nCoffee Break\n¿Hacemos alguna actividad para socializar en el break?\n\n\n\n\n2:15pm - 3:00pm (UTC -3)\n\n\nPanel de discusión Tema: Título del panel\nPanelistas: Nombres Modera: Nombre"
-  },
-  {
-    "objectID": "programa.html#día-2---miércoles-26-de-agosto",
-    "href": "programa.html#día-2---miércoles-26-de-agosto",
-    "title": "Programa de la Conferencia",
-    "section": "Día 2 - Miércoles 26 de Agosto",
-    "text": "Día 2 - Miércoles 26 de Agosto\n\n\n12:00pm - 1:00pm (UTC -3)\n\n\nKeynote día 2\n[Nombre del Speaker]\nTítulo de la presentación principal\n\n\n\n\n1:00pm - 2:00pm (UTC -3)\n\n\nSesión/mesa - título\n\nTítulo charla 1 - Autores\nTítulo charla 2 - Autores\nTítulo charla 3 - Autores\n\n\n\n\n\n2:00pm - 2:15pm (UTC -3)\n\n\nCoffee Break\n\n\n\n\n2:15pm - 3:00pm (UTC -3)\n\n\nPanel de discusión Tema: Título del panel\nPanelistas: Nombres Modera: Nombre"
-  },
-  {
-    "objectID": "programa.html#día-3---miércoles-27-de-agosto",
-    "href": "programa.html#día-3---miércoles-27-de-agosto",
-    "title": "Programa de la Conferencia",
-    "section": "Día 3 - Miércoles 27 de Agosto",
-    "text": "Día 3 - Miércoles 27 de Agosto\n\n\n12:00pm - 1:00pm (UTC -3)\n\n\nKeynote de Apertura\n[Nombre del Speaker]\nTítulo de la presentación principal\n\n\n\n\n1:00pm - 2:00pm (UTC -3)\n\n\nSesión/mesa - título\n\nTítulo charla 1 - Autores\nTítulo charla 2 - Autores\nTítulo charla 3 - Autores\n\n\n\n\n\n2:00pm - 2:15pm (UTC -3)\n\n\nCoffee Break\n¿Hacemos alguna actividad para socializar en el break?\n\n\n\n\n2:15pm - 3:00pm (UTC -3)\n\n\nPanel de discusión Tema: Título del panel\nPanelistas: Nombres Modera: Nombre"
-  },
-  {
-    "objectID": "programa.html#research-software-latinoamérica-2026",
-    "href": "programa.html#research-software-latinoamérica-2026",
-    "title": "Programa de la Conferencia",
-    "section": "Research Software Latinoamérica 2026",
-    "text": "Research Software Latinoamérica 2026\nAsegura tu lugar en la I Conferencia de Software de Investigación de Latinoamérica\nInscribite ahora"
-  },
-  {
     "objectID": "llamado.html",
     "href": "llamado.html",
     "title": "Llamado a Presentación de Trabajos",
     "section": "",
-    "text": "Invitamos a presentar contribuciones a todas aquellas personas que participan en el ecosistema de software de investigación, incluyendo quienes desarrollan o mantienen software, realizan investigación, trabajan con datos (generación, gestión o análisis), brindan servicios de información y a bibliotecas, coordinan o impulsan comunidades, representan organismos financiadores o están comenzando su trayectoria como estudiantes."
-  },
-  {
-    "objectID": "llamado.html#fecha-límite-de-envío",
-    "href": "llamado.html#fecha-límite-de-envío",
-    "title": "Llamado a Presentación de Trabajos",
-    "section": "📅 Fecha límite de envío",
-    "text": "📅 Fecha límite de envío\n\n[FECHA LÍMITE POR DEFINIR]"
-  },
-  {
-    "objectID": "llamado.html#modalidades-de-presentación",
-    "href": "llamado.html#modalidades-de-presentación",
-    "title": "Llamado a Presentación de Trabajos",
-    "section": "Modalidades de Presentación",
-    "text": "Modalidades de Presentación\n\n\n📄 Charlas relámpago\nPresentación breve para compartir una idea nueva, trabajo en etapa inicial, lecciones aprendidas o un caso corto.\n\nDuración: 5 minutos\nExtensión del resumen: 250 palabras\n\n\n\nDemostraciones\nDemostración práctica de una herramienta, flujo de trabajo, plataforma o técnica, enfocada en su aplicación en el mundo real.\n\nDuración: 10 minutos\nExtensión del resumen: 250 palabras\n\n\n\nPresentación estándar\nDemostración práctica de una herramienta, flujo de trabajo, plataforma o técnica, enfocada en su aplicación en el mundo real.\n\nDuración: 15 minutos\nExtensión del resumen: 300-400 palabras\n\n\n\n🛠️ Talleres\nSesiones participativas para enseñar habilidades, herramientas o metodologías de forma práctica.\n\nDuración: 90 o 180 minutos\nExtensión de la propuesta: 400–600 palabras\nIncluir: Objetivos de aprendizaje, actividades y materiales necesarios"
-  },
-  {
-    "objectID": "llamado.html#temas-de-interés",
-    "href": "llamado.html#temas-de-interés",
-    "title": "Llamado a Presentación de Trabajos",
-    "section": "Temas de interés",
-    "text": "Temas de interés\nSe reciben propuestas alineadas con el tema central del encuentro, incluyendo (pero no limitándose a):\n\nEquidad, acceso y conocimiento\n\n\nAcceso equitativo a software e infraestructura de investigación\nSistemas de conocimiento indígenas, locales y culturalmente situados\nSoberanía de datos, gobernanza y ética en software científico\nAccesibilidad, multilingüismo y diseño inclusivo\n\n\nInfraestructura y plataformas\n\n\nNube, HPC e infraestructuras híbridas para investigación\nPlataformas compartidas y servicios regionales\nInfraestructura abierta, comunitaria o soberana\nCómo hacer más con recursos limitados\n\n\nReproducibilidad, principios FAIR y ciencia abierta\n\n\nFlujos de trabajo reproducibles y buenas prácticas\nImplementación práctica de principios FAIR para datos y software\nProveniencia, metadatos e integridad científica\nColaboración abierta y reutilización\n\n\nComunidad y colaboración\n\n\nConstrucción y sostenimiento de comunidades de software y RSE\nGobernanza comunitaria y liderazgo\nColaboración interinstitucional e interregional\nLecciones aprendidas desde las comunidades de práctica/la práctica comunitaria\n\n\nHabilidades, formación y carreras\n\n\nEnseñanza y aprendizaje de habilidades en software de investigación\nTrayectorias profesionales y reconocimiento de RSE\nMentoría, liderazgo y desarrollo de capacidades\nApoyo a profesionales en etapas tempranas\n\n\nAI and Emerging Tools\n\n\nIA y herramientas emergentes\nSoftware y flujos de trabajo potenciados por IA\nUso responsable y ético de IA\nAutomatización, agentes y tecnologías emergentes\nExperiencias reales y lecciones aprendidas\n\n\nSostenibilidad e impacto\n\n\nSostenibilidad del software más allá de los ciclos de financiamiento\nModelos de mantenimiento, soporte y gobernanza\nComputación ambientalmente responsable\nMedición y comunicación del impacto\n\n¿Tu trabajo no encaja exactamente en estas temáticas pero es relevante para la comunidad? Igualmente puedes enviarlo, el comité evaluará cada propuesta.\nNota: No se incluyen pósters en este llamado.\nSe alienta especialmente la participación de: - Personas que presentan por primera vez - Profesionales en etapas tempranas - Propuestas con enfoque comunitario"
-  },
-  {
-    "objectID": "llamado.html#instrucciones-para-la-presentación",
-    "href": "llamado.html#instrucciones-para-la-presentación",
-    "title": "Llamado a Presentación de Trabajos",
-    "section": "Instrucciones para la presentación",
-    "text": "Instrucciones para la presentación\n\nLa propuesta debe incluir:\n\nTítulo de la presentación\nTipo de presentación a la que se postula\nResumen según la extensión indicada para cada modalidad\n3 a 5 palabras clave\nNombre/s, afiliación/es, breve presentación (hasta 150 palabras) e información de contacto de los autores"
-  },
-  {
-    "objectID": "llamado.html#proceso-de-evaluación",
-    "href": "llamado.html#proceso-de-evaluación",
-    "title": "Llamado a Presentación de Trabajos",
-    "section": "Proceso de Evaluación",
-    "text": "Proceso de Evaluación\nLos trabajos serán evaluados por el Comité Científico(?) de la conferencia siguiendo estos criterios:\nLas propuestas serán evaluadas según:\n\nRelevancia con el tema propuesto para la RSLA26\nClaridad y coherencia del resumen\nAplicabilidad práctica e impacto potencial\nAlineación con los intereses de la comunidad de software de investigación\n\nInclusivity of speaker(s): Se alienta la participación de personas principiantes, profesionales en etapas tempranas, y personas que presenten temas introductorios y fundamentos del área. La conferencia promueve la diversidad de perspectivas y procura reducir las barreras de acceso para quienes presentan por primera vez.\nLa evaluación es anónima y por pares. Los autores recibirán retroalimentación de los revisores junto con la notificación de aceptación o rechazo."
-  },
-  {
-    "objectID": "llamado.html#fechas-importantes",
-    "href": "llamado.html#fechas-importantes",
-    "title": "Llamado a Presentación de Trabajos",
-    "section": "Fechas Importantes",
-    "text": "Fechas Importantes\n\n\n\nHito\nFecha\n\n\n\n\nApertura del envío de tutoriales y charlas\na confirmar\n\n\nInicio de las inscripciones\na confirmar\n\n\nCierre del envío de tutoriales y charlas\na confirmar\n\n\nNotificación de aceptación de tutoriales y charlas\na confirmar\n\n\nCierre de las inscripciones\na confirmar\n\n\nConferencia\n25-28 de agosto, 2026"
-  },
-  {
-    "objectID": "llamado.html#cómo-enviar-tu-trabajo",
-    "href": "llamado.html#cómo-enviar-tu-trabajo",
-    "title": "Llamado a Presentación de Trabajos",
-    "section": "Cómo Enviar tu Trabajo",
-    "text": "Cómo Enviar tu Trabajo\n\nA confirmar\nPlataforma a confirmar"
-  },
-  {
-    "objectID": "llamado.html#preguntas-frecuentes",
-    "href": "llamado.html#preguntas-frecuentes",
-    "title": "Llamado a Presentación de Trabajos",
-    "section": "Preguntas Frecuentes",
-    "text": "Preguntas Frecuentes\n\n¿Puedo enviar más de un trabajo?\nSí, cada autor puede enviar hasta dos propuestas como autor principal.\n\n\n¿Puedo presentar un trabajo en coautoría?\nSí, se admiten trabajos con múltiples autores. Uno de ellos deberá estar registrado en el evento para realizar la presentación.\n\n\n¿Los trabajos aceptados se publicarán?\nNo"
-  },
-  {
-    "objectID": "llamado.html#algo-de-texto",
-    "href": "llamado.html#algo-de-texto",
-    "title": "Llamado a Presentación de Trabajos",
-    "section": "Algo de texto",
-    "text": "Algo de texto\nAlgo de texto\nEnviar una propuesta"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Research Software Latinoamérica (RSLA26)",
-    "section": "",
-    "text": "25-28 de Agosto, 2026\n(Virtual)\nInscribite ahora"
-  },
-  {
-    "objectID": "index.html#sobre-la-conferencia",
-    "href": "index.html#sobre-la-conferencia",
-    "title": "Research Software Latinoamérica (RSLA26)",
-    "section": "Sobre la Conferencia",
-    "text": "Sobre la Conferencia\nA modificar. Tomado del documento GSRS-0021\nResearch Software Latinoamérica (RSLA26) es un espacio de encuentro para quienes desarrollan, utilizan, mantienen y sostienen software de investigación en América Latina. La conferencia busca fortalecer el ecosistema regional de software científico, promoviendo el intercambio de experiencias, la colaboración y la construcción de comunidades.\nEn 2026, RSLA26 forma parte de un grupo coordinado de conferencias del Sur Global, que se celebrarán en Asia, Australia, Nueva Zelanda, África y América Latina durante las mismas fechas. En conjunto, estos eventos buscan generar espacios para conversaciones regionales, al tiempo que promueven el intercambio global.\nEl tema de este año….\n\n¿Por qué asistir?\n[Completar]\n\n\nVer Programa completo Inscripción"
-  },
-  {
-    "objectID": "index.html#fechas-importantes",
-    "href": "index.html#fechas-importantes",
-    "title": "Research Software Latinoamérica (RSLA26)",
-    "section": "Fechas importantes",
-    "text": "Fechas importantes\n\n\n\nHito\nFecha\n\n\n\n\nApertura del envío de tutoriales y charlas\na confirmar\n\n\nInicio de las inscripciones\na confirmar\n\n\nCierre del envío de tutoriales y charlas\na confirmar\n\n\nNotificación de aceptación de tutoriales y charlas\na confirmar\n\n\nCierre de las inscripciones\na confirmar\n\n\nConferencia\n25-28 de agosto, 2026\n\n\n\nEnviar Propuesta"
-  },
-  {
-    "objectID": "index.html#sponsors-y-comunidades-amigas",
-    "href": "index.html#sponsors-y-comunidades-amigas",
-    "title": "Research Software Latinoamérica (RSLA26)",
-    "section": "Sponsors y comunidades amigas",
-    "text": "Sponsors y comunidades amigas\nAgradecemos a las organizaciones que hacen posible este evento.\n\n\nPlatinum\n\n \n\n\n\nGold\n\n \n\n\n\n\n¿Tu organización quiere ser parte? Escribinos para conocer las opciones de patrocinio"
-  },
-  {
-    "objectID": "novedades.html",
-    "href": "novedades.html",
-    "title": "Novedades",
-    "section": "",
-    "text": "Mantente al día con las últimas actualizaciones sobre la conferencia."
-  },
-  {
-    "objectID": "novedades.html#conocé-los-talleres-a-los-que-podés-inscribirte",
-    "href": "novedades.html#conocé-los-talleres-a-los-que-podés-inscribirte",
-    "title": "Novedades",
-    "section": "Conocé los talleres a los que podés inscribirte",
-    "text": "Conocé los talleres a los que podés inscribirte\nInformación de los tallers\nLos talleres tienen cupo limitado.\nVer programa completo"
-  },
-  {
-    "objectID": "novedades.html#confirmado-charla-plenaria-de-juan-de-los-palotes",
-    "href": "novedades.html#confirmado-charla-plenaria-de-juan-de-los-palotes",
-    "title": "Novedades",
-    "section": "Confirmado: Charla plenaria de Juan de los Palotes",
-    "text": "Confirmado: Charla plenaria de Juan de los Palotes\n¡Estamos emocionados de anunciar que Juan de los Palores, cargo/institución, será nuestra keynote speaker de apertura!\nMini bio\nSu presentación “título” abrirá la conferencia el 25 de agosto a las 12:00 PM (UTC -3).\nConoce más sobre las charlas plenarias"
-  },
-  {
-    "objectID": "novedades.html#últimos-días-para-la-presentación-de-trabajos",
-    "href": "novedades.html#últimos-días-para-la-presentación-de-trabajos",
-    "title": "Novedades",
-    "section": "¡Últimos días para la presentación de trabajos!",
-    "text": "¡Últimos días para la presentación de trabajos!\nAlgo de texto\nEnvia tu propuesta"
+    "text": "🚧 Sitio en construcción"
   },
   {
     "objectID": "registro.html",
     "href": "registro.html",
     "title": "Inscripción",
     "section": "",
-    "text": "Información sobre la inscripción"
+    "text": "🚧 Sitio en construcción"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Software Latinoamérica (RSLA26)",
+    "section": "",
+    "text": "25-28 de Agosto, 2026\n(Virtual)\nInscripción"
+  },
+  {
+    "objectID": "index.html#sobre-la-conferencia",
+    "href": "index.html#sobre-la-conferencia",
+    "title": "Research Software Latinoamérica (RSLA26)",
+    "section": "Sobre la Conferencia",
+    "text": "Sobre la Conferencia\nResearch Software Latinoamérica (RSLA26) es un espacio de encuentro para quienes desarrollan, utilizan, mantienen y sostienen software de investigación en América Latina. La conferencia busca fortalecer el ecosistema regional de software científico, promoviendo el intercambio de experiencias, la colaboración y la construcción de comunidades.\nEn 2026, RSLA26 forma parte de un grupo coordinado de conferencias Equitable global collaboration and opportunity in Research Software (Equersa), que se celebrarán en Asia, Australia, Nueva Zelanda, África y América Latina durante las mismas fechas. En conjunto, estos eventos buscan generar espacios para conversaciones regionales, al tiempo que promueven el intercambio global."
+  },
+  {
+    "objectID": "index.html#fechas-importantes",
+    "href": "index.html#fechas-importantes",
+    "title": "Research Software Latinoamérica (RSLA26)",
+    "section": "Fechas importantes",
+    "text": "Fechas importantes\n\n\n\n\n\n\n\n\n\nApertura\nCierre\n\n\n\n\nLlamado a presentaciones (charlas y tutoriales)\n23 de marzo\n24 de abril\n\n\nBecas de accesibilidad\n14 de mayo\n26 de junio\n\n\nMicro becas\n14 de mayo\n10 de julio\n\n\nBecas para tutoriales\n14 de mayo\n14 de agosto\n\n\nInscripción temprana\n15 de junio\n10 de julio\n\n\nInscripción estándar\n11 de julio\n14 de agosto\n\n\n\nEnviar Propuesta"
+  },
+  {
+    "objectID": "programa.html",
+    "href": "programa.html",
+    "title": "Programa de la Conferencia",
+    "section": "",
+    "text": "🚧 Sitio en construcción"
   }
 ]

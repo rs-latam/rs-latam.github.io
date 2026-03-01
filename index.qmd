@@ -12,88 +12,86 @@ page-layout: full
 25-28 de Agosto, 2026  
 (Virtual)
 
-[Inscribite ahora](registro.qmd){.btn .btn-primary .btn-lg}
+[Inscripción](registro.qmd){.btn .btn-primary .btn-lg}
 
 :::
 
 ## Sobre la Conferencia
 
-**A modificar. Tomado del documento [GSRS-0021](https://docs.google.com/document/d/1IQ2bgFbXNuVuQ7Q9ZHftK9iIAaHO-_O0xy5LKRYMTLA/edit?tab=t.0)**
-
 Research Software Latinoamérica (RSLA26) es un espacio de encuentro para quienes desarrollan, utilizan, mantienen y sostienen software de investigación en América Latina. La conferencia busca fortalecer el ecosistema regional de software científico, promoviendo el intercambio de experiencias, la colaboración y la construcción de comunidades.
 
-En 2026, RSLA26 forma parte de un grupo coordinado de conferencias del Sur Global, que se celebrarán en Asia, Australia, Nueva Zelanda, África y América Latina durante las mismas fechas. En conjunto, estos eventos buscan generar espacios para conversaciones regionales, al tiempo que promueven el intercambio global.
-
-El tema de este año….
+En 2026, RSLA26 forma parte de un grupo coordinado de conferencias [Equitable global collaboration and opportunity in Research Software (Equersa)](https://equersa.org/), que se celebrarán en Asia, Australia, Nueva Zelanda, África y América Latina durante las mismas fechas. En conjunto, estos eventos buscan generar espacios para conversaciones regionales, al tiempo que promueven el intercambio global.
 
 
 
+<!-- ::: {.card} -->
 
-::: {.card}
+<!-- ### ¿Por qué asistir? -->
 
-### ¿Por qué asistir?
-
-[Completar]
-
-
-:::
+<!-- [Completar] -->
 
 
-::: {.cta-section}
+<!-- ::: -->
 
-[Ver Programa completo](programa.qmd){.btn .btn-light .btn-lg style="margin: 1rem;"}
-[Inscripción](registro.qmd){.btn .btn-light .btn-lg}
-:::
+
 
 
 ::: {style="margin-top: 3rem; padding: 2rem; background: #f8f8f8; border-radius: 8px;"}
 
 ## Fechas importantes
 
-| Hito | Fecha |
-|------|-------|
-| Apertura del envío de tutoriales y charlas | a confirmar |
-| Inicio de las inscripciones | a confirmar |
-| Cierre del envío de tutoriales y charlas | a confirmar |
-| Notificación de aceptación de tutoriales y charlas | a confirmar |
-| Cierre de las inscripciones | a confirmar |
-| Conferencia | 25-28 de agosto, 2026 |
+|  | Apertura | Cierre |
+|------|-------|------|
+| Llamado a presentaciones (charlas y tutoriales) | 23 de marzo | 24 de abril |
+| Becas de accesibilidad |  14 de mayo | 26 de junio |
+| Micro becas | 14 de mayo | 10 de julio |
+| Becas para tutoriales | 14 de mayo | 14 de agosto |
+| Inscripción temprana | 15 de junio | 10 de julio |
+| Inscripción estándar | 11 de julio | 14 de agosto |
 
 
 
-[Enviar Propuesta](){.btn .btn-primary}
-
-:::
-
----
-
-## Sponsors y comunidades amigas
-
-Agradecemos a las organizaciones que hacen posible este evento.
-
-::: {.sponsors-section}
-
-::: {.sponsor-tier}
-#### Platinum
-::: {.sponsor-grid .sponsor-grid-platinum}
-[![Sponsor Platinum 1](https://placehold.co/400)]()
-[![Sponsor Platinum 2](https://placehold.co/400)]()
-:::
-:::
-
-
-::: {.sponsor-tier}
-#### Gold
-::: {.sponsor-grid .sponsor-grid-gold}
-
-[![Sponsor Gold 1](https://placehold.co/400)]()
-[![Sponsor Gold 2](https://placehold.co/400)]()
-
-:::
-:::
+[Enviar Propuesta](llamado.qmd){.btn .btn-primary}
 
 :::
 
-::: {style="text-align: center; margin-top: 1.5rem;"}
-¿Tu organización quiere ser parte? [Escribinos para conocer las opciones de patrocinio](){.btn .btn-primary}
-:::
+
+<!-- ::: {.cta-section} -->
+
+<!-- [Programa](programa.qmd){.btn .btn-light .btn-lg} -->
+<!-- [Inscripción](registro.qmd){.btn .btn-light .btn-lg} -->
+
+<!-- ::: -->
+
+<!-- --- -->
+
+<!-- ## Sponsors y comunidades amigas -->
+
+<!-- Agradecemos a las organizaciones que hacen posible este evento. -->
+
+<!-- ::: {.sponsors-section} -->
+
+<!-- ::: {.sponsor-tier} -->
+<!-- #### Platinum -->
+<!-- ::: {.sponsor-grid .sponsor-grid-platinum} -->
+<!-- [![Sponsor Platinum 1](https://placehold.co/400)]() -->
+<!-- [![Sponsor Platinum 2](https://placehold.co/400)]() -->
+<!-- ::: -->
+<!-- ::: -->
+
+
+<!-- ::: {.sponsor-tier} -->
+<!-- #### Gold -->
+<!-- ::: {.sponsor-grid .sponsor-grid-gold} -->
+
+<!-- [![Sponsor Gold 1](https://placehold.co/400)]() -->
+<!-- [![Sponsor Gold 2](https://placehold.co/400)]() -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: -->
+
+<!-- ::: {style="text-align: center; margin-top: 1.5rem;"} -->
+<!-- ¿Tu organización quiere ser parte? [Escribinos para conocer las opciones de patrocinio](){.btn .btn-primary} -->
+<!-- ::: -->

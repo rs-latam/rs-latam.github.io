@@ -1,6 +1,12 @@
 project:
   type: website
+  render:
+    - index.qmd
+    - registro.qmd
+    - programa.qmd
+    - llamado.qmd
   output-dir: _site
+  
 
 website:
   title: "RSLA26"
@@ -10,21 +16,20 @@ website:
     left:
       - text: "Inicio"
         href: index.qmd
-      - text: "Programa"
-        href: programa.qmd
-      - text: "Ponentes"
-        href: speakers.qmd
-      - text: "Inscripción"
-        href: registro.qmd
-      - text: "Presentación de trabajos"
-        href: llamado.qmd
-      - text: "Novedades"
-        href: novedades.qmd
+      # - text: "Programa"
+      #   href: programa.qmd
+      # - text: "Ponentes"
+      #   href: speakers.qmd
+      # - text: "Inscripción"
+      #   href: registro.qmd
+      # - text: "Presentación de trabajos"
+      #   href: llamado.qmd
+      # - text: "Novedades"
+      #   href: novedades.qmd
     right:
       - icon: github
         href: https://github.com/rs-latam
-      - icon: twitter
-        href: https://twitter.com/
+
   
   page-footer:
     background: "#7C004C"
