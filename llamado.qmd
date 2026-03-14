@@ -2,226 +2,193 @@
 title: "Llamado a Presentación de Trabajos"
 ---
 
-::: {style="font-size: 3rem; text-align: center;"}
-🚧 Sitio en construcción
+Invitamos a presentar contribuciones a todas aquellas personas que participan en el ecosistema de software de investigación, incluyendo quienes desarrollan o mantienen software, realizan investigación, trabajan con datos (generación, gestión o análisis), brindan servicios de información y a bibliotecas, coordinan o impulsan comunidades, representan organismos financiadores o están comenzando su trayectoria como estudiantes.
+
+::: {.cta-section}
+
+## 📅 Fecha límite de envío
+
+### 1 de mayo, 2026
+
+
+:::
+
+---
+
+
+## Modalidades de Presentación
+
+::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;"}
+
+::: {.card}
+
+
+
+
+
+
+
+### 📄 Charlas relámpago
+
+Presentación breve para compartir una idea nueva, trabajo en etapa inicial, lecciones aprendidas o un caso corto.
+
+- **Duración:** 5 minutos
+
+:::
+
+::: {.card}
+
+### Demostración
+
+Demostración práctica de una herramienta, flujo de trabajo, plataforma o técnica, enfocada en su aplicación en el mundo real.
+
+- **Duración:** 10 minutos + 5 minutos de preguntas
+
+:::
+
+::: {.card}
+
+### Presentación oral
+
+Presentación de conferencia tradicional que permite desarrollar un tema con mayor profundidad. 
+
+
+- **Duración:** 15 minutos + 5 minutos de preguntas
+
+
 :::
 
 
+:::
 
-<!-- Invitamos a presentar contribuciones a todas aquellas personas que participan en el ecosistema de software de investigación, incluyendo quienes desarrollan o mantienen software, realizan investigación, trabajan con datos (generación, gestión o análisis), brindan servicios de información y a bibliotecas, coordinan o impulsan comunidades, representan organismos financiadores o están comenzando su trayectoria como estudiantes. -->
+---
 
-<!-- ::: {.cta-section} -->
+## Temas de interés
 
-<!-- ## 📅 Fecha límite de envío -->
+Se reciben propuestas alineadas con el tema central del encuentro, incluyendo (pero no limitándose a):
 
-<!-- ### 24 de abril, 2026 -->
+- Reproducibilidad, principios FAIR y ciencia abierta
+- Desarrollo de redes y comunidades de software y RSE
+- Enseñanza y aprendizaje de habilidades en software de investigación
+- Trayectorias profesionales y reconocimiento de RSE
+- Uso responsable y ético de IA para software de investigación (ejemplos, retos, flujos de trabajo)
+- Soberanía de datos, gobernanza y ética en software de investigación
+- Infraestructura y plataformas regionales para el software de investigación
+- Sostenibilidad del software de investigación: financiamiento, políticas nacionales e institucionales, gobernanza y mantenimiento
+- Impacto responsable y medible en contextos sociales y ambientales
+- Estudios de caso, aplicaciones o implementaciones de software de investigación en distintas disciplinas 
+- Acceso equitativo a software e infraestructura de investigación: accesibilidad, multilingüismo, sistemas de conocimiento.
 
 
-<!-- ::: -->
+Se alienta especialmente la participación de:
+- Personas que presentan por primera vez
+- Profesionales en etapas tempranas
+- Propuestas con enfoque comunitario
 
-<!-- --- -->
 
-<!-- ## Modalidades de Presentación -->
 
-<!-- ::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;"} -->
 
-<!-- ::: {.card} -->
+---
 
-<!-- ### 📄 Charlas relámpago -->
+## Instrucciones para la presentación
 
-<!-- Presentación breve para compartir una idea nueva, trabajo en etapa inicial, lecciones aprendidas o un caso corto.  -->
 
-<!-- - **Duración:** 5 minutos -->
-<!-- - **Extensión del resumen:** 250 palabras -->
+::: {.card}
 
-<!-- ::: -->
+La propuesta debe incluir:
 
-<!-- ::: {.card} -->
+1. **Título** de la presentación
+2. **Tipo de presentación** (ver opciones mencionadas en el punto anterior)
+3. **Resumen** (entre 200-300 palabras)
+4. **Prerrequisitos:** habilidades o conocimiento que la audiencia necesita para participar plenamente de la sesión (100 palabras)
+5. **Aprendizajes** qué se llevará la audiencia de la presentación (100 palabras)
+5. **Accesibilidad:** cómo se asegurará que el contenido sea accesible para quienes participan en la conferencia 
+6. **Información de quien presenta** (nombre, afiliación, breve biografía de hasta 150 palabras, información de contacto)
 
-<!-- ### Demostraciones -->
+Las propuestas deben explicar claramente qué aprenderá la audiencia y  cómo se conecta la presentación con la práctica o comunidad de software de investigación. No es necesario que el proyecto esté finalizado. Se aceptan trabajos en progreso, reflexiones críticas y aprendizajes.
 
-<!-- Demostración práctica de una herramienta, flujo de trabajo, plataforma o técnica, enfocada en su aplicación en el mundo real.  -->
 
-<!-- - **Duración:** 10 minutos -->
-<!-- - **Extensión del resumen:** 250 palabras -->
 
-<!-- ::: -->
+:::
 
-<!-- ::: {.card} -->
+---
 
-<!-- ### Presentación estándar -->
+## Proceso de Evaluación
 
-<!-- Demostración práctica de una herramienta, flujo de trabajo, plataforma o técnica, enfocada en su aplicación en el mundo real.  -->
+Las propuestas serán evaluadas según:
 
-<!-- - **Duración:** 15 minutos -->
-<!-- - **Extensión del resumen:** 300-400 palabras -->
+- Relevancia con el tema propuesto para la RSLA26
+- Claridad y coherencia del resumen
+- Aplicabilidad práctica e impacto potencial
 
-<!-- ::: -->
+Se alienta la participación de personas principiantes, profesionales en etapas tempranas, y personas que presenten temas introductorios y fundamentos del área. La conferencia promueve la diversidad de perspectivas y procura reducir las barreras de acceso para quienes presentan por primera vez.
 
-<!-- ::: {.card} -->
 
-<!-- ### 🛠️ Talleres -->
+---
 
-<!-- Sesiones participativas para enseñar habilidades, herramientas o metodologías de forma práctica. -->
+## Fechas importantes
 
-<!-- - **Duración:** 90 o 180 minutos -->
-<!-- - **Extensión de la propuesta:** 400–600 palabras -->
-<!-- - **Incluir:** Objetivos de aprendizaje, actividades y materiales necesarios -->
 
-<!-- ::: -->
+|  | Apertura | Cierre |
+|------|-------|------|
+| Llamado a presentaciones | 30 de marzo | 1 de mayo |
+| Becas de accesibilidad |  14 de mayo | 26 de junio |
+| Notificación de presentaciones | 7 de julio | --- |
+| Micro becas | 14 de mayo | 10 de julio |
+| Becas para tutoriales | 14 de mayo | 14 de agosto |
+| Inscripción temprana | 15 de junio | 10 de julio |
+| Inscripción estándar | 11 de julio | 14 de agosto |
+| Conferencia | 25 de agosto | 28 d agosto |
 
-<!-- ::: -->
+---
 
-<!-- --- -->
+## Cómo Enviar tu Trabajo
 
-<!-- ## Temas de interés -->
+::: {style="padding: 2rem; background: #f8f8f8; border-left: 4px solid #7C004C; border-radius: 0 8px 8px 0; margin: 2rem 0;"}
 
-<!-- Se reciben propuestas alineadas con el tema central del encuentro, incluyendo (pero no limitándose a): -->
 
-<!-- 1. Equidad, acceso y conocimiento -->
-<!-- - Acceso equitativo a software e infraestructura de investigación -->
-<!-- - Sistemas de conocimiento indígenas, locales y culturalmente situados -->
-<!-- - Soberanía de datos, gobernanza y ética en software científico -->
-<!-- - Accesibilidad, multilingüismo y diseño inclusivo -->
+Plataforma a confirmar
 
-<!-- 2. Infraestructura y plataformas -->
-<!-- - Nube, HPC e infraestructuras híbridas para investigación -->
-<!-- - Plataformas compartidas y servicios regionales -->
-<!-- - Infraestructura abierta, comunitaria o soberana -->
-<!-- - Cómo hacer más con recursos limitados -->
+:::
 
-<!-- 3. Reproducibilidad, principios FAIR y ciencia abierta -->
-<!-- - Flujos de trabajo reproducibles y buenas prácticas -->
-<!-- - Implementación práctica de principios FAIR para datos y software -->
-<!-- - Proveniencia, metadatos e integridad científica -->
-<!-- - Colaboración abierta y reutilización -->
+---
 
-<!-- 4. Comunidad y colaboración -->
-<!-- - Construcción y sostenimiento de comunidades de software y RSE -->
-<!-- - Gobernanza comunitaria y liderazgo -->
-<!-- - Colaboración interinstitucional e interregional -->
-<!-- - Lecciones aprendidas desde las comunidades de práctica/la práctica comunitaria -->
+## Código de conducta
 
-<!-- 5. Habilidades, formación y carreras -->
-<!-- - Enseñanza y aprendizaje de habilidades en software de investigación -->
-<!-- - Trayectorias profesionales y reconocimiento de RSE -->
-<!-- - Mentoría, liderazgo y desarrollo de capacidades -->
-<!-- - Apoyo a profesionales en etapas tempranas -->
+RSLA26 se compromete a ofrecer un entorno seguro, inclusivo y respetuoso. Todas las personas participantes deberán adherir al [Código de Conducta del evento](coc.qmd).
 
-<!-- 6. AI and Emerging Tools -->
-<!-- - IA y herramientas emergentes -->
-<!-- - Software y flujos de trabajo potenciados por IA -->
-<!-- - Uso responsable y ético de IA -->
-<!-- - Automatización, agentes y tecnologías emergentes -->
-<!-- - Experiencias reales y lecciones aprendidas -->
 
-<!-- 7. Sostenibilidad e impacto -->
-<!-- - Sostenibilidad del software más allá de los ciclos de financiamiento -->
-<!-- - Modelos de mantenimiento, soporte y gobernanza -->
-<!-- - Computación ambientalmente responsable -->
-<!-- - Medición y comunicación del impacto -->
 
-<!-- **¿Tu trabajo no encaja exactamente en estas temáticas pero es relevante para la comunidad?** Igualmente puedes enviarlo, el comité evaluará cada propuesta. -->
+---
 
-<!-- *Nota: No se incluyen pósters en este llamado.* -->
+## Preguntas Frecuentes
 
-<!-- Se alienta especialmente la participación de: -->
-<!-- - Personas que presentan por primera vez -->
-<!-- - Profesionales en etapas tempranas -->
-<!-- - Propuestas con enfoque comunitario -->
+::: {.card}
+**¿Puedo enviar más de un trabajo?**
 
+Sí, cada autor puede enviar hasta dos propuestas como autor principal.
+:::
 
+::: {.card}
+**¿Puedo presentar un trabajo en coautoría?**
 
+Sí, se admiten trabajos con múltiples autores. Uno de ellos deberá estar registrado en el evento para realizar la presentación.
+:::
 
-<!-- --- -->
+::: {.card}
+**¿Los trabajos aceptados se publicarán?**
 
-<!-- ## Instrucciones para la presentación -->
+No
 
+:::
 
-<!-- ::: {.card} -->
 
-<!-- La propuesta debe incluir: -->
+---
 
-<!-- 1. **Título** de la presentación -->
-<!-- 2. **Tipo de presentación** a la que se postula -->
-<!-- 3. **Resumen** según la extensión indicada para cada modalidad -->
-<!-- 4. **3 a 5 palabras clave** -->
-<!-- 5. **Nombre/s, afiliación/es, breve presentación (hasta 150 palabras) e información de contacto** de los autores -->
+::: {.cta-section}
+## Algo de texto
 
-<!-- ::: -->
+Algo de texto
 
-<!-- --- -->
-
-<!-- ## Proceso de Evaluación -->
-
-<!-- Los trabajos serán evaluados por el **Comité Científico(?)** de la conferencia siguiendo estos criterios: -->
-
-<!-- Las propuestas serán evaluadas según: -->
-
-<!-- - Relevancia con el tema propuesto para la RSLA26 -->
-<!-- - Claridad y coherencia del resumen -->
-<!-- - Aplicabilidad práctica e impacto potencial -->
-<!-- - Alineación con los intereses de la comunidad de software de investigación -->
-
-<!-- Inclusivity of speaker(s): Se alienta la participación de personas principiantes, profesionales en etapas tempranas, y personas que presenten temas introductorios y fundamentos del área. La conferencia promueve la diversidad de perspectivas y procura reducir las barreras de acceso para quienes presentan por primera vez. -->
-
-
-<!-- La evaluación es **anónima y por pares**. Los autores recibirán retroalimentación de los revisores junto con la notificación de aceptación o rechazo. -->
-
-<!-- --- -->
-
-<!-- ## Fechas Importantes -->
-
-<!-- | Hito | Fecha | -->
-<!-- |------|-------| -->
-<!-- | Apertura del envío de tutoriales y charlas | a confirmar | -->
-<!-- | Inicio de las inscripciones | a confirmar | -->
-<!-- | Cierre del envío de tutoriales y charlas | a confirmar | -->
-<!-- | Notificación de aceptación de tutoriales y charlas | a confirmar | -->
-<!-- | Cierre de las inscripciones | a confirmar | -->
-<!-- | Conferencia | 25-28 de agosto, 2026 | -->
-
-<!-- --- -->
-
-<!-- ## Cómo Enviar tu Trabajo -->
-
-<!-- ::: {style="padding: 2rem; background: #f8f8f8; border-left: 4px solid #7C004C; border-radius: 0 8px 8px 0; margin: 2rem 0;"} -->
-<!-- ### A confirmar -->
-
-<!-- Plataforma a confirmar -->
-
-<!-- ::: -->
-
-<!-- --- -->
-
-<!-- ## Preguntas Frecuentes -->
-
-<!-- ::: {.card} -->
-<!-- **¿Puedo enviar más de un trabajo?** -->
-
-<!-- Sí, cada autor puede enviar hasta dos propuestas como autor principal. -->
-<!-- ::: -->
-
-<!-- ::: {.card} -->
-<!-- **¿Puedo presentar un trabajo en coautoría?** -->
-
-<!-- Sí, se admiten trabajos con múltiples autores. Uno de ellos deberá estar registrado en el evento para realizar la presentación. -->
-<!-- ::: -->
-
-<!-- ::: {.card} -->
-<!-- **¿Los trabajos aceptados se publicarán?** -->
-
-<!-- No -->
-
-<!-- ::: -->
-
-
-<!-- --- -->
-
-<!-- ::: {.cta-section} -->
-<!-- ## Algo de texto -->
-
-<!-- Algo de texto -->
-
-<!-- [Enviar una propuesta](){.btn .btn-light .btn-lg} -->
-<!-- ::: -->
+[Enviar una propuesta](){.btn .btn-light .btn-lg}
+:::

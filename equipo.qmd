@@ -1,0 +1,8 @@
+---
+title: "Equipo"
+editor: visual
+---
+
+::: {style="font-size: 3rem; text-align: center;"}
+🚧 Sitio en construcción
+:::

@@ -12,7 +12,7 @@ page-layout: full
 25-28 de Agosto, 2026  
 (Virtual)
 
-[Inscripción](registro.qmd){.btn .btn-primary .btn-lg}
+[Presentación de trabajos](llamado.qmd){.btn .btn-primary .btn-lg}
 
 :::
 
@@ -20,18 +20,23 @@ page-layout: full
 
 Research Software Latinoamérica (RSLA26) es un espacio de encuentro para quienes desarrollan, utilizan, mantienen y sostienen software de investigación en América Latina. La conferencia busca fortalecer el ecosistema regional de software científico, promoviendo el intercambio de experiencias, la colaboración y la construcción de comunidades.
 
-En 2026, RSLA26 forma parte de un grupo coordinado de conferencias [Equitable global collaboration and opportunity in Research Software (Equersa)](https://equersa.org/), que se celebrarán en Asia, Australia, Nueva Zelanda, África y América Latina durante las mismas fechas. En conjunto, estos eventos buscan generar espacios para conversaciones regionales, al tiempo que promueven el intercambio global.
+En 2026, RSLA26 forma parte de un grupo coordinado de conferencias del Sur Global, [Equitable global collaboration and opportunity in Research Software (Equersa)](https://equersa.org/), que se celebrarán en Asia, Australia, Nueva Zelanda, África y América Latina durante las mismas fechas. En conjunto, estos eventos buscan generar espacios para conversaciones regionales, al tiempo que promueven el intercambio global.
+
+En esta primera edición, RSLA busca generar espacios de diálogo sobre la construcción de soberanía tecnológica y la promoción del software de investigación para la ciencia abierta y soberana en América Latina. 
+
+Invitamos a presentar contribuciones a todas aquellas personas que participan en el ecosistema de software de investigación, incluyendo quienes desarrollan o mantienen software, realizan investigación, trabajan con datos (generación, gestión o análisis), brindan servicios de información y bibliotecas, coordinan o impulsan comunidades, representan organismos financiadores o están comenzando su trayectoria como estudiantes.
 
 
+::: {.card}
 
-<!-- ::: {.card} -->
+### ¿Por qué participar en RSLA26?
 
-<!-- ### ¿Por qué asistir? -->
+- Formar parte de una red global conectada
+- Compartir tu trabajo con una audiencia colaborativa y comunitaria
+- Aprender de profesionales de software de investigación de distintas regiones
+- Contribuir al desarrollo del ecosistema de software científico en América Latina y el Sur Global
 
-<!-- [Completar] -->
-
-
-<!-- ::: -->
+:::
 
 
 
@@ -42,56 +47,66 @@ En 2026, RSLA26 forma parte de un grupo coordinado de conferencias [Equitable gl
 
 |  | Apertura | Cierre |
 |------|-------|------|
-| Llamado a presentaciones (charlas y tutoriales) | 23 de marzo | 24 de abril |
+| Llamado a presentaciones | 30 de marzo | 1 de mayo |
 | Becas de accesibilidad |  14 de mayo | 26 de junio |
+| Notificación de presentaciones | 7 de julio | --- |
 | Micro becas | 14 de mayo | 10 de julio |
 | Becas para tutoriales | 14 de mayo | 14 de agosto |
 | Inscripción temprana | 15 de junio | 10 de julio |
 | Inscripción estándar | 11 de julio | 14 de agosto |
-
+| Conferencia | 25 de agosto | 28 d agosto |
 
 
 [Enviar Propuesta](llamado.qmd){.btn .btn-primary}
 
 :::
 
+---
 
-<!-- ::: {.cta-section} -->
+## Sponsors
 
-<!-- [Programa](programa.qmd){.btn .btn-light .btn-lg} -->
-<!-- [Inscripción](registro.qmd){.btn .btn-light .btn-lg} -->
+Agradecemos a las organizaciones que hacen posible este evento.
 
-<!-- ::: -->
+::: {.sponsors-section}
 
-<!-- --- -->
+::: {.sponsor-tier}
 
-<!-- ## Sponsors y comunidades amigas -->
+::: {.sponsor-grid .sponsor-grid-platinum}
 
-<!-- Agradecemos a las organizaciones que hacen posible este evento. -->
+[![Sponsor 1](https://placehold.co/400)]()
+[![Sponsor 2](https://placehold.co/400)]()
+[![Sponsor 3](https://placehold.co/400)]()
 
-<!-- ::: {.sponsors-section} -->
+:::
 
-<!-- ::: {.sponsor-tier} -->
-<!-- #### Platinum -->
-<!-- ::: {.sponsor-grid .sponsor-grid-platinum} -->
-<!-- [![Sponsor Platinum 1](https://placehold.co/400)]() -->
-<!-- [![Sponsor Platinum 2](https://placehold.co/400)]() -->
-<!-- ::: -->
-<!-- ::: -->
+:::
+
+:::
 
 
-<!-- ::: {.sponsor-tier} -->
-<!-- #### Gold -->
-<!-- ::: {.sponsor-grid .sponsor-grid-gold} -->
+::: {style="text-align: center; margin-top: 1.5rem;"}
+¿Tu organización quiere ser parte? Escribinos a [mail a confirmar]() para conocer las opciones de patrocinio(){.btn .btn-primary}
+:::
 
-<!-- [![Sponsor Gold 1](https://placehold.co/400)]() -->
-<!-- [![Sponsor Gold 2](https://placehold.co/400)]() -->
+## Comunidades vinculadas a software de investigación en Latinoamérica
 
-<!-- ::: -->
-<!-- ::: -->
+::: {.sponsors-section}
 
-<!-- ::: -->
+::: {.sponsor-tier}
 
-<!-- ::: {style="text-align: center; margin-top: 1.5rem;"} -->
-<!-- ¿Tu organización quiere ser parte? [Escribinos para conocer las opciones de patrocinio](){.btn .btn-primary} -->
-<!-- ::: -->
+::: {.sponsor-grid .sponsor-grid-platinum}
+
+[![Comunidad 1](https://placehold.co/400)]()
+[![Comunidad 2](https://placehold.co/400)]()
+[![Comunidad 3](https://placehold.co/400)]()
+
+:::
+
+:::
+
+:::
+
+
+::: {style="text-align: center; margin-top: 1.5rem;"}
+¿Tu comunidad quiere ser parte? Escribinos a [mail a confirmar]() para conocer como sumarla a nuestra sección de comunidades amigas{.btn .btn-primary}
+:::

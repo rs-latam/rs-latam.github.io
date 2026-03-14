@@ -5,6 +5,8 @@ project:
     - registro.qmd
     - programa.qmd
     - llamado.qmd
+    - equipo.qmd
+    - coc.qmd
   output-dir: _site
   
 
@@ -16,14 +18,19 @@ website:
     left:
       - text: "Inicio"
         href: index.qmd
-      # - text: "Programa"
-      #   href: programa.qmd
       # - text: "Ponentes"
       #   href: speakers.qmd
       # - text: "Inscripción"
       #   href: registro.qmd
-      # - text: "Presentación de trabajos"
-      #   href: llamado.qmd
+      - text: "Presentación de trabajos"
+        href: llamado.qmd
+      - text: "Equipo"
+        href: equipo.qmd
+      - text: "Programa"
+        href: programa.qmd  
+      - text: "Código de conducta"
+        href: coc.qmd
+      
       # - text: "Novedades"
       #   href: novedades.qmd
     right:
