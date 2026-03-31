@@ -189,6 +189,7 @@ No
 ## ¡Esperamos sus propuestas!
 
 La fecha límite de envío es el 31 de mayo de 2026  
+  
 [Envía tu propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
 
 :::
