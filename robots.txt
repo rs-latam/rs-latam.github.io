@@ -1,1 +1,1 @@
-Sitemap: https://rs-latam.github.io/sitemap.xml
+Sitemap: https://rs-latam.org/sitemap.xml
