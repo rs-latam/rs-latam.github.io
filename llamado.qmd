@@ -1,5 +1,5 @@
 ---
-title: "Llamado a Presentación de Trabajos"
+title: "Llamado a presentación de trabajos"
 ---
 
 Invitamos a presentar contribuciones a todas aquellas personas que participan en el ecosistema de software de investigación, incluyendo quienes desarrollan o mantienen software, realizan investigación, trabajan con datos (generación, gestión o análisis), brindan servicios de información y a bibliotecas, coordinan o impulsan comunidades, representan organismos financiadores o están comenzando su trayectoria como estudiantes.
@@ -10,13 +10,14 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 
 ### 1 de mayo, 2026
 
+[Envía tu propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
 
 :::
 
 ---
 
 
-## Modalidades de Presentación
+## Modalidades de presentación
 
 ::: {style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;"}
 
@@ -111,7 +112,7 @@ Las propuestas deben explicar claramente qué aprenderá la audiencia y  cómo s
 
 ---
 
-## Proceso de Evaluación
+## Proceso de evaluación
 
 Las propuestas serán evaluadas según:
 
@@ -140,7 +141,7 @@ Se alienta la participación de personas principiantes, profesionales en etapas 
 
 ---
 
-## Cómo Enviar tu Trabajo
+## Cómo enviar tu trabajo
 
 ::: {style="padding: 2rem; background: #f8f8f8; border-left: 4px solid #7C004C; border-radius: 0 8px 8px 0; margin: 2rem 0;"}
 
@@ -159,7 +160,7 @@ RSLA26 se compromete a ofrecer un entorno seguro, inclusivo y respetuoso. Todas 
 
 ---
 
-## Preguntas Frecuentes
+## Preguntas frecuentes
 
 ::: {.card}
 **¿Puedo enviar más de un trabajo?**
@@ -184,8 +185,7 @@ No
 ---
 
 ::: {.cta-section}
-## Envía tu propuesta
 
+[Envía tu propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
 
-[Enviar una propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
 :::
