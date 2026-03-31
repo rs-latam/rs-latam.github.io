@@ -8,7 +8,7 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 
 ## 📅 Fecha límite de envío
 
-### 1 de mayo, 2026
+### 31 de mayo, 2026
 
 [Envía tu propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
 
@@ -130,7 +130,7 @@ Se alienta la participación de personas principiantes, profesionales en etapas 
 
 |  | Apertura | Cierre |
 |------|-------|------|
-| Llamado a presentaciones | 30 de marzo | 1 de mayo |
+| Llamado a presentaciones | 1 de abril | 31 de mayo |
 | Becas de accesibilidad |  14 de mayo | 26 de junio |
 | Notificación de presentaciones | 7 de julio | --- |
 | Micro becas | 14 de mayo | 10 de julio |
@@ -186,6 +186,9 @@ No
 
 ::: {.cta-section}
 
+##¡Esperamos sus propuestas!
+
+La fecha límite de envío es el 31 de mayo de 2026  
 [Envía tu propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
 
 :::
