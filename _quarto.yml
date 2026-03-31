@@ -3,7 +3,6 @@ project:
   render:
     - index.qmd
     - registro.qmd
-    - programa.qmd
     - llamado.qmd
     - equipo.qmd
     - coc.qmd
@@ -26,8 +25,8 @@ website:
         href: llamado.qmd
       - text: "Equipo"
         href: equipo.qmd
-      - text: "Programa"
-        href: programa.qmd  
+     # - text: "Programa"
+     #   href: programa.qmd  
       - text: "Código de conducta"
         href: coc.qmd
       
