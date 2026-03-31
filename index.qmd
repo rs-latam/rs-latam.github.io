@@ -65,27 +65,10 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 
 ## Sponsors
 
-Agradecemos a las organizaciones que hacen posible este evento.
-
-::: {.sponsors-section}
-
-::: {.sponsor-tier}
-
-::: {.sponsor-grid .sponsor-grid-platinum}
-
-[![Sponsor 1](https://placehold.co/400)]()
-[![Sponsor 2](https://placehold.co/400)]()
-[![Sponsor 3](https://placehold.co/400)]()
-
-:::
-
-:::
-
-:::
-
-
 ::: {style="text-align: center; margin-top: 1.5rem;"}
-¿Tu organización quiere ser parte? Escribinos a [mail a confirmar]() para conocer las opciones de patrocinio(){.btn .btn-primary}
+
+¿Tu organización quiere ser parte? Escribí a [softwaredeinvestigacion@gmail.com](mailto:softwaredeinvestigacion@gmail.com) para conocer las opciones de patrocinio.
+
 :::
 
 ## Comunidades vinculadas a software de investigación en Latinoamérica
@@ -108,5 +91,7 @@ Agradecemos a las organizaciones que hacen posible este evento.
 
 
 ::: {style="text-align: center; margin-top: 1.5rem;"}
-¿Tu comunidad quiere ser parte? Escribinos a [mail a confirmar]() para conocer como sumarla a nuestra sección de comunidades amigas{.btn .btn-primary}
+
+¿Tu comunidad quiere ser parte? Escribí a [softwaredeinvestigacion@gmail.com](mailto:softwaredeinvestigacion@gmail.com) para conocer cómo sumarla a nuestra sección de comunidades amigas.
+
 :::
