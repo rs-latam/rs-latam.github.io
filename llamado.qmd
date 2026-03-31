@@ -163,21 +163,25 @@ RSLA26 se compromete a ofrecer un entorno seguro, inclusivo y respetuoso. Todas 
 ## Preguntas frecuentes
 
 ::: {.card}
+
 **¿Puedo enviar más de un trabajo?**
 
-Sí, cada autor puede enviar hasta dos propuestas como autor principal.
+Cada persona puede enviar una única propuesta como autora principal, pero puede participar de más propuestas como coautora.
+
 :::
 
 ::: {.card}
+
 **¿Puedo presentar un trabajo en coautoría?**
+Sí, se admiten trabajos con múltiples autorías. Una de las personas autoras deberá estar registrada en el evento para realizar la presentación.
 
-Sí, se admiten trabajos con múltiples autores. Uno de ellos deberá estar registrado en el evento para realizar la presentación.
 :::
 
 ::: {.card}
+
 **¿Los trabajos aceptados se publicarán?**
 
-No
+Los resúmenes aceptados quedarán disponibles públicamente en el sitio web de la conferencia, pero no se publicarán por fuera de ella.
 
 :::
 
@@ -186,10 +190,10 @@ No
 
 ::: {.cta-section}
 
-## ¡Esperamos sus propuestas!
+## ¡Esperamos tu propuesta!
 
 La fecha límite de envío es el 31 de mayo de 2026  
   
-[Envía tu propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
+[Envíar propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
 
 :::
