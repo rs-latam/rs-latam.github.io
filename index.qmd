@@ -73,12 +73,12 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 
 ## Comunidades vinculadas a software de investigación en Latinoamérica
 
-<a href="https://rse-chile.github.io/"><img height="120" alt="RSE Chile" src="images/rse-chile-cuadradito.png" /></a>
-<a href="https://rse-argentina.github.io/"><img height="120" alt="RSE Argentina" src="images/rse_arg.png" /></a>
-<a href="https://rladies.org/chapters/rladies-buenos-aires/"><img height="120" alt="R-Ladies Buenos Aires" src="images/rladies-ba-logo.png" /></a>
-<a href="https://rladies.org/chapters/rladies-valparaiso/"><img height="120" alt="R-Ladies Valparaíso" src="images/rladies-val-logo.png" /></a>
-<a href="https://www.meetup.com/es-es/rladies-scl/"><img height="120" alt="R-Ladies Santiago" src="images/rladies-santiago-logo.png" /></a>
-<a href="https://pyladies.cl/valparaiso/"><img height="120" alt="Pyladies Valparaíso" src="images/pyladies-val-logo.png" /></a>
+<a href="https://rse-chile.github.io/" target="_blank"><img height="120" alt="RSE Chile" src="images/rse-chile-cuadradito.png" style="margin-right: 10px; /></a>
+<a href="https://rse-argentina.github.io/" target="_blank"><img height="120" alt="RSE Argentina" src="images/rse_arg.png" style="margin-right: 10px; /></a>
+<a href="https://rladies.org/chapters/rladies-buenos-aires/" target="_blank"><img height="120" alt="R-Ladies Buenos Aires" src="images/rladies-ba-logo.png" style="margin-right: 10px; /></a>
+<a href="https://rladies.org/chapters/rladies-valparaiso/" target="_blank"><img height="120" alt="R-Ladies Valparaíso" src="images/rladies-val-logo.png" style="margin-right: 10px; /></a>
+<a href="https://www.meetup.com/es-es/rladies-scl/" target="_blank"><img height="120" alt="R-Ladies Santiago" src="images/rladies-santiago-logo.png" style="margin-right: 10px; /></a>
+<a href="https://pyladies.cl/valparaiso/" target="_blank"><img height="120" alt="Pyladies Valparaíso" src="images/pyladies-val-logo.png" style="margin-right: 10px; /></a>
 
 
 
