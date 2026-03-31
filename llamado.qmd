@@ -24,10 +24,6 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 
 
 
-El idioma oficial de la conferencia es el español, pero también se pueden enviar propuestas en portugués o inglés. El resumen debe escribirse en el idioma en que se realizará la charla o demostración. 
-
-
-
 ### 📄 Charlas relámpago
 
 Presentación breve para compartir una idea nueva, trabajo en etapa inicial, lecciones aprendidas o un caso corto.
@@ -61,7 +57,8 @@ Presentación de conferencia tradicional que permite desarrollar un tema con may
 
 :::
 
----
+El idioma oficial de la conferencia es el español, pero también se pueden enviar propuestas en portugués o inglés. El resumen debe escribirse en el idioma en que se realizará la charla o demostración. 
+
 
 ## Temas de interés
 
