@@ -24,7 +24,7 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 
 
 
-### 📄 Charlas relámpago
+### Charlas relámpago
 
 Presentación breve para compartir una idea nueva, trabajo en etapa inicial, lecciones aprendidas o un caso corto.
 
@@ -144,8 +144,8 @@ Se alienta la participación de personas principiantes, profesionales en etapas 
 
 ::: {style="padding: 2rem; background: #f8f8f8; border-left: 4px solid #7C004C; border-radius: 0 8px 8px 0; margin: 2rem 0;"}
 
-
-Plataforma a confirmar
+El envío de trabajos se podrá realizar a partir del 1ro de abril a través de la plataforma [OpenReview](https://openreview.net/group?id=RSLA/2026/Conference).  
+IMPORTANTE: Es necesario crear una cuenta en la plataforma para poder envíar propuestas, y **este proceso de creción de cuenta puede tomar hasta dos semanas**. **Recomendamos no dejar este paso de registro en la plataforma para el último minuto**.
 
 :::
 
@@ -184,9 +184,8 @@ No
 ---
 
 ::: {.cta-section}
-## Algo de texto
+## Envía tu propuesta
 
-Algo de texto
 
-[Enviar una propuesta](){.btn .btn-light .btn-lg}
+[Enviar una propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
 :::
