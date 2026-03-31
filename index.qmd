@@ -79,9 +79,12 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 
 ::: {.sponsor-grid .sponsor-grid-platinum}
 
-[![Comunidad 1](https://placehold.co/400)]()
-[![Comunidad 2](https://placehold.co/400)]()
-[![Comunidad 3](https://placehold.co/400)]()
+<img height="80" alt="RSE Chile" src="images/rse-chile-cuadradito.png" />
+<img height="80" alt="RSE Argentina" src="images/rse_arg.png" />
+<img height="80" alt="R-Ladies Buenos Aires" src="images/rladies-ba-logo.png" />
+<img height="80" alt="R-Ladies Valparaíso" src="images/rladies-val-logo.png" />
+<img height="80" alt="R-Ladies Santiago" src="images/rladies-santiago-logo.png" />
+<img height="80" alt="Pyladies Valparaíso" src="images/pyladies-val-logo.png" />
 
 :::
 
@@ -92,6 +95,6 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 
 ::: {style="text-align: center; margin-top: 1.5rem;"}
 
-¿Tu comunidad quiere ser parte? Escribí a [softwaredeinvestigacion@gmail.com](mailto:softwaredeinvestigacion@gmail.com) para conocer cómo sumarla a nuestra sección de comunidades amigas.
+¿Tu comunidad quiere ser parte? Escribí a [softwaredeinvestigacion@gmail.com](mailto:softwaredeinvestigacion@gmail.com) para conocer cómo sumarla a esta sección.
 
 :::
