@@ -21,6 +21,8 @@ Doctora en Ciencias Éticas, Humanísticas y Sociales Médicas e investigadora a
 [{{< fa solid globe >}}](https://jformoso.github.io/)
 [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jesica-formoso-16ab4649/)
 [{{< fa brands bluesky >}}](https://bsky.app/profile/jformoso.bsky.social)
+[{{< fa brands orcid >}}](https://orcid.org/0000-0003-3062-4036)
+
 :::
 :::
 
