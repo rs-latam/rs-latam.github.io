@@ -15,7 +15,7 @@ title: "Equipo Organizador"
 🇦🇷 Argentina
 :::
 
-Doctora en Ciencias Éticas, Humanísticas y Sociales Médicas e investigadora adjunta en [CONICET](https://www.conicet.gov.ar/). Coorganiza [R-Ladies Buenos Aires](https://rladies.org/chapters/rladies-buenos-aires/), coordina el área de medición de impacto en [MetaDocencia](https://metadocencia.org/) y es parte de [RSE Argentina - Ingeniería de Software de Investigación en Argentina](https://rse-argentina.github.io/).
+Doctora en Ciencias Éticas, Humanísticas y Sociales Médicas e investigadora adjunta en el [Centro Interdisciplinario de Investigaciones en Psicología Matemática y Experimental - CONICET](https://www.conicet.gov.ar/). Coorganiza [R-Ladies Buenos Aires](https://rladies.org/chapters/rladies-buenos-aires/), coordina el área de medición de impacto en [MetaDocencia](https://metadocencia.org/) y es parte de [RLadies+](https://rladies.org/about-us/global-team/) y [RSE Argentina](https://rse-argentina.github.io/).
 
 ::: {.social-links}
 [{{< fa solid globe >}}](https://jformoso.github.io/)
