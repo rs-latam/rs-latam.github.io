@@ -70,15 +70,15 @@ Doctor en Ciencias Biológicas. Actualmente se dedica a la ciencia de datos apli
 ::: {.team-grid}
 
 ::: {.team-member}
-<!-- ![](images/pamela-pacheco.jpg){.team-photo} -->
+![](images/pamela-pacheco.jpeg){.team-photo}
 
-[Pamela Pacheco]{.team-name}
+[Pamela Pacheco Rivera]{.team-name}
 
 ::: {.team-country}
 🇵🇪 Perú
 :::
 
-<!-- Bio -->
+Bióloga e investigadora en inmunología, enfermedades infecciosas y biología molecular. Ha participado en proyectos enfocados en el desarrollo y la evaluación de estrategias terapéuticas para enfermedades autoinmunes e inflamatorias. Comprometida con fortalecer una comunidad científica colaborativa e inclusiva.
 
 ::: {.social-links}
 <!-- [{{< fa solid globe >}}]() -->
@@ -89,7 +89,8 @@ Doctor en Ciencias Biológicas. Actualmente se dedica a la ciencia de datos apli
 :::
 
 ::: {.team-member}
-<!-- ![](images/patricia-loto.jpg){.team-photo} -->
+
+![](images/patricia-loto.png){.team-photo}
 
 [Patricia Loto]{.team-name}
 
@@ -97,12 +98,39 @@ Doctor en Ciencias Biológicas. Actualmente se dedica a la ciencia de datos apli
 🇦🇷 Argentina
 :::
 
-<!-- Bio -->
+Licenciada en Sistemas de Información y Diplomada en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones. Estudiante de maestría en Tecnologías de la Información en la [UNNE]( https://www.unne.edu.ar/). Se desempeña como docente universitaria y desarrolladora de software y analista de datos en el sector público. Además, es cofundadora de [RSE Argentina](https://www.linkedin.com/company/111437056/) e integrante de LatinR(https://latin-r.com/).
+
+
 
 ::: {.social-links}
-<!-- [{{< fa solid globe >}}]() -->
-<!-- [{{< fa brands linkedin >}}]() -->
-<!-- [{{< fa brands bluesky >}}]() -->
+
+[{{< fa brands linkedin >}}](https://www.linkedin.com/in/patricia-loto/)
+
+:::
+
+:::
+
+::: {.team-member}
+
+![](images/andrea-vargas.jpg){.team-photo}
+
+[Patricia Loto]{.team-name}
+
+::: {.team-country}
+🇦🇷 Argentina
+:::
+
+Socióloga y analista de estadísticas de población. Trabaja con datos sociodemográficos a gran escala, integrando ciencias sociales y desarrollo de software científico. Coorganiza [R en Buenos Aires](https://renbaires.github.io/quienes-somos.html) & [RSE Argentina](https://rse-argentina.github.io/quienes-somos.html), y es parte de rOpenSci y R-Ladies+.
+
+
+::: {.social-links}
+
+
+[{{< fa brands linkedin >}}](https://www.linkedin.com/in/andreasociologa/)
+[{{< fa brands bluesky >}}](https://bsky.app/profile/goandre.bsky.social)
+[{{< fa brands orcid >}}](https://orcid.org/0009-0007-8745-3967)
+ 
+
 :::
 
 :::
