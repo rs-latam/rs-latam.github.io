@@ -1,0 +1,51 @@
+---
+title: "Guía de requerimientos mínimos de accesibilidad para presentaciones"
+---
+
+## Introducción
+
+Esta guía reúne recomendaciones básicas para garantizar que las presentaciones realizadas en el marco de la conferencia sean accesibles para la mayor cantidad de personas posible. Aplicar estos criterios no solo mejora la experiencia de quienes utilizan tecnologías de asistencia, sino que también favorece la claridad y comprensión general de los contenidos.
+
+## Recomendaciones de texto
+
+**Jerarquiza la estructura:** No presentes bloques de texto planos. Utiliza títulos, subtítulos y listas. Esto contribuirá a mejorar la legibilidad del contenido y facilitará la navegación mediante lectores de pantalla.
+
+**Fuentes legibles:** Usa tipografías limpias (sans serif) como Arial, Calibri, Tahoma, Verdana o Montserrat, con un tamaño mínimo de 24 pt.
+
+**Enlaces descriptivos:** Evita utilizar direcciones URL largas y complejas (ej.: https://bit.ly/3xYz...). En su lugar, usa frases que describan el destino del enlace, como “Repositorio del proyecto en GitHub”. Esto permite que los usuarios de lectores de pantalla comprendan hacia dónde se dirigen antes de hacer clic.
+
+**Citas claras:** Si incluyes frases de otros autores, sepáralas visualmente o utiliza formato de cita para que se identifiquen fácilmente como una voz distinta a la tuya.
+
+**Notas del orador:** Utiliza este apartado para incluir información adicional que podría no transmitirse visualmente y que beneficiará a los usuarios de lectores de pantalla.
+
+## Recomendaciones de imagen y fondos
+
+**Evita fondos saturados:** No utilices fondos con exceso de colores, texturas o formas complejas, ya que esto dificulta la lectura, especialmente para personas con dislexia o fatiga visual.
+
+**Texto Alternativo (alt-text):** Añade a cada imagen una descripción breve y clara. Esta no debe superar los tres renglones.
+
+**Descripción verbal:** Durante tu charla, describe lo que aparece en pantalla: “En este diagrama se observa la metodología de desarrollo utilizada...”.
+
+**Gráficos simplificados:** Evita el desorden visual en los diagramas. Si el gráfico es muy complejo, ofrece una versión simplificada o explica la conclusión principal en voz alta.
+
+## Recomendaciones de Color y Contraste
+
+**Contraste mínimo:** Asegúrate de que el texto resalte claramente sobre el fondo. La relación de contraste mínima debe ser de 4.5:1. Evita, por ejemplo, utilizar texto gris claro sobre fondo blanco, ya que dificulta la lectura.
+
+**Revisa la paleta elegida:** Usa herramientas como [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) para validar tus elecciones antes de finalizar el diseño.
+
+**No dependas exclusivamente del color:** Evita usar el color como la única forma de transmitir información (ej.: “los nodos en verde funcionan y los rojos fallan”). Añade íconos o etiquetas de texto para diferenciar los datos.
+
+
+## Referencias:
+
+Estas recomendaciones se basan en estándares internacionales y guías de buenas prácticas:
+
+- Mariela Rajngewerc, & Patricia Loto. (2022). Buenas prácticas para crear presentaciones accesibles. Zenodo. https://doi.org/10.5281/zenodo.8088304
+- World Wide Web Consortium (W3C). (2018). Web Content Accessibility Guidelines (WCAG) 2.1. https://www.w3.org/TR/WCAG21/ (Secciones 1.1, 1.4.3, 1.4.4,1.4.8) 
+- Microsoft. (s. f.). Cree presentaciones de PowerPoint accesibles para personas con discapacidad. https://support.microsoft.com/es-es/office/cree-presentaciones-de-powerpoint-accesibles-para-personas-con-discapacidad-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25
+- College of William & Mary. (s. f.). Creating accessible Google Slides. https://www.wm.edu/sites/digitalaccessibility/resource-guide/google-slides
+
+
+
+

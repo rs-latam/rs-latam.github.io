@@ -6,6 +6,7 @@ project:
     - llamado.qmd
     - equipo.qmd
     - coc.qmd
+    - accesibilidad.qmd
   output-dir: _site
   
 
