@@ -54,7 +54,7 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 | Becas para tutoriales | 14 de mayo | 14 de agosto |
 | Inscripción temprana | 15 de junio | 10 de julio |
 | Inscripción estándar | 11 de julio | 14 de agosto |
-| Conferencia | 25 de agosto | 28 d agosto |
+| Conferencia | 25 de agosto | 28 de agosto |
 
 
 [Enviar Propuesta](llamado.qmd){.btn .btn-primary}
