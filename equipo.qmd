@@ -114,7 +114,7 @@ Licenciada en Sistemas de Información y diplomada en Ciencia de Datos y Aprendi
 
 ![](images/andrea-vargas.jpg){.team-photo}
 
-[Patricia Loto]{.team-name}
+[Andrea Gomez Vargas]{.team-name}
 
 ::: {.team-country}
 🇦🇷 Argentina
@@ -125,7 +125,7 @@ Socióloga y analista de estadísticas de población. Trabaja con datos sociodem
 
 ::: {.social-links}
 
-
+[{{< fa solid globe >}}](https://soyandrea.github.io/)
 [{{< fa brands linkedin >}}](https://www.linkedin.com/in/andreasociologa/)
 [{{< fa brands bluesky >}}](https://bsky.app/profile/goandre.bsky.social)
 [{{< fa brands orcid >}}](https://orcid.org/0009-0007-8745-3967)
