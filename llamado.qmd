@@ -101,7 +101,7 @@ La propuesta debe incluir:
 3. **Resumen** (entre 200-300 palabras)
 4. **Prerrequisitos:** habilidades o conocimiento que la audiencia necesita para participar plenamente de la sesión (100 palabras)
 5. **Aprendizajes** qué se llevará la audiencia de la presentación (100 palabras)
-5. **Accesibilidad:** cómo se asegurará que el contenido sea accesible para quienes participan en la conferencia 
+5. **Accesibilidad:** cómo se asegurará que el contenido sea accesible para quienes participan en la conferencia. Puedes encontrar más información al respecto en [este enlace](accesibilidad.qmd). 
 6. **Información de quien presenta** (nombre, afiliación, breve biografía de hasta 150 palabras, información de contacto)
 
 Las propuestas deben explicar claramente qué aprenderá la audiencia y  cómo se conecta la presentación con la práctica o comunidad de software de investigación. No es necesario que el proyecto esté finalizado. Se aceptan trabajos en progreso, reflexiones críticas y aprendizajes.

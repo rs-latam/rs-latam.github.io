@@ -78,7 +78,7 @@ Doctor en Ciencias Biológicas. Actualmente se dedica a la ciencia de datos apli
 🇵🇪 Perú
 :::
 
-Bióloga e investigadora en inmunología, enfermedades infecciosas y biología molecular. Ha participado en proyectos enfocados en el desarrollo y la evaluación de estrategias terapéuticas para enfermedades autoinmunes e inflamatorias. Comprometida con fortalecer una comunidad científica colaborativa e inclusiva.
+Bióloga e investigadora en inmunología, enfermedades infecciosas y biología molecular. Participa en proyectos de desarrollo y evaluación de estrategias terapéuticas para enfermedades autoinmunes. Comprometida con una comunidad científica colaborativa e inclusiva.
 
 ::: {.social-links}
 <!-- [{{< fa solid globe >}}]() -->
