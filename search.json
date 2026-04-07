@@ -1,10 +1,108 @@
 [
   {
-    "objectID": "coc.html",
-    "href": "coc.html",
-    "title": "Código de conducta",
+    "objectID": "accesibilidad.html",
+    "href": "accesibilidad.html",
+    "title": "Guía de requerimientos mínimos de accesibilidad para presentaciones",
     "section": "",
-    "text": "Todas las personas que participan en nuestra conferencia deben estar de acuerdo con el siguiente código de conducta. Como equipo de organización haremos cumplir este código durante todo el evento. Esperamos la cooperación de quienes participan para ayudar a garantizar un entorno seguro todas y todos.\n\nVersión corta\nEsperamos que RSLA26 sea una conferencia libre de acoso para todas las personas, independientemente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. No toleramos el acoso de los participantes de la conferencia de ninguna forma. El lenguaje sexual y las imágenes no son apropiados para ningún lugar de la conferencia, incluídas charlas, talleres, fiestas, redes sociales y otros medios en línea. Los participantes de la conferencia que violen estas reglas pueden ser sancionados o expulsados ​​de la conferencia sin un reembolso a discreción de los organizadores de la conferencia.\n\n\nVersión menos corta\nEl acoso incluye comentarios verbales ofensivos relacionados con el género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, origen étnico, religión, ideología, elección de tecnología, imágenes sexuales en espacios públicos, intimidación deliberada, acoso, seguimiento, acoso fotográfico o grabación, interrupción sostenida de las conversaciones u eventos, contacto físico inapropiado y atención sexual no deseada.\nEsperamos que aquellos participantes a quienes se les solicite detener cualquier comportamiento de acoso cumplan inmediatamente. Si un participante se involucra en un comportamiento de acoso, los organizadores de la conferencia pueden tomar las medidas que consideren apropiadas, tales como una advertencia o la expulsión de la conferencia sin reembolso.\nSi te hostigan, observas que alguien más está siendo hostigado o tienes comentarios al respecto, comunícate de inmediato con personal de la conferencia. Puedes ser identificarnos por la credencial.\nEl personal de la conferencia ayudará a los participantes a ponerse en contacto con la seguridad del lugar, proporcionar escoltas o ayudar a quienes sufren acoso a sentirse seguros durante la conferencia. Valoramos su asistencia a las LatinR.\nEsperamos que los participantes sigan estas reglas tanto durante las LatinR como en eventos sociales relacionados con las mismas.\n\n\n¿Necesitas ayuda?\nContacta a alguna de las personas del comité organizador. Durante la conferencia podrás identificarles porque tendrán un elemento distintivo en su vestimenta. También puedes escribirnos a softwaredeinvestigacion@gmail.com.\nAdaptado de https://latinr.org/."
+    "text": "Esta guía reúne recomendaciones básicas para garantizar que las presentaciones realizadas en el marco de la conferencia sean accesibles para la mayor cantidad de personas posible. Aplicar estos criterios no solo mejora la experiencia de quienes utilizan tecnologías de asistencia, sino que también favorece la claridad y comprensión general de los contenidos."
+  },
+  {
+    "objectID": "accesibilidad.html#introducción",
+    "href": "accesibilidad.html#introducción",
+    "title": "Guía de requerimientos mínimos de accesibilidad para presentaciones",
+    "section": "",
+    "text": "Esta guía reúne recomendaciones básicas para garantizar que las presentaciones realizadas en el marco de la conferencia sean accesibles para la mayor cantidad de personas posible. Aplicar estos criterios no solo mejora la experiencia de quienes utilizan tecnologías de asistencia, sino que también favorece la claridad y comprensión general de los contenidos."
+  },
+  {
+    "objectID": "accesibilidad.html#recomendaciones-de-texto",
+    "href": "accesibilidad.html#recomendaciones-de-texto",
+    "title": "Guía de requerimientos mínimos de accesibilidad para presentaciones",
+    "section": "Recomendaciones de texto",
+    "text": "Recomendaciones de texto\nJerarquiza la estructura: No presentes bloques de texto planos. Utiliza títulos, subtítulos y listas. Esto contribuirá a mejorar la legibilidad del contenido y facilitará la navegación mediante lectores de pantalla.\nFuentes legibles: Usa tipografías limpias (sans serif) como Arial, Calibri, Tahoma, Verdana o Montserrat, con un tamaño mínimo de 24 pt.\nEnlaces descriptivos: Evita utilizar direcciones URL largas y complejas (ej.: https://bit.ly/3xYz…). En su lugar, usa frases que describan el destino del enlace, como “Repositorio del proyecto en GitHub”. Esto permite que los usuarios de lectores de pantalla comprendan hacia dónde se dirigen antes de hacer clic.\nCitas claras: Si incluyes frases de otros autores, sepáralas visualmente o utiliza formato de cita para que se identifiquen fácilmente como una voz distinta a la tuya.\nNotas del orador: Utiliza este apartado para incluir información adicional que podría no transmitirse visualmente y que beneficiará a los usuarios de lectores de pantalla."
+  },
+  {
+    "objectID": "accesibilidad.html#recomendaciones-de-imagen-y-fondos",
+    "href": "accesibilidad.html#recomendaciones-de-imagen-y-fondos",
+    "title": "Guía de requerimientos mínimos de accesibilidad para presentaciones",
+    "section": "Recomendaciones de imagen y fondos",
+    "text": "Recomendaciones de imagen y fondos\nEvita fondos saturados: No utilices fondos con exceso de colores, texturas o formas complejas, ya que esto dificulta la lectura, especialmente para personas con dislexia o fatiga visual.\nTexto Alternativo (alt-text): Añade a cada imagen una descripción breve y clara. Esta no debe superar los tres renglones.\nDescripción verbal: Durante tu charla, describe lo que aparece en pantalla: “En este diagrama se observa la metodología de desarrollo utilizada…”.\nGráficos simplificados: Evita el desorden visual en los diagramas. Si el gráfico es muy complejo, ofrece una versión simplificada o explica la conclusión principal en voz alta."
+  },
+  {
+    "objectID": "accesibilidad.html#recomendaciones-de-color-y-contraste",
+    "href": "accesibilidad.html#recomendaciones-de-color-y-contraste",
+    "title": "Guía de requerimientos mínimos de accesibilidad para presentaciones",
+    "section": "Recomendaciones de Color y Contraste",
+    "text": "Recomendaciones de Color y Contraste\nContraste mínimo: Asegúrate de que el texto resalte claramente sobre el fondo. La relación de contraste mínima debe ser de 4.5:1. Evita, por ejemplo, utilizar texto gris claro sobre fondo blanco, ya que dificulta la lectura.\nRevisa la paleta elegida: Usa herramientas como WebAIM Contrast Checker para validar tus elecciones antes de finalizar el diseño.\nNo dependas exclusivamente del color: Evita usar el color como la única forma de transmitir información (ej.: “los nodos en verde funcionan y los rojos fallan”). Añade íconos o etiquetas de texto para diferenciar los datos."
+  },
+  {
+    "objectID": "accesibilidad.html#referencias",
+    "href": "accesibilidad.html#referencias",
+    "title": "Guía de requerimientos mínimos de accesibilidad para presentaciones",
+    "section": "Referencias:",
+    "text": "Referencias:\nEstas recomendaciones se basan en estándares internacionales y guías de buenas prácticas:\n\nMariela Rajngewerc, & Patricia Loto. (2022). Buenas prácticas para crear presentaciones accesibles. Zenodo. https://doi.org/10.5281/zenodo.8088304\nWorld Wide Web Consortium (W3C). (2018). Web Content Accessibility Guidelines (WCAG) 2.1. https://www.w3.org/TR/WCAG21/ (Secciones 1.1, 1.4.3, 1.4.4,1.4.8)\nMicrosoft. (s. f.). Cree presentaciones de PowerPoint accesibles para personas con discapacidad. https://support.microsoft.com/es-es/office/cree-presentaciones-de-powerpoint-accesibles-para-personas-con-discapacidad-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25\nCollege of William & Mary. (s. f.). Creating accessible Google Slides. https://www.wm.edu/sites/digitalaccessibility/resource-guide/google-slides"
+  },
+  {
+    "objectID": "equipo.html",
+    "href": "equipo.html",
+    "title": "Equipo Organizador",
+    "section": "",
+    "text": "Jesica Formoso\n\n🇦🇷 Argentina\n\nDoctora en Ciencias Éticas, Humanísticas y Sociales Médicas e investigadora adjunta en el Centro Interdisciplinario de Investigaciones en Psicología Matemática y Experimental - CONICET. Coorganiza R-Ladies Buenos Aires, coordina el área de medición de impacto en MetaDocencia y es parte de RLadies+ y RSE Argentina.\n\n   \n\n\n\n\nRiva Quiroga\n\n🇨🇱 Chile\n\nResearch Fellow en OLS y fundadora de la Comunidad de software de Investigación de Chile (RSE Chile). Es Fellow del Software Sustainability Institute y participa de forma activa en distintas comunidades de programación y ciencia abierta, como RLadies+, LatinR, PyLadies y FORRT.\n\n   \n\n\n\n\nLuis Verde Arregoitia\n\n🇲🇽 México\n\nDoctor en Ciencias Biológicas. Actualmente se dedica a la ciencia de datos aplicada a biodiversidad en el Instituto de Ecología A.C., INECOL. Participa en iniciativas de software de investigación y código abierto en Latinoamérica a través de la organización rOpenSci."
+  },
+  {
+    "objectID": "equipo.html#chairs",
+    "href": "equipo.html#chairs",
+    "title": "Equipo Organizador",
+    "section": "",
+    "text": "Jesica Formoso\n\n🇦🇷 Argentina\n\nDoctora en Ciencias Éticas, Humanísticas y Sociales Médicas e investigadora adjunta en el Centro Interdisciplinario de Investigaciones en Psicología Matemática y Experimental - CONICET. Coorganiza R-Ladies Buenos Aires, coordina el área de medición de impacto en MetaDocencia y es parte de RLadies+ y RSE Argentina.\n\n   \n\n\n\n\nRiva Quiroga\n\n🇨🇱 Chile\n\nResearch Fellow en OLS y fundadora de la Comunidad de software de Investigación de Chile (RSE Chile). Es Fellow del Software Sustainability Institute y participa de forma activa en distintas comunidades de programación y ciencia abierta, como RLadies+, LatinR, PyLadies y FORRT.\n\n   \n\n\n\n\nLuis Verde Arregoitia\n\n🇲🇽 México\n\nDoctor en Ciencias Biológicas. Actualmente se dedica a la ciencia de datos aplicada a biodiversidad en el Instituto de Ecología A.C., INECOL. Participa en iniciativas de software de investigación y código abierto en Latinoamérica a través de la organización rOpenSci."
+  },
+  {
+    "objectID": "equipo.html#comité-organizador",
+    "href": "equipo.html#comité-organizador",
+    "title": "Equipo Organizador",
+    "section": "Comité organizador",
+    "text": "Comité organizador\n\n\n\nPamela Pacheco\n\n🇵🇪 Perú\n\n\n\n\n\n\n\n\n\n\nPatricia Loto\n\n🇦🇷 Argentina"
+  },
+  {
+    "objectID": "registro.html",
+    "href": "registro.html",
+    "title": "Inscripción",
+    "section": "",
+    "text": "🚧 Sitio en construcción"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Software Latinoamérica (RSLA26)",
+    "section": "",
+    "text": "25-28 de Agosto, 2026\n(Virtual)\nPresentación de trabajos"
+  },
+  {
+    "objectID": "index.html#sobre-la-conferencia",
+    "href": "index.html#sobre-la-conferencia",
+    "title": "Research Software Latinoamérica (RSLA26)",
+    "section": "Sobre la Conferencia",
+    "text": "Sobre la Conferencia\nResearch Software Latinoamérica (RSLA26) es un espacio de encuentro para quienes desarrollan, utilizan, mantienen y sostienen software de investigación en América Latina. La conferencia busca fortalecer el ecosistema regional de software científico, promoviendo el intercambio de experiencias, la colaboración y la construcción de comunidades.\nEn 2026, RSLA26 forma parte de un grupo coordinado de conferencias del Sur Global, Equitable global collaboration and opportunity in Research Software (Equersa), que se celebrarán en Asia, Australia, Nueva Zelanda, África y América Latina durante las mismas fechas. En conjunto, estos eventos buscan generar espacios para conversaciones regionales, al tiempo que promueven el intercambio global.\nEn esta primera edición, RSLA busca generar espacios de diálogo sobre la construcción de soberanía tecnológica y la promoción del software de investigación para la ciencia abierta y soberana en América Latina.\nInvitamos a presentar contribuciones a todas aquellas personas que participan en el ecosistema de software de investigación, incluyendo quienes desarrollan o mantienen software, realizan investigación, trabajan con datos (generación, gestión o análisis), brindan servicios de información y bibliotecas, coordinan o impulsan comunidades, representan organismos financiadores o están comenzando su trayectoria como estudiantes.\n\n¿Por qué participar en RSLA26?\n\nFormar parte de una red global conectada\nCompartir tu trabajo con una audiencia colaborativa y comunitaria\nAprender de profesionales de software de investigación de distintas regiones\nContribuir al desarrollo del ecosistema de software científico en América Latina y el Sur Global"
+  },
+  {
+    "objectID": "index.html#fechas-importantes",
+    "href": "index.html#fechas-importantes",
+    "title": "Research Software Latinoamérica (RSLA26)",
+    "section": "Fechas importantes",
+    "text": "Fechas importantes\n\n\n\n\nApertura\nCierre\n\n\n\n\nLlamado a presentaciones\n1 de abril\n17 de mayo\n\n\nBecas de accesibilidad\n14 de mayo\n26 de junio\n\n\nNotificación de presentaciones\n7 de julio\n—\n\n\nMicro becas\n14 de mayo\n10 de julio\n\n\nBecas para tutoriales\n14 de mayo\n14 de agosto\n\n\nInscripción temprana\n15 de junio\n10 de julio\n\n\nInscripción estándar\n11 de julio\n14 de agosto\n\n\nConferencia\n25 de agosto\n28 d agosto\n\n\n\nEnviar Propuesta"
+  },
+  {
+    "objectID": "index.html#sponsors",
+    "href": "index.html#sponsors",
+    "title": "Research Software Latinoamérica (RSLA26)",
+    "section": "Sponsors",
+    "text": "Sponsors\n\n¿Tu organización quiere ser parte? Escribí a softwaredeinvestigacion@gmail.com para conocer las opciones de patrocinio."
+  },
+  {
+    "objectID": "index.html#comunidades-vinculadas-a-software-de-investigación-en-latinoamérica",
+    "href": "index.html#comunidades-vinculadas-a-software-de-investigación-en-latinoamérica",
+    "title": "Research Software Latinoamérica (RSLA26)",
+    "section": "Comunidades vinculadas a software de investigación en Latinoamérica",
+    "text": "Comunidades vinculadas a software de investigación en Latinoamérica\n\n     \n\n\n¿Tu comunidad quiere ser parte? Escribí a softwaredeinvestigacion@gmail.com para conocer cómo sumarla a esta sección."
   },
   {
     "objectID": "llamado.html",
@@ -84,66 +182,10 @@
     "text": "¡Esperamos tu propuesta!\nLa fecha límite de envío es el 17 de mayo de 2026\nEnvíar propuesta"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Research Software Latinoamérica (RSLA26)",
+    "objectID": "coc.html",
+    "href": "coc.html",
+    "title": "Código de conducta",
     "section": "",
-    "text": "25-28 de Agosto, 2026\n(Virtual)\nPresentación de trabajos"
-  },
-  {
-    "objectID": "index.html#sobre-la-conferencia",
-    "href": "index.html#sobre-la-conferencia",
-    "title": "Research Software Latinoamérica (RSLA26)",
-    "section": "Sobre la Conferencia",
-    "text": "Sobre la Conferencia\nResearch Software Latinoamérica (RSLA26) es un espacio de encuentro para quienes desarrollan, utilizan, mantienen y sostienen software de investigación en América Latina. La conferencia busca fortalecer el ecosistema regional de software científico, promoviendo el intercambio de experiencias, la colaboración y la construcción de comunidades.\nEn 2026, RSLA26 forma parte de un grupo coordinado de conferencias del Sur Global, Equitable global collaboration and opportunity in Research Software (Equersa), que se celebrarán en Asia, Australia, Nueva Zelanda, África y América Latina durante las mismas fechas. En conjunto, estos eventos buscan generar espacios para conversaciones regionales, al tiempo que promueven el intercambio global.\nEn esta primera edición, RSLA busca generar espacios de diálogo sobre la construcción de soberanía tecnológica y la promoción del software de investigación para la ciencia abierta y soberana en América Latina.\nInvitamos a presentar contribuciones a todas aquellas personas que participan en el ecosistema de software de investigación, incluyendo quienes desarrollan o mantienen software, realizan investigación, trabajan con datos (generación, gestión o análisis), brindan servicios de información y bibliotecas, coordinan o impulsan comunidades, representan organismos financiadores o están comenzando su trayectoria como estudiantes.\n\n¿Por qué participar en RSLA26?\n\nFormar parte de una red global conectada\nCompartir tu trabajo con una audiencia colaborativa y comunitaria\nAprender de profesionales de software de investigación de distintas regiones\nContribuir al desarrollo del ecosistema de software científico en América Latina y el Sur Global"
-  },
-  {
-    "objectID": "index.html#fechas-importantes",
-    "href": "index.html#fechas-importantes",
-    "title": "Research Software Latinoamérica (RSLA26)",
-    "section": "Fechas importantes",
-    "text": "Fechas importantes\n\n\n\n\nApertura\nCierre\n\n\n\n\nLlamado a presentaciones\n1 de abril\n17 de mayo\n\n\nBecas de accesibilidad\n14 de mayo\n26 de junio\n\n\nNotificación de presentaciones\n7 de julio\n—\n\n\nMicro becas\n14 de mayo\n10 de julio\n\n\nBecas para tutoriales\n14 de mayo\n14 de agosto\n\n\nInscripción temprana\n15 de junio\n10 de julio\n\n\nInscripción estándar\n11 de julio\n14 de agosto\n\n\nConferencia\n25 de agosto\n28 d agosto\n\n\n\nEnviar Propuesta"
-  },
-  {
-    "objectID": "index.html#sponsors",
-    "href": "index.html#sponsors",
-    "title": "Research Software Latinoamérica (RSLA26)",
-    "section": "Sponsors",
-    "text": "Sponsors\n\n¿Tu organización quiere ser parte? Escribí a softwaredeinvestigacion@gmail.com para conocer las opciones de patrocinio."
-  },
-  {
-    "objectID": "index.html#comunidades-vinculadas-a-software-de-investigación-en-latinoamérica",
-    "href": "index.html#comunidades-vinculadas-a-software-de-investigación-en-latinoamérica",
-    "title": "Research Software Latinoamérica (RSLA26)",
-    "section": "Comunidades vinculadas a software de investigación en Latinoamérica",
-    "text": "Comunidades vinculadas a software de investigación en Latinoamérica\n\n     \n\n\n¿Tu comunidad quiere ser parte? Escribí a softwaredeinvestigacion@gmail.com para conocer cómo sumarla a esta sección."
-  },
-  {
-    "objectID": "registro.html",
-    "href": "registro.html",
-    "title": "Inscripción",
-    "section": "",
-    "text": "🚧 Sitio en construcción"
-  },
-  {
-    "objectID": "equipo.html",
-    "href": "equipo.html",
-    "title": "Equipo Organizador",
-    "section": "",
-    "text": "Jesica Formoso\n\n🇦🇷 Argentina\n\nDoctora en Ciencias Éticas, Humanísticas y Sociales Médicas e investigadora adjunta en el Centro Interdisciplinario de Investigaciones en Psicología Matemática y Experimental - CONICET. Coorganiza R-Ladies Buenos Aires, coordina el área de medición de impacto en MetaDocencia y es parte de RLadies+ y RSE Argentina.\n\n   \n\n\n\n\nRiva Quiroga\n\n🇨🇱 Chile\n\nResearch Fellow en OLS y fundadora de la Comunidad de software de Investigación de Chile (RSE Chile). Es Fellow del Software Sustainability Institute y participa de forma activa en distintas comunidades de programación y ciencia abierta, como RLadies+, LatinR, PyLadies y FORRT.\n\n   \n\n\n\n\nLuis Verde Arregoitia\n\n🇲🇽 México\n\nDoctor en Ciencias Biológicas. Actualmente se dedica a la ciencia de datos aplicada a biodiversidad en el Instituto de Ecología A.C., INECOL. Participa en iniciativas de software de investigación y código abierto en Latinoamérica a través de la organización rOpenSci."
-  },
-  {
-    "objectID": "equipo.html#chairs",
-    "href": "equipo.html#chairs",
-    "title": "Equipo Organizador",
-    "section": "",
-    "text": "Jesica Formoso\n\n🇦🇷 Argentina\n\nDoctora en Ciencias Éticas, Humanísticas y Sociales Médicas e investigadora adjunta en el Centro Interdisciplinario de Investigaciones en Psicología Matemática y Experimental - CONICET. Coorganiza R-Ladies Buenos Aires, coordina el área de medición de impacto en MetaDocencia y es parte de RLadies+ y RSE Argentina.\n\n   \n\n\n\n\nRiva Quiroga\n\n🇨🇱 Chile\n\nResearch Fellow en OLS y fundadora de la Comunidad de software de Investigación de Chile (RSE Chile). Es Fellow del Software Sustainability Institute y participa de forma activa en distintas comunidades de programación y ciencia abierta, como RLadies+, LatinR, PyLadies y FORRT.\n\n   \n\n\n\n\nLuis Verde Arregoitia\n\n🇲🇽 México\n\nDoctor en Ciencias Biológicas. Actualmente se dedica a la ciencia de datos aplicada a biodiversidad en el Instituto de Ecología A.C., INECOL. Participa en iniciativas de software de investigación y código abierto en Latinoamérica a través de la organización rOpenSci."
-  },
-  {
-    "objectID": "equipo.html#comité-organizador",
-    "href": "equipo.html#comité-organizador",
-    "title": "Equipo Organizador",
-    "section": "Comité organizador",
-    "text": "Comité organizador\n\n\n\nPamela Pacheco\n\n🇵🇪 Perú\n\n\n\n\n\n\n\n\n\n\nPatricia Loto\n\n🇦🇷 Argentina"
+    "text": "Todas las personas que participan en nuestra conferencia deben estar de acuerdo con el siguiente código de conducta. Como equipo de organización haremos cumplir este código durante todo el evento. Esperamos la cooperación de quienes participan para ayudar a garantizar un entorno seguro todas y todos.\n\nVersión corta\nEsperamos que RSLA26 sea una conferencia libre de acoso para todas las personas, independientemente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. No toleramos el acoso de los participantes de la conferencia de ninguna forma. El lenguaje sexual y las imágenes no son apropiados para ningún lugar de la conferencia, incluídas charlas, talleres, fiestas, redes sociales y otros medios en línea. Los participantes de la conferencia que violen estas reglas pueden ser sancionados o expulsados ​​de la conferencia sin un reembolso a discreción de los organizadores de la conferencia.\n\n\nVersión menos corta\nEl acoso incluye comentarios verbales ofensivos relacionados con el género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, origen étnico, religión, ideología, elección de tecnología, imágenes sexuales en espacios públicos, intimidación deliberada, acoso, seguimiento, acoso fotográfico o grabación, interrupción sostenida de las conversaciones u eventos, contacto físico inapropiado y atención sexual no deseada.\nEsperamos que aquellos participantes a quienes se les solicite detener cualquier comportamiento de acoso cumplan inmediatamente. Si un participante se involucra en un comportamiento de acoso, los organizadores de la conferencia pueden tomar las medidas que consideren apropiadas, tales como una advertencia o la expulsión de la conferencia sin reembolso.\nSi te hostigan, observas que alguien más está siendo hostigado o tienes comentarios al respecto, comunícate de inmediato con personal de la conferencia. Puedes ser identificarnos por la credencial.\nEl personal de la conferencia ayudará a los participantes a ponerse en contacto con la seguridad del lugar, proporcionar escoltas o ayudar a quienes sufren acoso a sentirse seguros durante la conferencia. Valoramos su asistencia a las LatinR.\nEsperamos que los participantes sigan estas reglas tanto durante las LatinR como en eventos sociales relacionados con las mismas.\n\n\n¿Necesitas ayuda?\nContacta a alguna de las personas del comité organizador. Durante la conferencia podrás identificarles porque tendrán un elemento distintivo en su vestimenta. También puedes escribirnos a softwaredeinvestigacion@gmail.com.\nAdaptado de https://latinr.org/."
   }
 ]
