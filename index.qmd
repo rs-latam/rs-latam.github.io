@@ -61,6 +61,30 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 
 :::
 
+::: {.card}
+
+### ¿Tienes dudas?
+
+Si tienes una idea para la conferencia, pero dudas de si se alinea bien con RSLA26... ¡esta sesión especial online es para ti!
+
+Nos reuniremos virtualmente el **15 de mayo de 2026 a las 4:00 pm (UTC+01:00)** desde Londres para:
+
+* Darte feedback sobre tu propuesta, ayudarte a afinarla, y aclarar dudas
+* Conectar con anteriores ponentes y amigos de las [Charlas RSE en español](https://charlas-rse-espanol.github.io/)
+
+Si te interesa, déjanos tus detalles en [este formulario](https://forms.gle/52Z7Sp5HM2MgLBo26). ¡Esperamos verte allí!
+
+
+::: {style="border-left: 4px solid #ccc; padding-left: 1rem; margin: 1rem 0; color: var(--bs-body-color);"}
+🗓️ 15 de mayo de 2026
+
+🕓 4:00 pm (horario Reino Unido, UTC+01:00; [ver en tu zona horaria](https://everytimezone.com/s/878fc294))
+
+💻 Online
+:::
+
+:::
+
 ---
 
 ## Sponsors
