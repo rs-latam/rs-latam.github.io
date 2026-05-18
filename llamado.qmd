@@ -195,7 +195,7 @@ Los resúmenes aceptados quedarán disponibles públicamente en el sitio web de 
 
 ##   ¡Esperamos tu propuesta!
 
-La fecha límite de envío es el 17 de mayo de 2026  
+La fecha límite de envío es el 31 de mayo de 2026  
   
 [Envíar propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
 
