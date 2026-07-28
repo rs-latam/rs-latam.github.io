@@ -1,0 +1,60 @@
+---
+title: "Ambientes virtuales en Python: buenas prácticas para desarrollo de software de investigación"
+---
+
+[← Volver a Tutoriales](tutoriales.qmd)
+
+**Día y horario:** 
+Martes 25 de Agosto
+
+- 13:00 hs México (UTC-6) 
+- 14:00 hs Perú (UTC-5)
+- 15:00 hs Chile (UTC-4) 
+- 16:00 hs Argentina (UTC-3) 
+
+Podés consultar en tu hora local con este link: [https://everytimezone.com/s/4d92fa73](https://everytimezone.com/s/4d92fa73)
+
+**Duración:** 2 horas
+
+**Instructora:** Stephanie Orellana ([GitHub](https://github.com/sporella) | [LinkedIn](http://www.linkedin.com/in/sporella) | sporella.dev@gmail.com)
+
+<details class="bio-toggle">
+<summary>Ver mini biografía</summary>
+
+Stephanie Orellana es Ingeniera Agrónoma y Magíster en Recursos Naturales por la Pontificia Universidad Católica de Chile. Trabaja como Científica de Datos y Desarrolladora de Software para proyectos de investigación sobre biodiversidad, hidrología y climatología en Cienciambiental. Se encuentra en vías de titulación del Magíster en Ingeniería en Informática de la Universidad Nacional Andrés Bello, Chile. Es co-organizadora de Py-Ladies Valparaíso y R-Ladies Santiago.
+
+</details>
+
+
+
+**Link de inscripción:** [a completar]()
+
+
+---
+
+## Descripción
+
+La gestión de proyectos y dependencias es una parte fundamental del desarrollo de software. Mantener ambientes virtuales aislados y gestionar correctamente las dependencias permite desarrollar proyectos más reproducibles, facilitar la colaboración y evitar conflictos entre paquetes y versiones.
+
+En este taller aprenderemos sobre gestión de proyectos y dependencias en Python en el contexto del desarrollo de software para investigación. Revisaremos los conceptos básicos y las diferentes herramientas que abordan esta problemática.
+
+De manera práctica, aprenderemos a crear ambientes virtuales utilizando `venv` y `pip`, las herramientas nativas de Python, y también conoceremos `uv`, una herramienta moderna que simplifica y acelera la gestión de proyectos, ambientes virtuales y dependencias.
+
+## Prerrequisitos
+
+Es deseable que los asistentes tengan conocimientos básicos de Python y del uso de la terminal, aunque no es un requisito excluyente, ya que aprenderemos todo lo necesario durante el taller. Si nunca has utilizado Python, esta también es una buena oportunidad para conocer desde el inicio cómo gestionar ambientes virtuales y dependencias.
+
+## Aprendizajes
+
+Al finalizar el taller, las y los asistentes:
+
+- Conocerán los conceptos básicos asociados a la gestión de ambientes virtuales y dependencias en Python.
+- Comprenderán la importancia de estas herramientas para desarrollar software reproducible y mantenible en proyectos de investigación.
+- Sabrán cómo crear y administrar ambientes virtuales utilizando `venv` y `pip`, las herramientas nativas de Python.
+- Conocerán cómo utilizar `uv` para simplificar y acelerar la gestión de proyectos, ambientes virtuales y dependencias.
+- Comprenderán las principales diferencias entre `venv` + `pip` y `uv`, y en qué contextos puede resultar conveniente utilizar cada enfoque.
+
+
+---
+
+[← Volver a Tutoriales](tutoriales.qmd)

@@ -188,6 +188,184 @@ $body-color: #000000;
   }
 }
 
+// ----- Tutoriales -----
+.tutorial-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+ 
+.tutorial-card {
+  position: relative; // requerido para que .stretched-link expanda el click a toda la tarjeta
+  padding: 1.5rem;
+  border: 1px solid lighten($primary, 40%);
+  border-radius: 8px;
+  background: #fff;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+ 
+.tutorial-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(124, 0, 76, 0.2);
+}
+ 
+.tutorial-card h3 {
+  color: $primary;
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+ 
+.tutorial-card .tutorial-instructor {
+  color: #666;
+  font-size: 0.95rem;
+  margin-bottom: 0;
+}
+ 
+// El link "Ver detalle" queda oculto visualmente pero es el que,
+// con .stretched-link, hace clicable toda la tarjeta (patrón estándar de Bootstrap).
+.tutorial-card a.stretched-link {
+  color: $primary;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 0.75rem;
+}
+ 
+.tutorial-card a.stretched-link:hover {
+  text-decoration: underline;
+}
+
+
+.tutorial-card .tutorial-description {
+  color: #333;
+  font-size: 0.95rem;
+  margin: 0.5rem 0 0.75rem 0;
+}
+
+// ----- Mini bio colapsable (details/summary) -----
+.bio-toggle {
+  margin: 0.75rem 0 1.25rem 0;
+}
+ 
+.bio-toggle summary {
+  cursor: pointer;
+  color: $primary;
+  font-weight: 600;
+  font-size: 0.95rem;
+  list-style: none; // oculta el triángulo default en navegadores que lo soportan (Chrome/Edge)
+}
+ 
+// Chrome/Edge/Safari usan ::-webkit-details-marker en vez de list-style
+.bio-toggle summary::-webkit-details-marker {
+  display: none;
+}
+ 
+// Flechita propia, gira 90° al abrir
+.bio-toggle summary::before {
+  content: "▶";
+  display: inline-block;
+  margin-right: 0.5rem;
+  font-size: 0.7rem;
+  transition: transform 0.2s;
+}
+ 
+.bio-toggle[open] summary::before {
+  transform: rotate(90deg);
+}
+ 
+.bio-toggle summary:hover {
+  opacity: 0.75;
+}
+ 
+.bio-toggle p {
+  margin-top: 0.75rem;
+  color: #333;
+}
+
+/* ---- Agenda de tutoriales (formato timeline) ---- */
+
+
+.tutorial-schedule {
+  margin: 2rem 0;
+}
+
+.schedule-item {
+  display: flex;
+  position: relative;
+}
+
+.schedule-time {
+  width: 130px;
+  flex-shrink: 0;
+  text-align: right;
+  padding-right: 1.5rem;
+  padding-top: 0.15rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #555;
+}
+
+.schedule-content {
+  flex: 1;
+  position: relative;
+  padding-left: 1.5rem;
+  padding-bottom: 2.5rem;
+  border-left: 2px solid #d8dee4;
+}
+
+.tutorial-schedule .schedule-item:last-child .schedule-content {
+  border-left-color: transparent;
+  padding-bottom: 0.5rem;
+}
+
+.schedule-content::before {
+  content: "";
+  position: absolute;
+  left: -7px;
+  top: 4px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--bs-primary, #2c3e50);
+  border: 2px solid var(--bs-body-bg, #ffffff);
+}
+
+.schedule-content h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1.15rem;
+}
+
+.schedule-content h3 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.schedule-content h3 a:hover {
+  text-decoration: underline;
+}
+
+.schedule-link {
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-weight: 500;
+}
+
+/* En pantallas angostas, el horario pasa arriba del contenido */
+@media (max-width: 600px) {
+  .schedule-item {
+    flex-direction: column;
+  }
+  .schedule-time {
+    width: auto;
+    text-align: left;
+    padding-right: 0;
+    padding-left: 1.5rem;
+    margin-bottom: 0.25rem;
+  }
+}
+
 // ----- Sponsors -----
 .sponsors-section {
   margin: 2rem 0;

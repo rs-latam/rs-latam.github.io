@@ -1,0 +1,55 @@
+---
+title: "Introducción al Cómputo de Alto Rendimiento (HPC)"
+---
+
+[← Volver a Tutoriales](tutoriales.qmd)
+
+**Día y horario:**
+Martes 25 de Agosto
+
+- 7:00 hs México (UTC-6)
+- 8:00 hs Perú (UTC-5)
+- 9:00 hs Chile (UTC-4)
+- 10:00 hs Argentina (UTC-3)
+
+Podés consultar en tu hora local con este link: [https://everytimezone.com/s/62d760a3](https://everytimezone.com/s/62d760a3)
+
+**Duración:** 2 horas
+
+**Instructora:** Maëlle Salmon ([GitHub](https://github.com/maelle) | [Personal website](https://masalmon.eu/))
+
+<details class="bio-toggle">
+<summary>Ver mini biografía</summary>
+
+Maëlle Salmon es doctora en estadística e ingeniera en software de R e investigación. Trabaja en rOpenSci, creó el blog de R-hub y coescribió el libro HTTP testing in R junto a Scott Chamberlain. Además, es miembro del equipo global de R-Ladies+ y colabora activamente en el desarrollo de herramientas para la comunidad de R. Enseña Git de forma regular desde hace meses, incluso este mismo tutorial en R en Buenos Aires + R-Ladies Santa Rosa. Creó el paquete {saperlipopette} para poder mostrar y compartir ejercicios de Git.
+
+</details>
+
+**Link de inscripción:** [a completar]()
+
+---
+
+## Descripción
+
+Los Modelos de Lenguaje de Gran Escala (LLMs) son cada vez más capaces de escribir, explicar y depurar código en R. Al mismo tiempo, se desarrollan y mejoran continuamente nuevas herramientas que integran estos modelos directamente en nuestros entornos de desarrollo.
+
+Este taller práctico presenta el ecosistema moderno de herramientas basadas en LLMs disponibles para R. Las personas participantes aprenderán a incorporar estas herramientas en sus flujos de trabajo de procesamiento, visualización y análisis de datos en R, logrando procesos más ágiles, eficientes y productivos.
+
+## A quién está dirigido
+
+Se requieren conocimientos básicos de programación en R. No es necesario contar con experiencia previa en el uso de modelos de lenguaje (LLMs).
+
+## Objetivos de aprendizaje
+
+Al finalizar el taller, las personas participantes serán capaces de:
+
+- Integrar herramientas basadas en LLMs en flujos de trabajo de análisis de datos con R.
+- Generar, editar, documentar y depurar código en R de manera rápida y precisa.
+- Interactuar con las APIs de modelos de lenguaje desde la consola de R y desde su entorno de desarrollo integrado (IDE) preferido.
+
+**Duración:** 2 horas
+
+
+---
+
+[← Volver a Tutoriales](tutoriales.qmd)

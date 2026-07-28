@@ -7,6 +7,11 @@ project:
     - equipo.qmd
     - coc.qmd
     - accesibilidad.qmd
+    - tutoriales.qmd
+    - taller-ambientes-virtuales-python.qmd
+    - taller-hpc.qmd
+    - taller-git.qmd
+    - taller-LLMs.qmd
   output-dir: _site
   
 
@@ -26,6 +31,8 @@ website:
         href: llamado.qmd
       - text: "Equipo"
         href: equipo.qmd
+      - text: "Tutoriales"
+        href: tutoriales.qmd
      # - text: "Programa"
      #   href: programa.qmd  
       - text: "Código de conducta"

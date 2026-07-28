@@ -1,0 +1,53 @@
+---
+title: "Introducción al Cómputo de Alto Rendimiento (HPC)"
+---
+
+[← Volver a Tutoriales](tutoriales.qmd)
+
+**Día y horario:**
+Martes 25 de Agosto
+
+- 9:00 hs México (UTC-6)
+- 10:00 hs Perú (UTC-5)
+- 11:00 hs Chile (UTC-4)
+- 12:00 hs Argentina (UTC-3)
+
+Podés consultar en tu hora local con este link: [https://everytimezone.com/s/08719064](https://everytimezone.com/s/08719064)
+
+**Duración:** 3 horas
+
+**Instructora:** Yasel Quintero Lares ([TU Delft](https://www.tudelft.nl/digital-competence-centre/team/yasel-quintero))
+
+**Link de inscripción:** [a completar]()
+
+---
+
+## Descripción
+
+Este taller ofrece una introducción práctica al uso de supercomputadoras y a los conceptos básicos del cómputo de alto rendimiento (HPC). Mediante una combinación de teoría y ejercicios, las y los participantes aprenderán a conectarse a un clúster, transferir archivos, utilizar el software disponible, ejecutar y monitorear trabajos mediante Slurm, y conocerán los fundamentos de la programación paralela con OpenMP y MPI.
+
+## A quién está dirigido
+
+Está dirigido tanto a personas sin experiencia en el uso de supercomputadoras como a quienes ya cuentan con conocimientos básicos y desean fortalecer sus habilidades en HPC. Ideal para estudiantes, investigadores y profesionales que buscan iniciarse en el uso de clústeres y comprender los principios de la ejecución de aplicaciones en paralelo.
+
+## Prerrequisitos
+
+Conocimiento sugerido pero no excluyente: manejo básico de la terminal (unix shell / bash). 
+
+**Duración:** 3 horas
+
+::: {.callout-note}
+Cada supercomputadora está configurada de forma diferente. Aunque los conceptos y procedimientos presentados en este taller son ampliamente aplicables, algunos comandos y herramientas pueden variar entre sistemas.
+:::
+
+## Temario
+
+1. **Introducción a las supercomputadoras** 
+2. **Conexión y transferencia de datos**
+3. **Uso de software**
+4. **Slurm para ejecución de trabajos**
+5. **Introducción al cómputo en paralelo** 
+
+---
+
+[← Volver a Tutoriales](tutoriales.qmd)

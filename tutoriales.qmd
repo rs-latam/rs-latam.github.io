@@ -1,0 +1,114 @@
+---
+title: "Tutoriales"
+---
+
+RSLA26 ofrece un espacio de tutoriales prácticos, diseñados para fortalecer habilidades específicas en el desarrollo y uso de software para la investigación.
+
+Los tutoriales se dictarán de manera virtual durante los días de la conferencia (25 al 28 de agosto de 2026). Al completar el [registro para la conferencia](), podrás seleccionar los tutoriales en los que desees participar. La inscripción es flexible: puedes elegir un único tutorial o tantos como sean de tu interés.
+
+Los tutoriales tienen un costo de inscripción, que varía según la categoría del participante. Los fondos recaudados se destinarán a cubrir los costos asociados a la organización del evento.
+
+- Estudiantes de tiempo completo: 7 USD por tutorial
+- Academia (investigadores, docentes, etc.): 10 USD por tutorial
+- Industria: 15 USD por tutorial
+
+---
+
+Hacé clic en cada tutorial para ver el detalle completo (descripción, prerrequisitos, instructor/a). Todos los horarios están en hora México (UTC-6); podés ver el horario en otras zonas en el detalle de cada taller.
+
+::: {.tutorial-schedule}
+
+::: {.schedule-item}
+::: {.schedule-time}
+**Martes 25/8**\
+
+7:00 hs (Mex)
+
+:::
+::: {.schedule-content}
+### [¡Miércoles, Git! Manejo de errores en Git y no morir en el intento](taller-hpc.qmd)
+**Dicta:** Maëlle Salmon
+
+Aprendé a resolver siete errores frecuentes en Git con ejercicios prácticos inspirados en Oh Shit, Git!. Ideal para ganar confianza y autonomía usando control de versiones.
+
+**Duración:** 2 horas
+
+[Ver detalle →](taller-git.qmd){.schedule-link}
+:::
+:::
+
+::: {.schedule-item}
+::: {.schedule-time}
+**Martes 25/8**\
+
+9:00 hs (Mex)
+
+:::
+::: {.schedule-content}
+### [Introducción al Cómputo de Alto Rendimiento (HPC)](taller-hpc.qmd)
+**Dicta:** Yasel Quintero Lares
+
+Primeros pasos en la computación de alto rendimiento: uso de clústeres, Slurm y programación paralela con OpenMP y MPI.
+
+**Duración:** 3 horas
+
+[Ver detalle →](taller-hpc.qmd){.schedule-link}
+:::
+:::
+
+::: {.schedule-item}
+::: {.schedule-time}
+**Martes 25/8**\
+13:00 hs (Mex)
+:::
+::: {.schedule-content}
+### [Ambientes virtuales en Python: buenas prácticas para desarrollo de software de investigación](taller-ambientes-virtuales-python.qmd)
+**Dicta:** Stephanie Orellana
+
+Aprendé a crear y gestionar ambientes virtuales en Python con venv, pip y uv, para un desarrollo más reproducible y colaborativo en proyectos de investigación.
+
+**Duración:** 2 horas
+
+[Ver detalle →](taller-ambientes-virtuales-python.qmd){.schedule-link}
+:::
+:::
+
+::: {.schedule-item}
+::: {.schedule-time}
+**Martes 25/8**\
+15:00 hs (Mex)
+:::
+::: {.schedule-content}
+### [renv: ambientes virtuales reproducibles en R]()
+**Dicta:** Paola Corrales
+
+Aprendé a crear y gestionar ambientes virtuales en Python con venv, pip y uv, para un desarrollo más reproducible y colaborativo en proyectos de investigación.
+
+**Duración:** 2 horas
+
+[Ver detalle →](){.schedule-link}
+:::
+:::
+
+::: {.schedule-item}
+::: {.schedule-time}
+**Martes 28/8**\
+
+Horario a confirmar
+
+:::
+::: {.schedule-content}
+### [Cómo integrar LLM en nuestro flujo de trabajo con R]()
+**Dicta:** Luis D. Verde Arregoitia
+
+Descubrí cómo incorporar modelos de lenguaje (LLM) a tus proyectos en R para automatizar tareas, acelerar análisis y potenciar tu flujo de trabajo con herramientas de IA.
+
+**Duración:** 2 horas
+
+[Ver detalle →](taller-LLMs.qmd){.schedule-link}
+:::
+:::
+
+:::
+
+---

@@ -1,0 +1,62 @@
+---
+title: "Tutoriales"
+---
+
+RSLA26 ofrece un espacio de tutoriales prácticos, diseñados para fortalecer habilidades específicas en el desarrollo y uso de software para la investigación.
+
+Los tutoriales se dictarán de manera virtual durante los días de la conferencia (25 al 28 de agosto de 2026). Al completar el [registro para la conferencia](), podrás seleccionar los tutoriales en los que desees participar. La inscripción es flexible: puedes elegir un único tutorial o tantos como sean de tu interés.
+
+Los tutoriales tienen un costo de inscripción, que varía según la categoría del participante. Los fondos recaudados se destinarán a cubrir los costos asociados a la organización del evento.
+
+- Estudiantes de tiempo completo: 7 USD por tutorial
+- Academia (investigadores, docentes, etc.): 10 USD por tutorial
+- Industria: 15 USD por tutorial
+
+---
+
+## Tutoriales confirmados
+
+Hacé clic en cada tarjeta para ver el detalle completo del taller (descripción, prerrequisitos, temario e instructor/a).
+
+::: {.tutorial-grid}
+
+::: {.tutorial-card}
+### Ambientes virtuales en Python: buenas prácticas para desarrollo de software de investigación
+
+::: {.tutorial-instructor}
+**Dicta:** Stephanie Orellana
+:::
+
+::: {.tutorial-description}
+Aprendé a crear y gestionar ambientes virtuales en Python con venv, pip y uv, para un desarrollo más reproducible y colaborativo en proyectos de investigación.
+
+:::
+
+[Ver detalle →](taller-ambientes-virtuales-python.qmd){.stretched-link}
+:::
+
+::: {.tutorial-card}
+### Introducción al Cómputo de Alto Rendimiento (HPC)
+
+::: {.tutorial-instructor}
+**Dicta:** Yasel Quintero Lares
+:::
+
+::: {.tutorial-description}
+
+Primeros pasos en la computación de alto rendimiento: uso de clústeres, Slurm y programación paralela con OpenMP y MPI.
+
+:::
+
+
+
+[Ver detalle →](taller-hpc.qmd){.stretched-link}
+:::
+
+:::
+
+---
+
+## Próximamente
+
+Se irán agregando más tutoriales a esta página a medida que se confirmen.

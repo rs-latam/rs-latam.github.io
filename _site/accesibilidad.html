@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Llamado a presentación de trabajos – RSLA26</title>
+<title>Guía de requerimientos mínimos de accesibilidad para presentaciones – RSLA26</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -105,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./llamado.html" aria-current="page"> 
+    <a class="nav-link" href="./llamado.html"> 
 <span class="menu-text">Presentación de trabajos</span></a>
   </li>  
   <li class="nav-item">
@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Llamado a presentación de trabajos</h1>
+<h1 class="title">Guía de requerimientos mínimos de accesibilidad para presentaciones</h1>
 </div>
 
 
@@ -166,181 +166,43 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Invitamos a presentar contribuciones a todas aquellas personas que participan en el ecosistema de software de investigación, incluyendo quienes desarrollan o mantienen software, realizan investigación, trabajan con datos (generación, gestión o análisis), brindan servicios de información y a bibliotecas, coordinan o impulsan comunidades, representan organismos financiadores o están comenzando su trayectoria como estudiantes.</p>
-<section id="fecha-límite-de-envío" class="level2 cta-section">
-<h2 class="anchored" data-anchor-id="fecha-límite-de-envío">📅 Fecha límite de envío</h2>
-<section id="de-junio-2026" class="level3">
-<h3 class="anchored" data-anchor-id="de-junio-2026">14 de junio, 2026</h3>
-<p><a href="https://openreview.net/group?id=RSLA/2026/Conference" class="btn btn-light btn-lg">Envía tu propuesta</a></p>
+<section id="introducción" class="level2">
+<h2 class="anchored" data-anchor-id="introducción">Introducción</h2>
+<p>Esta guía reúne recomendaciones básicas para garantizar que las presentaciones realizadas en el marco de la conferencia sean accesibles para la mayor cantidad de personas posible. Aplicar estos criterios no solo mejora la experiencia de quienes utilizan tecnologías de asistencia, sino que también favorece la claridad y comprensión general de los contenidos.</p>
 </section>
+<section id="recomendaciones-de-texto" class="level2">
+<h2 class="anchored" data-anchor-id="recomendaciones-de-texto">Recomendaciones de texto</h2>
+<p><strong>Jerarquiza la estructura:</strong> No presentes bloques de texto planos. Utiliza títulos, subtítulos y listas. Esto contribuirá a mejorar la legibilidad del contenido y facilitará la navegación mediante lectores de pantalla.</p>
+<p><strong>Fuentes legibles:</strong> Usa tipografías limpias (sans serif) como Arial, Calibri, Tahoma, Verdana o Montserrat, con un tamaño mínimo de 24 pt.</p>
+<p><strong>Enlaces descriptivos:</strong> Evita utilizar direcciones URL largas y complejas (ej.: https://bit.ly/3xYz…). En su lugar, usa frases que describan el destino del enlace, como “Repositorio del proyecto en GitHub”. Esto permite que los usuarios de lectores de pantalla comprendan hacia dónde se dirigen antes de hacer clic.</p>
+<p><strong>Citas claras:</strong> Si incluyes frases de otros autores, sepáralas visualmente o utiliza formato de cita para que se identifiquen fácilmente como una voz distinta a la tuya.</p>
+<p><strong>Notas del orador:</strong> Utiliza este apartado para incluir información adicional que podría no transmitirse visualmente y que beneficiará a los usuarios de lectores de pantalla.</p>
 </section>
-<hr>
-<section id="modalidades-de-presentación" class="level2">
-<h2 class="anchored" data-anchor-id="modalidades-de-presentación">Modalidades de presentación</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
-<section id="charlas-relámpago" class="level3 card">
-<h3 class="anchored" data-anchor-id="charlas-relámpago">Charlas relámpago</h3>
-<p>Presentación breve para compartir una idea nueva, trabajo en etapa inicial, lecciones aprendidas o un caso corto.</p>
+<section id="recomendaciones-de-imagen-y-fondos" class="level2">
+<h2 class="anchored" data-anchor-id="recomendaciones-de-imagen-y-fondos">Recomendaciones de imagen y fondos</h2>
+<p><strong>Evita fondos saturados:</strong> No utilices fondos con exceso de colores, texturas o formas complejas, ya que esto dificulta la lectura, especialmente para personas con dislexia o fatiga visual.</p>
+<p><strong>Texto Alternativo (alt-text):</strong> Añade a cada imagen una descripción breve y clara. Esta no debe superar los tres renglones.</p>
+<p><strong>Descripción verbal:</strong> Durante tu charla, describe lo que aparece en pantalla: “En este diagrama se observa la metodología de desarrollo utilizada…”.</p>
+<p><strong>Gráficos simplificados:</strong> Evita el desorden visual en los diagramas. Si el gráfico es muy complejo, ofrece una versión simplificada o explica la conclusión principal en voz alta.</p>
+</section>
+<section id="recomendaciones-de-color-y-contraste" class="level2">
+<h2 class="anchored" data-anchor-id="recomendaciones-de-color-y-contraste">Recomendaciones de Color y Contraste</h2>
+<p><strong>Contraste mínimo:</strong> Asegúrate de que el texto resalte claramente sobre el fondo. La relación de contraste mínima debe ser de 4.5:1. Evita, por ejemplo, utilizar texto gris claro sobre fondo blanco, ya que dificulta la lectura.</p>
+<p><strong>Revisa la paleta elegida:</strong> Usa herramientas como <a href="https://webaim.org/resources/contrastchecker/">WebAIM Contrast Checker</a> para validar tus elecciones antes de finalizar el diseño.</p>
+<p><strong>No dependas exclusivamente del color:</strong> Evita usar el color como la única forma de transmitir información (ej.: “los nodos en verde funcionan y los rojos fallan”). Añade íconos o etiquetas de texto para diferenciar los datos.</p>
+</section>
+<section id="referencias" class="level2">
+<h2 class="anchored" data-anchor-id="referencias">Referencias:</h2>
+<p>Estas recomendaciones se basan en estándares internacionales y guías de buenas prácticas:</p>
 <ul>
-<li><strong>Duración:</strong> 5 minutos</li>
+<li>Mariela Rajngewerc, &amp; Patricia Loto. (2022). Buenas prácticas para crear presentaciones accesibles. Zenodo. <a href="https://doi.org/10.5281/zenodo.8088304">https://doi.org/10.5281/zenodo.8088304</a></li>
+<li>World Wide Web Consortium (W3C). (2018). Web Content Accessibility Guidelines (WCAG) 2.1. <a href="https://www.w3.org/TR/WCAG21/">https://www.w3.org/TR/WCAG21/</a> (Secciones 1.1, 1.4.3, 1.4.4,1.4.8)</li>
+<li>Microsoft. (s. f.). Cree presentaciones de PowerPoint accesibles para personas con discapacidad. <a href="https://support.microsoft.com/es-es/office/cree-presentaciones-de-powerpoint-accesibles-para-personas-con-discapacidad-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25">https://support.microsoft.com/es-es/office/cree-presentaciones-de-powerpoint-accesibles-para-personas-con-discapacidad-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25</a></li>
+<li>College of William &amp; Mary. (s. f.). Creating accessible Google Slides. <a href="https://www.wm.edu/sites/digitalaccessibility/resource-guide/google-slides">https://www.wm.edu/sites/digitalaccessibility/resource-guide/google-slides</a></li>
 </ul>
-</section>
-<section id="demostración" class="level3 card">
-<h3 class="anchored" data-anchor-id="demostración">Demostración</h3>
-<p>Demostración práctica de una herramienta, flujo de trabajo, plataforma o técnica, enfocada en su aplicación en el mundo real.</p>
-<ul>
-<li><strong>Duración:</strong> 10 minutos + 5 minutos de preguntas</li>
-</ul>
-</section>
-<section id="presentación-oral" class="level3 card">
-<h3 class="anchored" data-anchor-id="presentación-oral">Presentación oral</h3>
-<p>Presentación de conferencia tradicional que permite desarrollar un tema con mayor profundidad.</p>
-<ul>
-<li><strong>Duración:</strong> 15 minutos + 5 minutos de preguntas</li>
-</ul>
-</section>
-</div>
-<p>El idioma oficial de la conferencia es el español, pero también se pueden enviar propuestas en portugués o inglés. El resumen debe escribirse en el idioma en que se realizará la charla o demostración.</p>
-</section>
-<section id="temas-de-interés" class="level2">
-<h2 class="anchored" data-anchor-id="temas-de-interés">Temas de interés</h2>
-<p>Se reciben propuestas alineadas con el tema central del encuentro, incluyendo (pero no limitándose a):</p>
-<ul>
-<li>Reproducibilidad, principios FAIR y ciencia abierta</li>
-<li>Desarrollo de redes y comunidades de software y RSE</li>
-<li>Enseñanza y aprendizaje de habilidades en software de investigación</li>
-<li>Trayectorias profesionales y reconocimiento de RSE</li>
-<li>Uso responsable y ético de IA para software de investigación (ejemplos, retos, flujos de trabajo)</li>
-<li>Soberanía de datos, gobernanza y ética en software de investigación</li>
-<li>Infraestructura y plataformas regionales para el software de investigación</li>
-<li>Sostenibilidad del software de investigación: financiamiento, políticas nacionales e institucionales, gobernanza y mantenimiento</li>
-<li>Impacto responsable y medible en contextos sociales y ambientales</li>
-<li>Estudios de caso, aplicaciones o implementaciones de software de investigación en distintas disciplinas</li>
-<li>Acceso equitativo a software e infraestructura de investigación: accesibilidad, multilingüismo, sistemas de conocimiento.</li>
-</ul>
-<p>Se alienta especialmente la participación de:</p>
-<ul>
-<li>Personas que presentan por primera vez<br>
-</li>
-<li>Profesionales en etapas tempranas<br>
-</li>
-<li>Propuestas con enfoque comunitario</li>
-</ul>
-<hr>
-</section>
-<section id="instrucciones-para-la-presentación" class="level2">
-<h2 class="anchored" data-anchor-id="instrucciones-para-la-presentación">Instrucciones para la presentación</h2>
-<div class="card">
-<p>La propuesta debe incluir:</p>
-<ol type="1">
-<li><strong>Título</strong> de la presentación</li>
-<li><strong>Tipo de presentación</strong> (ver opciones mencionadas en el punto anterior)</li>
-<li><strong>Resumen</strong> (entre 200-300 palabras)</li>
-<li><strong>Prerrequisitos:</strong> habilidades o conocimiento que la audiencia necesita para participar plenamente de la sesión (100 palabras)</li>
-<li><strong>Aprendizajes</strong> qué se llevará la audiencia de la presentación (100 palabras)</li>
-<li><strong>Accesibilidad:</strong> cómo se asegurará que el contenido sea accesible para quienes participan en la conferencia. Puedes encontrar más información al respecto en <a href="./accesibilidad.html" target="_blank">este enlace</a>.</li>
-<li><strong>Información de quien presenta</strong> (nombre, afiliación, breve biografía de hasta 150 palabras, información de contacto)</li>
-</ol>
-<p>Las propuestas deben explicar claramente qué aprenderá la audiencia y cómo se conecta la presentación con la práctica o comunidad de software de investigación. No es necesario que el proyecto esté finalizado. Se aceptan trabajos en progreso, reflexiones críticas y aprendizajes.</p>
-</div>
-<hr>
-</section>
-<section id="proceso-de-evaluación" class="level2">
-<h2 class="anchored" data-anchor-id="proceso-de-evaluación">Proceso de evaluación</h2>
-<p>Las propuestas serán evaluadas según:</p>
-<ul>
-<li>Relevancia con el tema propuesto para la RSLA26</li>
-<li>Claridad y coherencia del resumen</li>
-<li>Aplicabilidad práctica e impacto potencial</li>
-</ul>
-<p>Se alienta la participación de personas principiantes, profesionales en etapas tempranas, y personas que presenten temas introductorios y fundamentos del área. La conferencia promueve la diversidad de perspectivas y procura reducir las barreras de acceso para quienes presentan por primera vez.</p>
-<hr>
-</section>
-<section id="fechas-importantes" class="level2">
-<h2 class="anchored" data-anchor-id="fechas-importantes">Fechas importantes</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th></th>
-<th>Apertura</th>
-<th>Cierre</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Llamado a presentaciones</td>
-<td>1 de abril</td>
-<td>14 de junio</td>
-</tr>
-<tr class="even">
-<td>Becas de accesibilidad</td>
-<td>14 de mayo</td>
-<td>26 de junio</td>
-</tr>
-<tr class="odd">
-<td>Notificación de presentaciones</td>
-<td>principios de julio</td>
-<td>—</td>
-</tr>
-<tr class="even">
-<td>Micro becas</td>
-<td>14 de mayo</td>
-<td>10 de julio</td>
-</tr>
-<tr class="odd">
-<td>Becas para tutoriales</td>
-<td>14 de mayo</td>
-<td>14 de agosto</td>
-</tr>
-<tr class="even">
-<td>Inscripción</td>
-<td>27 de julio</td>
-<td>23 de agosto</td>
-</tr>
-<tr class="odd">
-<td>Conferencia</td>
-<td>25 de agosto</td>
-<td>28 de agosto</td>
-</tr>
-</tbody>
-</table>
-<hr>
-</section>
-<section id="cómo-enviar-tu-trabajo" class="level2">
-<h2 class="anchored" data-anchor-id="cómo-enviar-tu-trabajo">Cómo enviar tu trabajo</h2>
-<div style="padding: 2rem; background: #f8f8f8; border-left: 4px solid #7C004C; border-radius: 0 8px 8px 0; margin: 2rem 0;">
-<p>El envío de trabajos estará habilitado a partir del <strong>1° de abril</strong> a través de la plataforma <a href="https://openreview.net/group?id=RSLA/2026/Conference">OpenReview</a>.</p>
-<p>⚠️ <strong>Importante:</strong> Para enviar una propuesta necesitás tener una cuenta en la plataforma. El registro es rápido, pero <strong>la activación puede demorar hasta dos semanas</strong>. Te recomendamos registrarte con anticipación, teniendo en cuenta la fecha de cierre de la convocatoria.</p>
-</div>
-<hr>
-</section>
-<section id="código-de-conducta" class="level2">
-<h2 class="anchored" data-anchor-id="código-de-conducta">Código de conducta</h2>
-<p>RSLA26 se compromete a ofrecer un entorno seguro, inclusivo y respetuoso. Todas las personas participantes deberán adherir al <a href="./coc.html">Código de Conducta del evento</a>.</p>
-<hr>
-</section>
-<section id="preguntas-frecuentes" class="level2">
-<h2 class="anchored" data-anchor-id="preguntas-frecuentes">Preguntas frecuentes</h2>
-<div class="card">
-<p><strong>¿Puedo enviar más de un trabajo?</strong></p>
-<p>Cada persona puede enviar una única propuesta como autora principal, pero puede participar de más propuestas como coautora.</p>
-</div>
-<div class="card">
-<p><strong>¿Puedo presentar un trabajo en coautoría?</strong> Sí, se admiten trabajos con múltiples autorías. Una de las personas autoras deberá estar registrada en el evento para realizar la presentación.</p>
-</div>
-<div class="card">
-<p><strong>¿Los trabajos aceptados se publicarán?</strong></p>
-<p>Los resúmenes aceptados quedarán disponibles públicamente en el sitio web de la conferencia, pero no se publicarán por fuera de ella.</p>
-</div>
-<hr>
-</section>
-<section id="esperamos-tu-propuesta" class="level2 cta-section">
-<h2 class="anchored" data-anchor-id="esperamos-tu-propuesta">¡Esperamos tu propuesta!</h2>
-<p>La fecha límite de envío es el 14 de junio de 2026</p>
-<p><a href="https://openreview.net/group?id=RSLA/2026/Conference" class="btn btn-light btn-lg">Envíar propuesta</a></p>
-</section>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
