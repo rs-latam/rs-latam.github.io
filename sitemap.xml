@@ -1,27 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rs-latam.org/accesibilidad.html</loc>
-    <lastmod>2026-07-22T21:07:11.945Z</lastmod>
+    <loc>https://rs-latam.org/taller-LLMs.html</loc>
+    <lastmod>2026-07-28T23:17:05.243Z</lastmod>
   </url>
   <url>
-    <loc>https://rs-latam.org/equipo.html</loc>
-    <lastmod>2026-07-22T21:07:11.945Z</lastmod>
+    <loc>https://rs-latam.org/taller-hpc.html</loc>
+    <lastmod>2026-07-28T23:17:05.243Z</lastmod>
   </url>
   <url>
-    <loc>https://rs-latam.org/registro.html</loc>
-    <lastmod>2026-07-22T21:07:11.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rs-latam.org/index.html</loc>
-    <lastmod>2026-07-22T21:07:11.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rs-latam.org/llamado.html</loc>
-    <lastmod>2026-07-22T21:07:11.952Z</lastmod>
+    <loc>https://rs-latam.org/tutoriales.html</loc>
+    <lastmod>2026-07-28T23:17:05.243Z</lastmod>
   </url>
   <url>
     <loc>https://rs-latam.org/coc.html</loc>
-    <lastmod>2026-07-22T21:07:11.945Z</lastmod>
+    <lastmod>2026-07-28T23:17:05.234Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/llamado.html</loc>
+    <lastmod>2026-07-28T23:17:05.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/index.html</loc>
+    <lastmod>2026-07-28T23:17:05.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/registro.html</loc>
+    <lastmod>2026-07-28T23:17:05.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/equipo.html</loc>
+    <lastmod>2026-07-28T23:17:05.234Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/accesibilidad.html</loc>
+    <lastmod>2026-07-28T23:17:05.234Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/taller-ambientes-virtuales-python.html</loc>
+    <lastmod>2026-07-28T23:17:05.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/taller-git.html</loc>
+    <lastmod>2026-07-28T23:17:05.243Z</lastmod>
   </url>
 </urlset>

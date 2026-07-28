@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Programa de la Conferencia – RSLA26</title>
+<title>Introducción al Cómputo de Alto Rendimiento (HPC) – RSLA26</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -37,10 +43,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0f92c48d53177d49ffdce3c7380795fb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4569c529ea089f04ce18d6c278ae49ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-4569c529ea089f04ce18d6c278ae49ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4569c529ea089f04ce18d6c278ae49ad.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,7 +90,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./assets/logo.png" alt="" class="navbar-logo">
+    <img src="./assets/logo.png" alt="" class="navbar-logo light-content">
+    <img src="./assets/logo.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">RSLA26</span>
@@ -105,8 +116,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Equipo</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./programa.html" aria-current="page"> 
-<span class="menu-text">Programa</span></a>
+    <a class="nav-link" href="./tutoriales.html"> 
+<span class="menu-text">Tutoriales</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./coc.html"> 
@@ -116,6 +127,11 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/rs-latam"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/company/111917229/"> <i class="bi bi-linkedin" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -136,7 +152,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Programa de la Conferencia</h1>
+<h1 class="title">Introducción al Cómputo de Alto Rendimiento (HPC)</h1>
 </div>
 
 
@@ -153,150 +169,59 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div style="font-size: 3rem; text-align: center;">
-<p>🚧 Sitio en construcción</p>
+<p><a href="./tutoriales.html">← Volver a Tutoriales</a></p>
+<p><strong>Día y horario:</strong> Martes 25 de Agosto</p>
+<ul>
+<li>9:00 hs México (UTC-6)</li>
+<li>10:00 hs Perú (UTC-5)</li>
+<li>11:00 hs Chile (UTC-4)</li>
+<li>12:00 hs Argentina (UTC-3)</li>
+</ul>
+<p>Podés consultar en tu hora local con este link: <a href="https://everytimezone.com/s/08719064">https://everytimezone.com/s/08719064</a></p>
+<p><strong>Duración:</strong> 3 horas</p>
+<p><strong>Instructora:</strong> Yasel Quintero Lares (<a href="https://www.tudelft.nl/digital-competence-centre/team/yasel-quintero">TU Delft</a>)</p>
+<p><strong>Link de inscripción:</strong> <a href="">a completar</a></p>
+<hr>
+<section id="descripción" class="level2">
+<h2 class="anchored" data-anchor-id="descripción">Descripción</h2>
+<p>Este taller ofrece una introducción práctica al uso de supercomputadoras y a los conceptos básicos del cómputo de alto rendimiento (HPC). Mediante una combinación de teoría y ejercicios, las y los participantes aprenderán a conectarse a un clúster, transferir archivos, utilizar el software disponible, ejecutar y monitorear trabajos mediante Slurm, y conocerán los fundamentos de la programación paralela con OpenMP y MPI.</p>
+</section>
+<section id="a-quién-está-dirigido" class="level2">
+<h2 class="anchored" data-anchor-id="a-quién-está-dirigido">A quién está dirigido</h2>
+<p>Está dirigido tanto a personas sin experiencia en el uso de supercomputadoras como a quienes ya cuentan con conocimientos básicos y desean fortalecer sus habilidades en HPC. Ideal para estudiantes, investigadores y profesionales que buscan iniciarse en el uso de clústeres y comprender los principios de la ejecución de aplicaciones en paralelo.</p>
+</section>
+<section id="prerrequisitos" class="level2">
+<h2 class="anchored" data-anchor-id="prerrequisitos">Prerrequisitos</h2>
+<p>Conocimiento sugerido pero no excluyente: manejo básico de la terminal (unix shell / bash).</p>
+<p><strong>Duración:</strong> 3 horas</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<!-- ::: {.schedule-day} -->
-<!-- ## Día 1 - Miércoles 25 de Agosto -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 12:00pm - 1:00pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Keynote de Apertura**   -->
-<!-- *[Nombre del Speaker]*   -->
-<!-- Título de la presentación principal -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 1:00pm - 2:00pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Sesión/mesa - título**   -->
-<!-- - Título charla 1 - *Autores* -->
-<!-- - Título charla 2 - *Autores* -->
-<!-- - Título charla 3 - *Autores* -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 2:00pm - 2:15pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Coffee Break**   -->
-<!-- ¿Hacemos alguna actividad para socializar en el break? -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 2:15pm - 3:00pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Panel de discusión** -->
-<!-- Tema: Título del panel -->
-<!-- Panelistas: Nombres -->
-<!-- Modera: Nombre -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- --- -->
-<!-- ::: {.schedule-day} -->
-<!-- ## Día 2 - Miércoles 26 de Agosto -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 12:00pm - 1:00pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Keynote día 2**   -->
-<!-- *[Nombre del Speaker]*   -->
-<!-- Título de la presentación principal -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 1:00pm - 2:00pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Sesión/mesa - título**   -->
-<!-- - Título charla 1 - *Autores* -->
-<!-- - Título charla 2 - *Autores* -->
-<!-- - Título charla 3 - *Autores* -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 2:00pm - 2:15pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Coffee Break**   -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 2:15pm - 3:00pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Panel de discusión** -->
-<!-- Tema: Título del panel -->
-<!-- Panelistas: Nombres -->
-<!-- Modera: Nombre -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- --- -->
-<!-- ::: {.schedule-day} -->
-<!-- ## Día 3 - Miércoles 27 de Agosto -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 12:00pm - 1:00pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Keynote de Apertura**   -->
-<!-- *[Nombre del Speaker]*   -->
-<!-- Título de la presentación principal -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 1:00pm - 2:00pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Sesión/mesa - título**   -->
-<!-- - Título charla 1 - *Autores* -->
-<!-- - Título charla 2 - *Autores* -->
-<!-- - Título charla 3 - *Autores* -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 2:00pm - 2:15pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Coffee Break**   -->
-<!-- ¿Hacemos alguna actividad para socializar en el break? -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 2:15pm - 3:00pm (UTC -3) -->
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-<!-- **Panel de discusión** -->
-<!-- Tema: Título del panel -->
-<!-- Panelistas: Nombres -->
-<!-- Modera: Nombre -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- --- -->
-<!-- ::: {.cta-section} -->
-<!-- ## Research Software Latinoamérica 2026 -->
-<!-- Asegura tu lugar en la I Conferencia de Software de Investigación de Latinoamérica -->
-<!-- [Inscribite ahora](registro.qmd){.btn .btn-light .btn-lg} -->
-<!-- ::: -->
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Cada supercomputadora está configurada de forma diferente. Aunque los conceptos y procedimientos presentados en este taller son ampliamente aplicables, algunos comandos y herramientas pueden variar entre sistemas.</p>
+</div>
+</div>
+</section>
+<section id="temario" class="level2">
+<h2 class="anchored" data-anchor-id="temario">Temario</h2>
+<ol type="1">
+<li><strong>Introducción a las supercomputadoras</strong></li>
+<li><strong>Conexión y transferencia de datos</strong></li>
+<li><strong>Uso de software</strong></li>
+<li><strong>Slurm para ejecución de trabajos</strong></li>
+<li><strong>Introducción al cómputo en paralelo</strong></li>
+</ol>
+<hr>
+<p><a href="./tutoriales.html">← Volver a Tutoriales</a></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -350,13 +275,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -371,7 +297,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/rs-latam\.github\.io\/");
+        var filterRegex = new RegExp("https:\/\/rs-latam\.org");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
