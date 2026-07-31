@@ -1,10 +1,50 @@
 ---
-title: "Programa de la Conferencia"
+title: "Programa"
 ---
 
-::: {style="font-size: 3rem; text-align: center;"}
-🚧 Sitio en construcción
+RSLA26 se realizará del 25 al 28 de agosto de 2026 de manera virtual. El programa incluye tutoriales prácticos, charlas y paneles.
+
+::: {.day-overview}
+
+::: {.day-card-item .tutorial-day}
+::: {.day-date}
+Mar 25/8
 :::
+::: {.day-activity}
+Tutoriales
+:::
+:::
+
+::: {.day-card-item .conference-day}
+::: {.day-date}
+Mié 26/8
+:::
+::: {.day-activity}
+Charlas y paneles
+:::
+:::
+
+::: {.day-card-item .conference-day}
+::: {.day-date}
+Jue 27/8
+:::
+::: {.day-activity}
+Charlas y paneles
+:::
+:::
+
+::: {.day-card-item .tutorial-day}
+::: {.day-date}
+Vie 28/8
+:::
+::: {.day-activity}
+Tutoriales
+:::
+:::
+
+:::
+
+El programa detallado se publicará próximamente.
 
 
 

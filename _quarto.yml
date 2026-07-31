@@ -8,6 +8,7 @@ project:
     - coc.qmd
     - accesibilidad.qmd
     - tutoriales.qmd
+    - programa.qmd
     - tutorial-ambientes-virtuales-python.qmd
     - tutorial-hpc.qmd
     - tutorial-git.qmd
@@ -27,14 +28,14 @@ website:
       #   href: speakers.qmd
       # - text: "Inscripción"
       #   href: registro.qmd
-      - text: "Presentación de trabajos"
-        href: llamado.qmd
-      - text: "Equipo"
-        href: equipo.qmd
+      #- text: "Presentación de trabajos"
+      #  href: llamado.qmd
+      - text: "Programa"
+        href: programa.qmd
       - text: "Tutoriales"
         href: tutoriales.qmd
-     # - text: "Programa"
-     #   href: programa.qmd  
+      - text: "Equipo"
+        href: equipo.qmd
       - text: "Código de conducta"
         href: coc.qmd
       
