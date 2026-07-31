@@ -1,73 +1,73 @@
 [
   {
-    "objectID": "taller-LLMs.html",
-    "href": "taller-LLMs.html",
+    "objectID": "tutorial-llms.html",
+    "href": "tutorial-llms.html",
     "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
     "section": "",
-    "text": "← Volver a Tutoriales\nDía y horario: Martes 25 de Agosto\nPodés consultar en tu hora local con este link: https://everytimezone.com/s/62d760a3\nDuración: 2 horas\nInstructora: Maëlle Salmon (GitHub | Personal website)\nLink de inscripción: a completar"
+    "text": "← Volver a Tutoriales\nDía y horario: Martes 25 de agosto\nConsulta tu hora local\nDuración: 2 horas\nInstructora: Maëlle Salmon (GitHub | Personal website)\nRegistro"
   },
   {
-    "objectID": "taller-LLMs.html#descripción",
-    "href": "taller-LLMs.html#descripción",
+    "objectID": "tutorial-llms.html#descripción",
+    "href": "tutorial-llms.html#descripción",
     "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
     "section": "Descripción",
     "text": "Descripción\nLos Modelos de Lenguaje de Gran Escala (LLMs) son cada vez más capaces de escribir, explicar y depurar código en R. Al mismo tiempo, se desarrollan y mejoran continuamente nuevas herramientas que integran estos modelos directamente en nuestros entornos de desarrollo.\nEste taller práctico presenta el ecosistema moderno de herramientas basadas en LLMs disponibles para R. Las personas participantes aprenderán a incorporar estas herramientas en sus flujos de trabajo de procesamiento, visualización y análisis de datos en R, logrando procesos más ágiles, eficientes y productivos."
   },
   {
-    "objectID": "taller-LLMs.html#a-quién-está-dirigido",
-    "href": "taller-LLMs.html#a-quién-está-dirigido",
+    "objectID": "tutorial-llms.html#a-quién-está-dirigido",
+    "href": "tutorial-llms.html#a-quién-está-dirigido",
     "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
     "section": "A quién está dirigido",
     "text": "A quién está dirigido\nSe requieren conocimientos básicos de programación en R. No es necesario contar con experiencia previa en el uso de modelos de lenguaje (LLMs)."
   },
   {
-    "objectID": "taller-LLMs.html#objetivos-de-aprendizaje",
-    "href": "taller-LLMs.html#objetivos-de-aprendizaje",
+    "objectID": "tutorial-llms.html#objetivos-de-aprendizaje",
+    "href": "tutorial-llms.html#objetivos-de-aprendizaje",
     "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
     "section": "Objetivos de aprendizaje",
-    "text": "Objetivos de aprendizaje\nAl finalizar el taller, las personas participantes serán capaces de:\n\nIntegrar herramientas basadas en LLMs en flujos de trabajo de análisis de datos con R.\nGenerar, editar, documentar y depurar código en R de manera rápida y precisa.\nInteractuar con las APIs de modelos de lenguaje desde la consola de R y desde su entorno de desarrollo integrado (IDE) preferido.\n\nDuración: 2 horas\n\n← Volver a Tutoriales"
+    "text": "Objetivos de aprendizaje\nAl finalizar el taller, las personas participantes serán capaces de:\n\nIntegrar herramientas basadas en LLMs en flujos de trabajo de análisis de datos con R.\nGenerar, editar, documentar y depurar código en R de manera rápida y precisa.\nInteractuar con las APIs de modelos de lenguaje desde la consola de R y desde su entorno de desarrollo integrado (IDE) preferido.\n\nDuración: 2 horas\nRegistro\n\n← Volver a Tutoriales"
   },
   {
-    "objectID": "taller-hpc.html",
-    "href": "taller-hpc.html",
+    "objectID": "tutorial-hpc.html",
+    "href": "tutorial-hpc.html",
     "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
     "section": "",
-    "text": "← Volver a Tutoriales\nDía y horario: Martes 25 de Agosto\nPodés consultar en tu hora local con este link: https://everytimezone.com/s/08719064\nDuración: 3 horas\nInstructora: Yasel Quintero Lares (TU Delft)\nLink de inscripción: a completar"
+    "text": "← Volver a Tutoriales\nDía y horario: Martes 25 de agosto\nConsulta tu hora local\nDuración: 3 horas\nInstructora: Yasel Quintero Lares (TU Delft)\nRegistro"
   },
   {
-    "objectID": "taller-hpc.html#descripción",
-    "href": "taller-hpc.html#descripción",
+    "objectID": "tutorial-hpc.html#descripción",
+    "href": "tutorial-hpc.html#descripción",
     "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
     "section": "Descripción",
     "text": "Descripción\nEste taller ofrece una introducción práctica al uso de supercomputadoras y a los conceptos básicos del cómputo de alto rendimiento (HPC). Mediante una combinación de teoría y ejercicios, las y los participantes aprenderán a conectarse a un clúster, transferir archivos, utilizar el software disponible, ejecutar y monitorear trabajos mediante Slurm, y conocerán los fundamentos de la programación paralela con OpenMP y MPI."
   },
   {
-    "objectID": "taller-hpc.html#a-quién-está-dirigido",
-    "href": "taller-hpc.html#a-quién-está-dirigido",
+    "objectID": "tutorial-hpc.html#a-quién-está-dirigido",
+    "href": "tutorial-hpc.html#a-quién-está-dirigido",
     "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
     "section": "A quién está dirigido",
     "text": "A quién está dirigido\nEstá dirigido tanto a personas sin experiencia en el uso de supercomputadoras como a quienes ya cuentan con conocimientos básicos y desean fortalecer sus habilidades en HPC. Ideal para estudiantes, investigadores y profesionales que buscan iniciarse en el uso de clústeres y comprender los principios de la ejecución de aplicaciones en paralelo."
   },
   {
-    "objectID": "taller-hpc.html#prerrequisitos",
-    "href": "taller-hpc.html#prerrequisitos",
+    "objectID": "tutorial-hpc.html#prerrequisitos",
+    "href": "tutorial-hpc.html#prerrequisitos",
     "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
     "section": "Prerrequisitos",
     "text": "Prerrequisitos\nConocimiento sugerido pero no excluyente: manejo básico de la terminal (unix shell / bash).\nDuración: 3 horas\n\n\n\n\n\n\nNote\n\n\n\nCada supercomputadora está configurada de forma diferente. Aunque los conceptos y procedimientos presentados en este taller son ampliamente aplicables, algunos comandos y herramientas pueden variar entre sistemas."
   },
   {
-    "objectID": "taller-hpc.html#temario",
-    "href": "taller-hpc.html#temario",
+    "objectID": "tutorial-hpc.html#temario",
+    "href": "tutorial-hpc.html#temario",
     "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
     "section": "Temario",
-    "text": "Temario\n\nIntroducción a las supercomputadoras\nConexión y transferencia de datos\nUso de software\nSlurm para ejecución de trabajos\nIntroducción al cómputo en paralelo\n\n\n← Volver a Tutoriales"
+    "text": "Temario\n\nIntroducción a las supercomputadoras\nConexión y transferencia de datos\nUso de software\nSlurm para ejecución de trabajos\nIntroducción al cómputo en paralelo\n\nRegistro\n\n← Volver a Tutoriales"
   },
   {
     "objectID": "tutoriales.html",
     "href": "tutoriales.html",
     "title": "Tutoriales",
     "section": "",
-    "text": "RSLA26 ofrece un espacio de tutoriales prácticos, diseñados para fortalecer habilidades específicas en el desarrollo y uso de software para la investigación.\nLos tutoriales se dictarán de manera virtual durante los días de la conferencia (25 al 28 de agosto de 2026). Al completar el registro para la conferencia, podrás seleccionar los tutoriales en los que desees participar. La inscripción es flexible: puedes elegir un único tutorial o tantos como sean de tu interés.\nLos tutoriales tienen un costo de inscripción, que varía según la categoría del participante. Los fondos recaudados se destinarán a cubrir los costos asociados a la organización del evento.\n\nEstudiantes de tiempo completo: 7 USD por tutorial\nAcademia (investigadores, docentes, etc.): 10 USD por tutorial\nIndustria: 15 USD por tutorial\n\n\nHacé clic en cada tutorial para ver el detalle completo (descripción, prerrequisitos, instructor/a). Todos los horarios están en hora México (UTC-6); podés ver el horario en otras zonas en el detalle de cada taller.\n\n\n\nMartes 25/8\n\n7:00 hs (Mex)\n\n\n¡Miércoles, Git! Manejo de errores en Git y no morir en el intento\nDicta: Maëlle Salmon\nAprendé a resolver siete errores frecuentes en Git con ejercicios prácticos inspirados en Oh Shit, Git!. Ideal para ganar confianza y autonomía usando control de versiones.\nDuración: 2 horas\nVer detalle →\n\n\n\n\nMartes 25/8\n\n9:00 hs (Mex)\n\n\nIntroducción al Cómputo de Alto Rendimiento (HPC)\nDicta: Yasel Quintero Lares\nPrimeros pasos en la computación de alto rendimiento: uso de clústeres, Slurm y programación paralela con OpenMP y MPI.\nDuración: 3 horas\nVer detalle →\n\n\n\n\nMartes 25/8\n13:00 hs (Mex)\n\n\nAmbientes virtuales en Python: buenas prácticas para desarrollo de software de investigación\nDicta: Stephanie Orellana\nAprendé a crear y gestionar ambientes virtuales en Python con venv, pip y uv, para un desarrollo más reproducible y colaborativo en proyectos de investigación.\nDuración: 2 horas\nVer detalle →\n\n\n\n\nMartes 25/8\n15:00 hs (Mex)\n\n\nrenv: ambientes virtuales reproducibles en R\nDicta: Paola Corrales\nAprendé a crear y gestionar ambientes virtuales en Python con venv, pip y uv, para un desarrollo más reproducible y colaborativo en proyectos de investigación.\nDuración: 2 horas\nVer detalle →\n\n\n\n\nMartes 28/8\n\nHorario a confirmar\n\n\nCómo integrar LLM en nuestro flujo de trabajo con R\nDicta: Luis D. Verde Arregoitia\nDescubrí cómo incorporar modelos de lenguaje (LLM) a tus proyectos en R para automatizar tareas, acelerar análisis y potenciar tu flujo de trabajo con herramientas de IA.\nDuración: 2 horas\nVer detalle →"
+    "text": "RSLA26 ofrece un espacio de tutoriales prácticos, diseñados para fortalecer habilidades específicas en el desarrollo y uso de software para la investigación. Los tutoriales se dictarán de manera virtual durante los días de la conferencia.\n\n\n\nMar 25/8\n\n\nTutoriales\n\n\n\n\nMié 26/8\n\n\nCharlas y paneles\n\n\n\n\nJue 27/8\n\n\nCharlas y paneles\n\n\n\n\nVie 28/8\n\n\nTutoriales\n\n\n\nAl completar el registro para la conferencia, podrás seleccionar los tutoriales en los que desees participar. La inscripción es flexible: puedes elegir un único tutorial o tantos como sean de tu interés.\nLos tutoriales tienen un costo de inscripción, que varía según la categoría del participante.\n\nEstudiantes de tiempo completo: US$ 7 por tutorial\nAcademia (investigadores, docentes, etc.): US$ 10 por tutorial\nIndustria: US$ 15 por tutorial\n\nLos fondos recaudados nos ayudan a cubrir los costos asociados a la organización del evento.\n\n\n\n\nMartes 25/8\n\n9:00 UTC-4\n\n\n¡Miércoles, Git! Manejo de errores en Git y no morir en el intento\nDicta: Maëlle Salmon\nAprende a resolver siete errores frecuentes en Git con ejercicios prácticos inspirados en Oh Shit, Git!. Ideal para ganar confianza y autonomía usando control de versiones.\nDuración: 2 horas\nVer detalle →\n\n\n\n\nMartes 25/8\n\n11:00 UTC-4\n\n\nIntroducción al Cómputo de Alto Rendimiento (HPC)\nDicta: Yasel Quintero Lares\nPrimeros pasos en la computación de alto rendimiento: uso de clústeres, Slurm y programación paralela con OpenMP y MPI.\nDuración: 3 horas\nVer detalle →\n\n\n\n\nMartes 25/8\n15:00 UTC-4\n\n\nAmbientes virtuales en Python: buenas prácticas para desarrollo de software de investigación\nDicta: Stephanie Orellana\nAprende a crear y gestionar ambientes virtuales en Python con venv, pip y uv, para un desarrollo más reproducible y colaborativo en proyectos de investigación.\nDuración: 2 horas\nVer detalle →\n\n\n\n\nMartes 25/8\n17:00 UTC-4\n\n\nrenv: ambientes virtuales reproducibles en R\nDicta: Paola Corrales\nAprende a usar renv para encapsular las dependencias de tu código (qué paquetes usas y qué versiones) y poder recrearlo en el futuro.\nDuración: 2 horas\nVer detalle → (¡pronto!)\n\n\n\n\nViernes 28/8\n\nHorario a confirmar\n\n\nCómo integrar LLM en nuestro flujo de trabajo con R\nDicta: Luis D. Verde Arregoitia\nDescubre cómo incorporar modelos de lenguaje (LLM) a tus proyectos en R para automatizar tareas, acelerar análisis y potenciar tu flujo de trabajo con herramientas de IA.\nDuración: 2 horas\nVer detalle →"
   },
   {
     "objectID": "coc.html",
@@ -88,7 +88,7 @@
     "href": "llamado.html#fecha-límite-de-envío",
     "title": "Llamado a presentación de trabajos",
     "section": "📅 Fecha límite de envío",
-    "text": "📅 Fecha límite de envío\n\n14 de junio, 2026\nEnvía tu propuesta"
+    "text": "📅 Fecha límite de envío\n\n14 de junio, 2026"
   },
   {
     "objectID": "llamado.html#modalidades-de-presentación",
@@ -151,14 +151,14 @@
     "href": "llamado.html#esperamos-tu-propuesta",
     "title": "Llamado a presentación de trabajos",
     "section": "¡Esperamos tu propuesta!",
-    "text": "¡Esperamos tu propuesta!\nLa fecha límite de envío es el 14 de junio de 2026\nEnvíar propuesta"
+    "text": "¡Esperamos tu propuesta!\nLa fecha límite de envío es el 14 de junio de 2026"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Research Software Latinoamérica (RSLA26)",
     "section": "",
-    "text": "25 al 28 de agosto, 2026\n(virtual)\nPresentación de trabajos"
+    "text": "25 al 28 de agosto, 2026\n(virtual)\nRegistro"
   },
   {
     "objectID": "index.html#sobre-la-conferencia",
@@ -172,7 +172,7 @@
     "href": "index.html#fechas-importantes",
     "title": "Research Software Latinoamérica (RSLA26)",
     "section": "Fechas importantes",
-    "text": "Fechas importantes\n\n\n\n\nApertura\nCierre\n\n\n\n\nLlamado a presentaciones\n1 de abril\n14 de junio\n\n\nBecas de accesibilidad\n14 de mayo\n26 de junio\n\n\nNotificación de presentaciones\nprincipios de julio\n—\n\n\nMicro becas\n14 de mayo\n10 de julio\n\n\nBecas para tutoriales\n14 de mayo\n14 de agosto\n\n\nInscripción\n27 de julio\n23 de agosto\n\n\nConferencia\n25 de agosto\n28 de agosto\n\n\n\nEnviar Propuesta"
+    "text": "Fechas importantes\n\n\n\n\nApertura\nCierre\n\n\n\n\nLlamado a presentaciones\n1 de abril\n14 de junio\n\n\nBecas de accesibilidad\n14 de mayo\n26 de junio\n\n\nNotificación de presentaciones\nprincipios de julio\n—\n\n\nMicro becas\n14 de mayo\n10 de julio\n\n\nBecas para tutoriales\n14 de mayo\n14 de agosto\n\n\nInscripción\n27 de julio\n23 de agosto\n\n\nConferencia\n25 de agosto\n28 de agosto\n\n\n\nRegistro"
   },
   {
     "objectID": "index.html#sponsors",
@@ -259,59 +259,59 @@
     "text": "Referencias:\nEstas recomendaciones se basan en estándares internacionales y guías de buenas prácticas:\n\nMariela Rajngewerc, & Patricia Loto. (2022). Buenas prácticas para crear presentaciones accesibles. Zenodo. https://doi.org/10.5281/zenodo.8088304\nWorld Wide Web Consortium (W3C). (2018). Web Content Accessibility Guidelines (WCAG) 2.1. https://www.w3.org/TR/WCAG21/ (Secciones 1.1, 1.4.3, 1.4.4,1.4.8)\nMicrosoft. (s. f.). Cree presentaciones de PowerPoint accesibles para personas con discapacidad. https://support.microsoft.com/es-es/office/cree-presentaciones-de-powerpoint-accesibles-para-personas-con-discapacidad-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25\nCollege of William & Mary. (s. f.). Creating accessible Google Slides. https://www.wm.edu/sites/digitalaccessibility/resource-guide/google-slides"
   },
   {
-    "objectID": "taller-ambientes-virtuales-python.html",
-    "href": "taller-ambientes-virtuales-python.html",
+    "objectID": "tutorial-ambientes-virtuales-python.html",
+    "href": "tutorial-ambientes-virtuales-python.html",
     "title": "Ambientes virtuales en Python: buenas prácticas para desarrollo de software de investigación",
     "section": "",
-    "text": "← Volver a Tutoriales\nDía y horario: Martes 25 de Agosto\nPodés consultar en tu hora local con este link: https://everytimezone.com/s/4d92fa73\nDuración: 2 horas\nInstructora: Stephanie Orellana (GitHub | LinkedIn | sporella.dev@gmail.com)\nLink de inscripción: a completar"
+    "text": "← Volver a Tutoriales\nDía y horario: Martes 25 de agosto\nConsulta tu hora local\nDuración: 2 horas\nInstructora: Stephanie Orellana (GitHub | LinkedIn)\nRegistro"
   },
   {
-    "objectID": "taller-ambientes-virtuales-python.html#descripción",
-    "href": "taller-ambientes-virtuales-python.html#descripción",
+    "objectID": "tutorial-ambientes-virtuales-python.html#descripción",
+    "href": "tutorial-ambientes-virtuales-python.html#descripción",
     "title": "Ambientes virtuales en Python: buenas prácticas para desarrollo de software de investigación",
     "section": "Descripción",
     "text": "Descripción\nLa gestión de proyectos y dependencias es una parte fundamental del desarrollo de software. Mantener ambientes virtuales aislados y gestionar correctamente las dependencias permite desarrollar proyectos más reproducibles, facilitar la colaboración y evitar conflictos entre paquetes y versiones.\nEn este taller aprenderemos sobre gestión de proyectos y dependencias en Python en el contexto del desarrollo de software para investigación. Revisaremos los conceptos básicos y las diferentes herramientas que abordan esta problemática.\nDe manera práctica, aprenderemos a crear ambientes virtuales utilizando venv y pip, las herramientas nativas de Python, y también conoceremos uv, una herramienta moderna que simplifica y acelera la gestión de proyectos, ambientes virtuales y dependencias."
   },
   {
-    "objectID": "taller-ambientes-virtuales-python.html#prerrequisitos",
-    "href": "taller-ambientes-virtuales-python.html#prerrequisitos",
+    "objectID": "tutorial-ambientes-virtuales-python.html#prerrequisitos",
+    "href": "tutorial-ambientes-virtuales-python.html#prerrequisitos",
     "title": "Ambientes virtuales en Python: buenas prácticas para desarrollo de software de investigación",
     "section": "Prerrequisitos",
     "text": "Prerrequisitos\nEs deseable que los asistentes tengan conocimientos básicos de Python y del uso de la terminal, aunque no es un requisito excluyente, ya que aprenderemos todo lo necesario durante el taller. Si nunca has utilizado Python, esta también es una buena oportunidad para conocer desde el inicio cómo gestionar ambientes virtuales y dependencias."
   },
   {
-    "objectID": "taller-ambientes-virtuales-python.html#aprendizajes",
-    "href": "taller-ambientes-virtuales-python.html#aprendizajes",
+    "objectID": "tutorial-ambientes-virtuales-python.html#aprendizajes",
+    "href": "tutorial-ambientes-virtuales-python.html#aprendizajes",
     "title": "Ambientes virtuales en Python: buenas prácticas para desarrollo de software de investigación",
     "section": "Aprendizajes",
-    "text": "Aprendizajes\nAl finalizar el taller, las y los asistentes:\n\nConocerán los conceptos básicos asociados a la gestión de ambientes virtuales y dependencias en Python.\nComprenderán la importancia de estas herramientas para desarrollar software reproducible y mantenible en proyectos de investigación.\nSabrán cómo crear y administrar ambientes virtuales utilizando venv y pip, las herramientas nativas de Python.\nConocerán cómo utilizar uv para simplificar y acelerar la gestión de proyectos, ambientes virtuales y dependencias.\nComprenderán las principales diferencias entre venv + pip y uv, y en qué contextos puede resultar conveniente utilizar cada enfoque.\n\n\n← Volver a Tutoriales"
+    "text": "Aprendizajes\nAl finalizar el taller, las y los asistentes:\n\nConocerán los conceptos básicos asociados a la gestión de ambientes virtuales y dependencias en Python.\nComprenderán la importancia de estas herramientas para desarrollar software reproducible y mantenible en proyectos de investigación.\nSabrán cómo crear y administrar ambientes virtuales utilizando venv y pip, las herramientas nativas de Python.\nConocerán cómo utilizar uv para simplificar y acelerar la gestión de proyectos, ambientes virtuales y dependencias.\nComprenderán las principales diferencias entre venv + pip y uv, y en qué contextos puede resultar conveniente utilizar cada enfoque.\n\nRegistro\n\n← Volver a Tutoriales"
   },
   {
-    "objectID": "taller-git.html",
-    "href": "taller-git.html",
-    "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
+    "objectID": "tutorial-git.html",
+    "href": "tutorial-git.html",
+    "title": "¡Miércoles, Git! Manejo de errores en Git y no morir en el intento",
     "section": "",
-    "text": "← Volver a Tutoriales\nDía y horario: Martes 25 de Agosto\nPodés consultar en tu hora local con este link: https://everytimezone.com/s/62d760a3\nDuración: 2 horas\nInstructora: Maëlle Salmon (GitHub | Personal website)\nLink de inscripción: a completar"
+    "text": "← Volver a Tutoriales\nDía y horario: Martes 25 de agosto\nConsulta tu hora local\nDuración: 2 horas\nInstructora: Maëlle Salmon (GitHub | Personal website)\nRegistro"
   },
   {
-    "objectID": "taller-git.html#descripción",
-    "href": "taller-git.html#descripción",
-    "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
+    "objectID": "tutorial-git.html#descripción",
+    "href": "tutorial-git.html#descripción",
+    "title": "¡Miércoles, Git! Manejo de errores en Git y no morir en el intento",
     "section": "Descripción",
     "text": "Descripción\nGit es muy útil, por cierto. Pero también puede ser escalofriante cuando cometemos un error. Por suerte, con experiencia cometemos menos errores… y/o sabemos mejor cómo corregirlas! En este taller práctico aprenderemos a salir de siete posibles situaciones de mier…coles que pueden ocurrirse, con siete ejercicios inspirados del sitio web Oh Shit, Git! y proporcionados por el paquete R {saperlipopette}. Al final de este taller, nos sentiremos más capaces de enfrentarnos a Git y a nuestra propia falibilidad."
   },
   {
-    "objectID": "taller-git.html#a-quién-está-dirigido",
-    "href": "taller-git.html#a-quién-está-dirigido",
-    "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
+    "objectID": "tutorial-git.html#a-quién-está-dirigido",
+    "href": "tutorial-git.html#a-quién-está-dirigido",
+    "title": "¡Miércoles, Git! Manejo de errores en Git y no morir en el intento",
     "section": "A quién está dirigido",
     "text": "A quién está dirigido\nEste taller está orientado a personas que ya tienen alguna experiencia usando control de versiones, aunque no hace falta ser experto o experta. Ideal para quienes quieren fortalecer su confianza y autonomía frente a situaciones difíciles."
   },
   {
-    "objectID": "taller-git.html#prerrequisitos",
-    "href": "taller-git.html#prerrequisitos",
-    "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
+    "objectID": "tutorial-git.html#prerrequisitos",
+    "href": "tutorial-git.html#prerrequisitos",
+    "title": "¡Miércoles, Git! Manejo de errores en Git y no morir en el intento",
     "section": "Prerrequisitos",
-    "text": "Prerrequisitos\nPara participar necesitarán una computadora con conexión a internet. Experiencia previa básica con Git y control de versiones es recomendable.\nDuración: 2 horas\n\n← Volver a Tutoriales"
+    "text": "Prerrequisitos\nPara participar necesitarán una computadora con conexión a internet. Experiencia previa básica con Git y control de versiones es recomendable.\nDuración: 2 horas\nRegistro\n\n← Volver a Tutoriales"
   }
 ]
