@@ -2,46 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rs-latam.org/tutorial-llms.html</loc>
-    <lastmod>2026-07-31T00:05:56.186Z</lastmod>
+    <lastmod>2026-07-31T01:52:40.152Z</lastmod>
   </url>
   <url>
     <loc>https://rs-latam.org/tutorial-hpc.html</loc>
-    <lastmod>2026-07-31T00:05:56.186Z</lastmod>
+    <lastmod>2026-07-31T01:52:40.152Z</lastmod>
   </url>
   <url>
-    <loc>https://rs-latam.org/tutoriales.html</loc>
-    <lastmod>2026-07-31T00:05:56.186Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rs-latam.org/coc.html</loc>
-    <lastmod>2026-07-31T00:05:56.177Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rs-latam.org/llamado.html</loc>
-    <lastmod>2026-07-31T00:05:56.185Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rs-latam.org/index.html</loc>
-    <lastmod>2026-07-31T00:05:56.185Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rs-latam.org/registro.html</loc>
-    <lastmod>2026-07-31T00:05:56.185Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rs-latam.org/equipo.html</loc>
-    <lastmod>2026-07-31T00:05:56.177Z</lastmod>
+    <loc>https://rs-latam.org/programa.html</loc>
+    <lastmod>2026-07-31T01:52:40.151Z</lastmod>
   </url>
   <url>
     <loc>https://rs-latam.org/accesibilidad.html</loc>
-    <lastmod>2026-07-31T00:05:56.177Z</lastmod>
+    <lastmod>2026-07-31T01:52:40.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/equipo.html</loc>
+    <lastmod>2026-07-31T01:52:40.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/registro.html</loc>
+    <lastmod>2026-07-31T01:52:40.151Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/index.html</loc>
+    <lastmod>2026-07-31T01:52:40.151Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/llamado.html</loc>
+    <lastmod>2026-07-31T01:52:40.151Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/coc.html</loc>
+    <lastmod>2026-07-31T01:52:40.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rs-latam.org/tutoriales.html</loc>
+    <lastmod>2026-07-31T01:52:40.152Z</lastmod>
   </url>
   <url>
     <loc>https://rs-latam.org/tutorial-ambientes-virtuales-python.html</loc>
-    <lastmod>2026-07-31T00:05:56.186Z</lastmod>
+    <lastmod>2026-07-31T01:52:40.152Z</lastmod>
   </url>
   <url>
     <loc>https://rs-latam.org/tutorial-git.html</loc>
-    <lastmod>2026-07-31T00:05:56.186Z</lastmod>
+    <lastmod>2026-07-31T01:52:40.152Z</lastmod>
   </url>
 </urlset>
