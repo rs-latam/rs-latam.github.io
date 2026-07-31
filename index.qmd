@@ -12,7 +12,7 @@ page-layout: full
 25 al 28 de agosto, 2026  
 (virtual)
 
-[Presentación de trabajos](llamado.qmd){.btn .btn-primary .btn-lg}
+[Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary .btn-lg}
 
 :::
 
@@ -56,10 +56,11 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 | Conferencia | 25 de agosto | 28 de agosto |
 
 
-[Enviar Propuesta](llamado.qmd){.btn .btn-primary}
+[Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary}
 
 :::
 
+<!--
 ::: {.card}
 
 ### ¿Tienes dudas?
@@ -83,6 +84,7 @@ Si te interesa, déjanos tus detalles en [este formulario](https://forms.gle/52Z
 :::
 
 :::
+-->
 
 ---
 

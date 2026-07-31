@@ -36,6 +36,10 @@ $body-color: #000000;
 }
 
 // ----- Botones -----
+.btn {
+  border-radius: 6px;
+}
+
 .btn-primary {
   background-color: $primary;
   border-color: $primary;
@@ -364,6 +368,44 @@ $body-color: #000000;
     padding-left: 1.5rem;
     margin-bottom: 0.25rem;
   }
+}
+
+// ----- Esquema de días -----
+.day-overview {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.day-card-item {
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.day-card-item {
+  border: 2px solid $primary;
+}
+
+.day-date {
+  padding: 0.6rem 1rem;
+  font-weight: 700;
+  font-size: 1rem;
+  background: $primary;
+  color: white;
+}
+
+.day-activity {
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  background: white;
+  color: $primary;
+  font-weight: 600;
 }
 
 // ----- Sponsors -----

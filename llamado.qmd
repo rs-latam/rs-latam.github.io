@@ -10,8 +10,9 @@ Invitamos a presentar contribuciones a todas aquellas personas que participan en
 
 ### 14 de junio, 2026
 
+<!--
 [Envía tu propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
-
+-->
 :::
 
 ---
@@ -195,7 +196,8 @@ Los resúmenes aceptados quedarán disponibles públicamente en el sitio web de 
 ##   ¡Esperamos tu propuesta!
 
 La fecha límite de envío es el 14 de junio de 2026  
-  
-[Envíar propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
 
+<!--  
+[Envíar propuesta](https://openreview.net/group?id=RSLA/2026/Conference){.btn .btn-light .btn-lg}
+-->
 :::

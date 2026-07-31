@@ -32,7 +32,7 @@ Aprendé a crear y gestionar ambientes virtuales en Python con venv, pip y uv, p
 
 :::
 
-[Ver detalle →](taller-ambientes-virtuales-python.qmd){.stretched-link}
+[Ver detalle →](tutorial-ambientes-virtuales-python.qmd){.stretched-link}
 :::
 
 ::: {.tutorial-card}
@@ -50,7 +50,7 @@ Primeros pasos en la computación de alto rendimiento: uso de clústeres, Slurm 
 
 
 
-[Ver detalle →](taller-hpc.qmd){.stretched-link}
+[Ver detalle →](tutorial-hpc.qmd){.stretched-link}
 :::
 
 :::

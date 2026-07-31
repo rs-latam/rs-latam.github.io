@@ -5,20 +5,20 @@ title: "Introducción al Cómputo de Alto Rendimiento (HPC)"
 [← Volver a Tutoriales](tutoriales.qmd)
 
 **Día y horario:**
-Martes 25 de Agosto
+Martes 25 de agosto
 
 - 9:00 hs México (UTC-6)
 - 10:00 hs Perú (UTC-5)
 - 11:00 hs Chile (UTC-4)
 - 12:00 hs Argentina (UTC-3)
 
-Podés consultar en tu hora local con este link: [https://everytimezone.com/s/08719064](https://everytimezone.com/s/08719064)
+[Consulta tu hora local](https://everytimezone.com/s/08719064)
 
 **Duración:** 3 horas
 
 **Instructora:** Yasel Quintero Lares ([TU Delft](https://www.tudelft.nl/digital-competence-centre/team/yasel-quintero))
 
-**Link de inscripción:** [a completar]()
+[Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary}
 
 ---
 
@@ -46,7 +46,9 @@ Cada supercomputadora está configurada de forma diferente. Aunque los conceptos
 2. **Conexión y transferencia de datos**
 3. **Uso de software**
 4. **Slurm para ejecución de trabajos**
-5. **Introducción al cómputo en paralelo** 
+5. **Introducción al cómputo en paralelo**
+
+[Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary}
 
 ---
 

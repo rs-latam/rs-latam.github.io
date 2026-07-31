@@ -5,18 +5,18 @@ title: "Ambientes virtuales en Python: buenas prácticas para desarrollo de soft
 [← Volver a Tutoriales](tutoriales.qmd)
 
 **Día y horario:** 
-Martes 25 de Agosto
+Martes 25 de agosto
 
 - 13:00 hs México (UTC-6) 
 - 14:00 hs Perú (UTC-5)
 - 15:00 hs Chile (UTC-4) 
 - 16:00 hs Argentina (UTC-3) 
 
-Podés consultar en tu hora local con este link: [https://everytimezone.com/s/4d92fa73](https://everytimezone.com/s/4d92fa73)
+[Consulta tu hora local](https://everytimezone.com/s/4d92fa73)
 
 **Duración:** 2 horas
 
-**Instructora:** Stephanie Orellana ([GitHub](https://github.com/sporella) | [LinkedIn](http://www.linkedin.com/in/sporella) | sporella.dev@gmail.com)
+**Instructora:** Stephanie Orellana ([GitHub](https://github.com/sporella) | [LinkedIn](http://www.linkedin.com/in/sporella))
 
 <details class="bio-toggle">
 <summary>Ver mini biografía</summary>
@@ -27,7 +27,7 @@ Stephanie Orellana es Ingeniera Agrónoma y Magíster en Recursos Naturales por 
 
 
 
-**Link de inscripción:** [a completar]()
+[Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary}
 
 
 ---
@@ -54,6 +54,7 @@ Al finalizar el taller, las y los asistentes:
 - Conocerán cómo utilizar `uv` para simplificar y acelerar la gestión de proyectos, ambientes virtuales y dependencias.
 - Comprenderán las principales diferencias entre `venv` + `pip` y `uv`, y en qué contextos puede resultar conveniente utilizar cada enfoque.
 
+[Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary}
 
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Introducción al Cómputo de Alto Rendimiento (HPC)"
+title: "¡Miércoles, Git! Manejo de errores en Git y no morir en el intento"
 ---
 
 [← Volver a Tutoriales](tutoriales.qmd)
 
 **Día y horario:**
-Martes 25 de Agosto
+Martes 25 de agosto
 
 - 7:00 hs México (UTC-6)
 - 8:00 hs Perú (UTC-5)
 - 9:00 hs Chile (UTC-4)
 - 10:00 hs Argentina (UTC-3)
 
-Podés consultar en tu hora local con este link: [https://everytimezone.com/s/62d760a3](https://everytimezone.com/s/62d760a3)
+[Consulta tu hora local](https://everytimezone.com/s/62d760a3)
 
 **Duración:** 2 horas
 
@@ -25,7 +25,7 @@ Maëlle Salmon es doctora en estadística e ingeniera en software de R e investi
 
 </details>
 
-**Link de inscripción:** [a completar]()
+[Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary}
 
 ---
 
@@ -43,6 +43,7 @@ Para participar necesitarán una computadora con conexión a internet. Experienc
 
 **Duración:** 2 horas
 
+[Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary}
 
 ---
 
