@@ -13,6 +13,7 @@ project:
     - tutorial-hpc.qmd
     - tutorial-git.qmd
     - tutorial-llms.qmd
+    - tutorial-renv.qmd
   output-dir: _site
   
 
