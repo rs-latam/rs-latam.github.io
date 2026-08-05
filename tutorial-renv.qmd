@@ -1,0 +1,50 @@
+---
+title: "Proyectos reproducibles con renv"
+---
+
+[← Volver a Tutoriales](tutoriales.qmd)
+
+
+**Día y horario:**
+Martes 25 de agosto
+
+- 15:00 hs México (UTC-6)
+- 16:00 hs Perú (UTC-5)
+- 17:00 hs Chile (UTC-4)
+- 18:00 hs Argentina (UTC-3)
+
+[Consulta tu hora local](https://everytimezone.com/s/b2a1aaae)
+
+**Duración:** 2 horas
+
+**Instructora:** Paola Corrales ([GitHub](https://github.com/paocorrales) | [Personal website](https://paocorrales.github.io/))
+
+<details class="bio-toggle">
+<summary>Ver mini biografía</summary>
+
+Pao es doctora en Ciencias Atmosféricas por la Universidad de Buenos Aires. Durante su doctorado, Pao aplicó técnicas de asimilación de datos para mejorar la representación de los sistemas convectivos a mesoescala y las precipitaciones asociadas. Cuenta con experiencia en el uso de modelos de predicción numérica del tiempo y en el desarrollo de software con R y Fortran. Además, forma parte de R-Ladies, es mentora en rOpenSci y miembro de la junta directiva de The Carpentries. Le interesan el código abierto, la ciencia abierta y la reproducibilidad. También desarrolla materiales con licencia abierta para enseñar y aprender R, reproducibilidad para investigadores y otras herramientas. En 2025, Pao se incorporó al Centro de Excelencia 21st Century Weather como ingeniera de software de investigación, apoyando la investigación y el desarrollo de modelos climáticos de alta resolución.
+
+</details>
+
+[Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary}
+
+---
+
+## Descripción
+
+Ningún código es una burbuja aislada. Casi cualquier análisis de datos o código depende de una serie de paquetes externos, como ggplot2 para la representación gráfica, data.table para el procesamiento de datos, knitr para la generación de informes, etc.
+Sin embargo, los paquetes que se mantienen de forma activa se actualizan para corregir errores, añadir o eliminar funciones, o cambiar su comportamiento. Estos cambios pueden llegar a alterar tu análisis, generar diferencias en los resultados o aún peor, romper tu código.
+
+En este taller aprenderemos a usar renv para encapsular las dependencias de tu código (qué paquetes usas y qué versiones) y poder recrearlo en el futuro. 
+
+## Prerrequisitos
+ 
+Para poder aprovechar el taller, sugerimos traer instalados y actualizados R y RStudio (o Positron). Durante el taller instalaremos algunos paquetes como renv y ggplot2.
+
+**Duración:** 2 horas
+
+[Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary}
+
+---
+
+[← Volver a Tutoriales](tutoriales.qmd)
