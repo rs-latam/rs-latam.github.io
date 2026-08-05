@@ -90,6 +90,27 @@ Si te interesa, déjanos tus detalles en [este formulario](https://forms.gle/52Z
 
 ## Sponsors
 
+::: {.sponsors-section}
+
+::: {.sponsor-nivel}
+
+
+::: {.sponsor-grid}
+::: {.sponsor-grid}
+<a href="https://www.access-nri.org.au/" target="_blank"><img height="80" alt="ACCESS NRI" src="images/access.png" /></a>
+
+<a href="https://supercomputo.unc.edu.ar/" target="_blank"><img height="80" alt="UNC Supercómputo" src="images/ccad.svg" /></a>
+
+<a href="https://we-are-ols.org/" target="_blank"><img height="80" alt="Open Life Science" src="images/ols.png" /></a>
+
+<a href="https://metadocencia.org/" target="_blank"><img height="80" alt="MetaDocencia" src="images/MD.png" /></a>
+:::
+:::
+
+:::
+
+:::
+
 ::: {style="text-align: center; margin-top: 1.5rem;"}
 
 ¿Tu organización quiere ser parte? Escríbenos a [info@rs-latam.org](mailto:info@rs-latam.org) para conocer las opciones de patrocinio.

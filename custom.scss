@@ -437,16 +437,5 @@ $body-color: #000000;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 2rem;
-
-  img {
-    opacity: 0.75;
-    filter: grayscale(30%);
-    transition: opacity 0.2s, filter 0.2s;
-
-    &:hover {
-      opacity: 1;
-      filter: grayscale(0%);
-    }
-  }
+  gap: 5rem;
 }
