@@ -120,14 +120,14 @@ Aprende a crear y gestionar ambientes virtuales en Python con venv, pip y uv, pa
 17:00 UTC-4
 :::
 ::: {.schedule-content}
-### renv: ambientes virtuales reproducibles en R
+### [Proyectos reproducibles con renv](tutorial-renv.qmd) 
 **Dicta:** Paola Corrales
 
 Aprende a usar renv para encapsular las dependencias de tu código (qué paquetes usas y qué versiones) y poder recrearlo en el futuro.
 
 **Duración:** 2 horas
 
-Ver detalle → (¡pronto!)
+[Ver detalle →](tutorial-renv.qmd){.schedule-link}
 :::
 :::
 
