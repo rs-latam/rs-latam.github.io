@@ -16,12 +16,14 @@ Martes 25 de agosto
 
 **Duración:** 2 horas
 
-**Instructora:** Maëlle Salmon ([GitHub](https://github.com/maelle) | [Personal website](https://masalmon.eu/))
+**Instructoras:** Maëlle Salmon ([GitHub](https://github.com/maelle) | [Personal website](https://masalmon.eu/)) y Yanina Bellini Saibene ([GitHub](https://github.com/yabellini) | [Personal website](https://yabellini.netlify.app/))
 
 <details class="bio-toggle">
 <summary>Ver mini biografía</summary>
 
 Maëlle Salmon es doctora en estadística e ingeniera en software de R e investigación. Trabaja en rOpenSci, creó el blog de R-hub y coescribió el libro HTTP testing in R junto a Scott Chamberlain. Además, es miembro del equipo global de R-Ladies+ y colabora activamente en el desarrollo de herramientas para la comunidad de R. Enseña Git de forma regular desde hace meses, incluso este mismo tutorial en R en Buenos Aires + R-Ladies Santa Rosa. Creó el paquete {saperlipopette} para poder mostrar y compartir ejercicios de Git.
+
+Yanina Bellini Saibene es magíster en minería de datos y gestión del conocimiento. Trabaja en rOpenSci y es Fellow 2026 de la Agencia de Soberanía Tecnológica de Alemania. Es profesora de la Universidad Austral (Argentina) y forma parte del directorio de RLadies+ y de The Carpentries. También es una GitHub Star y enseña Git y GitHub desde hace 8 años.
 
 </details>
 
