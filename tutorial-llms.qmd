@@ -43,7 +43,7 @@ Se requieren conocimientos básicos de programación en R. No es necesario conta
 
 Al finalizar el taller, las personas participantes serán capaces de:
 
-- Entender las diferencias entre modelos, proveedores, y las herramientasas que comunican LLM con entordos de programación. 
+- Entender las diferencias entre modelos, proveedores, y las herramientas que comunican LLM con entornos de programación. 
 - Integrar herramientas basadas en LLMs en flujos de trabajo de análisis de datos con R.
 - Generar, editar, documentar y depurar código en R de manera rápida y precisa.
 - Interactuar con las APIs de modelos de lenguaje desde la consola de R y desde su entorno de desarrollo integrado (IDE) preferido.
