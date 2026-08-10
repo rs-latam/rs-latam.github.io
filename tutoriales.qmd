@@ -68,7 +68,7 @@ Los fondos recaudados nos ayudan a cubrir los costos asociados a la organizació
 :::
 ::: {.schedule-content}
 ### [¡Miércoles, Git! Manejo de errores en Git y no morir en el intento](tutorial-git.qmd)
-**Dicta:** Maëlle Salmon
+**Dictan:** Maëlle Salmon y Yanina Bellini Saibene
 
 Aprende a resolver siete errores frecuentes en Git con ejercicios prácticos inspirados en Oh Shit, Git!. Ideal para ganar confianza y autonomía usando control de versiones.
 
