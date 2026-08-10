@@ -135,7 +135,7 @@ Aprende a usar renv para encapsular las dependencias de tu código (qué paquete
 ::: {.schedule-time}
 **Viernes 28/8**\
 
-Horario a confirmar
+10:00 UTC-4
 
 :::
 ::: {.schedule-content}
