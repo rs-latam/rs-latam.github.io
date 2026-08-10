@@ -160,4 +160,20 @@ Joselyn es instructora en la escuela de medicina del hospital Mount Sinai en Nue
 [{{< fa solid globe >}}](https://josschavezf.netlify.app) [{{< fa brands linkedin >}}](www.linkedin.com/in/joselynchavezfuentes)[{{< fa brands github>}}](https://github.com/josschavezf)
 :::
 :::::
+
+::::: team-member
+![](images/yasel-quintero.jpg){.team-photo}
+
+[Yasel Quintero Lares]{.team-name}
+
+::: team-country
+🇲🇽 México
+:::
+
+Ingeniera de Software de Investigación (RSE) en TU Delft, con casi 10 años de experiencia en física e ingeniería computacional. Trabajo principalmente en proyectos que involucran C++, FORTRAN, Python y cómputo de alto rendimiento (HPC). Miembro del comité organizador de NL-RSE.
+
+::: social-links
+[{{< fa solid globe >}}](https://www.tudelft.nl/digital-competence-centre/team/yasel-quintero) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/yasel-quintero-20a795196/)[{{< fa brands github>}}](https://github.com/yiquintero)
+:::
+:::::
 :::::::::::::::
