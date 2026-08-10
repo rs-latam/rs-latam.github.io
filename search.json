@@ -347,6 +347,6 @@
     "href": "tutorial-llms.html#objetivos-de-aprendizaje",
     "title": "Cómo integrar LLM en nuestro flujo de trabajo con R",
     "section": "Objetivos de aprendizaje",
-    "text": "Objetivos de aprendizaje\nAl finalizar el taller, las personas participantes serán capaces de:\n\nEntender las diferencias entre modelos, proveedores, y las herramientasas que comunican LLM con entordos de programación.\nIntegrar herramientas basadas en LLMs en flujos de trabajo de análisis de datos con R.\nGenerar, editar, documentar y depurar código en R de manera rápida y precisa.\nInteractuar con las APIs de modelos de lenguaje desde la consola de R y desde su entorno de desarrollo integrado (IDE) preferido.\n\nDuración: 2 horas\nRegistro\n\n← Volver a Tutoriales"
+    "text": "Objetivos de aprendizaje\nAl finalizar el taller, las personas participantes serán capaces de:\n\nEntender las diferencias entre modelos, proveedores, y las herramientas que comunican LLM con entornos de programación.\nIntegrar herramientas basadas en LLMs en flujos de trabajo de análisis de datos con R.\nGenerar, editar, documentar y depurar código en R de manera rápida y precisa.\nInteractuar con las APIs de modelos de lenguaje desde la consola de R y desde su entorno de desarrollo integrado (IDE) preferido.\n\nDuración: 2 horas\nRegistro\n\n← Volver a Tutoriales"
   }
 ]
