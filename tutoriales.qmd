@@ -139,7 +139,7 @@ Aprende a usar renv para encapsular las dependencias de tu código (qué paquete
 
 :::
 ::: {.schedule-content}
-### [Cómo integrar LLM en nuestro flujo de trabajo con R]()
+### [Cómo integrar LLM en nuestro flujo de trabajo con R](tutorial-llms.qmd)
 **Dicta:** Luis D. Verde Arregoitia
 
 Descubre cómo incorporar modelos de lenguaje (LLM) a tus proyectos en R para automatizar tareas, acelerar análisis y potenciar tu flujo de trabajo con herramientas de IA.
