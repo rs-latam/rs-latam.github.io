@@ -1,27 +1,27 @@
 ---
-title: "Introducción al Cómputo de Alto Rendimiento (HPC)"
+title: "Cómo integrar LLM en nuestro flujo de trabajo con R"
 ---
 
 [← Volver a Tutoriales](tutoriales.qmd)
 
 **Día y horario:**
-Martes 25 de agosto
+Viernes 28 de agosto
 
-- 7:00 hs México (UTC-6)
-- 8:00 hs Perú (UTC-5)
-- 9:00 hs Chile (UTC-4)
-- 10:00 hs Argentina (UTC-3)
+- 8:00 hs México (UTC-6)
+- 9:00 hs Perú (UTC-5)
+- 10:00 hs Chile (UTC-4)
+- 11:00 hs Argentina (UTC-3)
 
 [Consulta tu hora local](https://everytimezone.com/s/62d760a3)
 
 **Duración:** 2 horas
 
-**Instructora:** Maëlle Salmon ([GitHub](https://github.com/maelle) | [Personal website](https://masalmon.eu/))
+**Instructor:** Luis D. Verde Arregoitia ([GitHub](https://github.com/luisDVA) | [Personal website](https://liomys.mx/))
 
 <details class="bio-toggle">
 <summary>Ver bio</summary>
 
-Maëlle Salmon es doctora en estadística e ingeniera en software de R e investigación. Trabaja en rOpenSci, creó el blog de R-hub y coescribió el libro HTTP testing in R junto a Scott Chamberlain. Además, es miembro del equipo global de R-Ladies+ y colabora activamente en el desarrollo de herramientas para la comunidad de R. Enseña Git de forma regular desde hace meses, incluso este mismo tutorial en R en Buenos Aires + R-Ladies Santa Rosa. Creó el paquete {saperlipopette} para poder mostrar y compartir ejercicios de Git.
+Luis D. Verde Arregoitia es doctor en ciencias y biológicas, especialista en mamíferos, y actualmente trabaja como científico de datos de biodiversidad en el Instituto de Ecología A.C. (INECOL) en Xalapa, México. Escribió y mantiene la guía en línea de [Herramientas para usar modelos de lenguaje de gran escala (LLM) en R](https://luisdva.github.io/llmsr-book/es/index.es.html). Es mentor en el programa de campeones y campeonas de rOpenSci, y le interesa enseñar sobre el uso eficiente y responsable de implementaciones de inteligencia artificial en tareas de datos en R.
 
 </details>
 
@@ -43,6 +43,7 @@ Se requieren conocimientos básicos de programación en R. No es necesario conta
 
 Al finalizar el taller, las personas participantes serán capaces de:
 
+- Entender las diferencias entre modelos, proveedores, y las herramientasas que comunican LLM con entordos de programación. 
 - Integrar herramientas basadas en LLMs en flujos de trabajo de análisis de datos con R.
 - Generar, editar, documentar y depurar código en R de manera rápida y precisa.
 - Interactuar con las APIs de modelos de lenguaje desde la consola de R y desde su entorno de desarrollo integrado (IDE) preferido.
