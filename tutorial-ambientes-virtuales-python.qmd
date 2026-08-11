@@ -25,6 +25,15 @@ Stephanie Orellana es Ingeniera Agrónoma y Magíster en Recursos Naturales por 
 
 </details>
 
+Al completar el [registro para la conferencia](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086), podrás seleccionar los tutoriales en los que desees participar. La inscripción es flexible: puedes elegir un único tutorial o tantos como sean de tu interés.
+
+Los tutoriales tienen un costo de inscripción, que varía según la categoría del participante. 
+
+- Estudiantes de tiempo completo: US$ 7  por tutorial
+- Academia (investigadores, docentes, etc.): US$ 10 por tutorial
+- Industria: US$ 15 por tutorial
+
+Los fondos recaudados nos ayudan a cubrir los costos asociados a la organización del evento.
 
 
 [Registro](https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086){.btn .btn-primary}
