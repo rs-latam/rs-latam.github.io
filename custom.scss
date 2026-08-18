@@ -439,3 +439,81 @@ $body-color: #000000;
   align-items: center;
   gap: 5rem;
 }
+
+// ----- Tabset del programa -----
+.panel-tabset .nav-tabs {
+  border-bottom: 2px solid $primary;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+
+  .nav-link {
+    color: $primary;
+    border: 1px solid lighten($primary, 40%);
+    border-radius: 6px;
+    background-color: white;
+
+    &.active {
+      color: white;
+      background-color: $primary;
+      border-color: $primary;
+    }
+
+    &:hover:not(.active) {
+      background-color: lighten($primary, 48%);
+    }
+  }
+}
+
+// ----- Sesiones colapsables en el programa -----
+.session-toggle {
+  margin-top: 0.75rem;
+
+  summary {
+    cursor: pointer;
+    color: $primary;
+    font-weight: 600;
+    font-size: 0.9rem;
+    list-style: none;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  summary::before {
+    content: "▶";
+    display: inline-block;
+    margin-right: 0.5rem;
+    font-size: 0.7rem;
+    transition: transform 0.2s;
+  }
+
+  &[open] summary::before {
+    transform: rotate(90deg);
+  }
+
+  summary:hover {
+    opacity: 0.75;
+  }
+
+  ul {
+    margin-top: 0.5rem;
+    padding-left: 1.2rem;
+  }
+
+  li {
+    margin-bottom: 0.3rem;
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+}
+
+// ----- Pausas en el programa -----
+.schedule-item.schedule-break .schedule-content::before {
+  background: #ccc;
+}
+
+.schedule-item.schedule-break .schedule-content > p {
+  font-style: italic;
+  color: #888;
+}
