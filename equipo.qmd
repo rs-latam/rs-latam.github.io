@@ -176,4 +176,21 @@ Ingeniera de Software de Investigación (RSE) en TU Delft, con casi 10 años de 
 [{{< fa solid globe >}}](https://www.tudelft.nl/digital-competence-centre/team/yasel-quintero) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/yasel-quintero-20a795196/)[{{< fa brands github>}}](https://github.com/yiquintero)
 :::
 :::::
+
+::::: team-member
+![](images/sofia.jpg){.team-photo}
+
+[Sofía Miñano]{.team-name}
+
+::: team-country
+🇪🇸 España
+:::
+
+Ingeniera en el Neuroinformatics Unit, un grupo de ingenieros de software de investigación (RSE) basado en el Sainsbury Wellcome Centre (Londres). Se especializa en proyectos de visión por ordenador. Co-organiza las Charlas RSE, un seminario híbrido mensual sobre RSE en español.
+
+::: social-links
+[{{< fa solid globe >}}](https://sfmig.github.io/) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/sofiaminano/)[{{< fa brands github>}}](https://github.com/sfmig)
+:::
+:::::
+
 :::::::::::::::
