@@ -178,7 +178,7 @@ Ingeniera de Software de Investigación (RSE) en TU Delft, con casi 10 años de 
 :::::
 
 ::::: team-member
-![](images/sofia.jpg){.team-photo}
+![](images/sofia.png){.team-photo}
 
 [Sofía Miñano]{.team-name}
 
