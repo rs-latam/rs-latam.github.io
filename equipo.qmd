@@ -207,4 +207,102 @@ Ingeniera en el Neuroinformatics Unit, un grupo de ingenieros de software de inv
 :::
 :::::
 
+::::: team-member
+![](images/placeholder-cc.jpg){.team-photo}
+
+[Rocío Joo]{.team-name}
+
+::: team-country
+
+:::
+
+::: social-links
+
+:::
+:::::
+
+::::: team-member
+![](images/placeholder-cc.jpg){.team-photo}
+
+[Carlos Gavidia-Calderón]{.team-name}
+
+::: team-country
+
+:::
+
+::: social-links
+
+:::
+:::::
+
+::::: team-member
+![](images/placeholder-cc.jpg){.team-photo}
+
+[Sara Acevedo]{.team-name}
+
+::: team-country
+
+:::
+
+::: social-links
+
+:::
+:::::
+
+::::: team-member
+![](images/placeholder-cc.jpg){.team-photo}
+
+[Stephanie Orellana]{.team-name}
+
+::: team-country
+
+:::
+
+::: social-links
+
+:::
+:::::
+
+::::: team-member
+![](images/placeholder-cc.jpg){.team-photo}
+
+[Diana García-Cortés]{.team-name}
+
+::: team-country
+
+:::
+
+::: social-links
+
+:::
+:::::
+
+::::: team-member
+![](images/placeholder-cc.jpg){.team-photo}
+
+[Juliana Gomez Consuegra]{.team-name}
+
+::: team-country
+
+:::
+
+::: social-links
+
+:::
+:::::
+
+::::: team-member
+![](images/placeholder-cc.jpg){.team-photo}
+
+[Teresa Gomez-Diaz]{.team-name}
+
+::: team-country
+
+:::
+
+::: social-links
+
+:::
+:::::
+
 :::::::::::::::
