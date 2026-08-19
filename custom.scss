@@ -408,6 +408,104 @@ $body-color: #000000;
   font-weight: 600;
 }
 
+// ----- Programa: cronograma importado desde Sheets -----
+.cronograma-container {
+  margin: 2rem 0;
+}
+
+.cronograma-row {
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  gap: 1rem;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.cronograma-row .horario {
+  font-weight: 700;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: $primary;
+}
+
+// ----- Tabs de días (Miércoles/Jueves) en Programa -----
+.panel-tabset .nav-link {
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.panel-tabset .nav-link.active {
+  background-color: $primary;
+  color: white;
+  border-color: $primary $primary #fff;
+}
+
+.sesion-titulo {
+  display: inline-block;
+  font-size: 1.25rem;
+  font-weight: 700;
+  background-color: $primary;
+  color: white;
+  padding: 6px 12px;
+  margin-bottom: 0.75rem;
+}
+
+.charla {
+  position: relative;
+  padding: 0 1rem 0.75rem 1.5rem;
+  margin-bottom: 0.75rem;
+  border-left: 2px solid #d8dee4;
+}
+
+.charla::before {
+  content: "";
+  position: absolute;
+  left: -7px;
+  top: 4px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: $primary;
+  border: 2px solid white;
+}
+
+.charla:last-child {
+  margin-bottom: 0;
+}
+
+.charla-titulo {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.charla-autores {
+  color: #555;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.charla-resumen {
+  background-color: #f8f8f8;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+}
+
+.charla-resumen summary {
+  font-size: 0.85rem;
+}
+
+.charla-resumen p {
+  margin-top: 0.75rem;
+}
+
+@media (max-width: 600px) {
+  .cronograma-row {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+}
+
 // ----- Sponsors -----
 .sponsors-section {
   margin: 2rem 0;

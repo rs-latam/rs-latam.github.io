@@ -44,224 +44,41 @@ Tutoriales
 
 :::
 
-El programa detallado se publicará próximamente.
+Las charlas y paneles se realizarán el miércoles 26 y el jueves 27 de agosto. Los tutoriales tienen su propio cronograma en la [página de tutoriales](tutoriales.qmd).
 
+```{r}
+#| label: obtener-datos-programa
+#| echo: false
+#| warning: false
+#| message: false
 
+source("R/utils.R")
 
-<!-- ::: {.schedule-day} -->
-<!-- ## Día 1 - Miércoles 25 de Agosto -->
+# Desactivar autenticación para spreadsheets públicos
+gs4_deauth()
 
-<!-- ::: {.schedule-item} -->
+# Leer datos del Google Spreadsheet
+url_programa <- "https://docs.google.com/spreadsheets/d/11chLePaF61Q2ldIITML45_4jQY3AHXRIog4NdCVFQCc/edit?usp=sharing"
+sesiones <- read_sheet(url_programa, sheet = "sesiones")
+charlas <- read_sheet(url_programa, sheet = "datos-para-sitio-web")
 
-<!-- ::: {.schedule-time} -->
+# Generar el HTML
+html_miercoles <- generar_html_programa(sesiones, charlas, "miércoles")
+html_jueves <- generar_html_programa(sesiones, charlas, "jueves")
+```
 
-<!-- 12:00pm - 1:00pm (UTC -3) -->
+::: {.panel-tabset}
 
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
+## Miércoles 26 de agosto
 
-<!-- **Keynote de Apertura**   -->
-<!-- *[Nombre del Speaker]*   -->
-<!-- Título de la presentación principal -->
+```{=html}
+`r html_miercoles`
+```
 
-<!-- ::: -->
-<!-- ::: -->
+## Jueves 27 de agosto
 
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 1:00pm - 2:00pm (UTC -3) -->
+```{=html}
+`r html_jueves`
+```
 
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-
-<!-- **Sesión/mesa - título**   -->
-
-<!-- - Título charla 1 - *Autores* -->
-<!-- - Título charla 2 - *Autores* -->
-<!-- - Título charla 3 - *Autores* -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-
-<!-- 2:00pm - 2:15pm (UTC -3) -->
-
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-
-<!-- **Coffee Break**   -->
-<!-- ¿Hacemos alguna actividad para socializar en el break? -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 2:15pm - 3:00pm (UTC -3) -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-content} -->
-
-<!-- **Panel de discusión** -->
-<!-- Tema: Título del panel -->
-
-<!-- Panelistas: Nombres -->
-<!-- Modera: Nombre -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: -->
-
-
-<!-- --- -->
-
-<!-- ::: {.schedule-day} -->
-<!-- ## Día 2 - Miércoles 26 de Agosto -->
-
-<!-- ::: {.schedule-item} -->
-
-<!-- ::: {.schedule-time} -->
-
-<!-- 12:00pm - 1:00pm (UTC -3) -->
-
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-
-<!-- **Keynote día 2**   -->
-<!-- *[Nombre del Speaker]*   -->
-<!-- Título de la presentación principal -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 1:00pm - 2:00pm (UTC -3) -->
-
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-
-<!-- **Sesión/mesa - título**   -->
-
-<!-- - Título charla 1 - *Autores* -->
-<!-- - Título charla 2 - *Autores* -->
-<!-- - Título charla 3 - *Autores* -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-
-<!-- 2:00pm - 2:15pm (UTC -3) -->
-
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-
-<!-- **Coffee Break**   -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 2:15pm - 3:00pm (UTC -3) -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-content} -->
-
-<!-- **Panel de discusión** -->
-<!-- Tema: Título del panel -->
-
-<!-- Panelistas: Nombres -->
-<!-- Modera: Nombre -->
-
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- --- -->
-
-<!-- ::: {.schedule-day} -->
-<!-- ## Día 3 - Miércoles 27 de Agosto -->
-
-<!-- ::: {.schedule-item} -->
-
-<!-- ::: {.schedule-time} -->
-
-<!-- 12:00pm - 1:00pm (UTC -3) -->
-
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-
-<!-- **Keynote de Apertura**   -->
-<!-- *[Nombre del Speaker]*   -->
-<!-- Título de la presentación principal -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 1:00pm - 2:00pm (UTC -3) -->
-
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-
-<!-- **Sesión/mesa - título**   -->
-
-<!-- - Título charla 1 - *Autores* -->
-<!-- - Título charla 2 - *Autores* -->
-<!-- - Título charla 3 - *Autores* -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-
-<!-- 2:00pm - 2:15pm (UTC -3) -->
-
-<!-- ::: -->
-<!-- ::: {.schedule-content} -->
-
-<!-- **Coffee Break**   -->
-<!-- ¿Hacemos alguna actividad para socializar en el break? -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-item} -->
-<!-- ::: {.schedule-time} -->
-<!-- 2:15pm - 3:00pm (UTC -3) -->
-<!-- ::: -->
-
-<!-- ::: {.schedule-content} -->
-
-<!-- **Panel de discusión** -->
-<!-- Tema: Título del panel -->
-
-<!-- Panelistas: Nombres -->
-<!-- Modera: Nombre -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: -->
-
-
-<!-- --- -->
-
-<!-- ::: {.cta-section} -->
-
-<!-- ## Research Software Latinoamérica 2026 -->
-
-<!-- Asegura tu lugar en la I Conferencia de Software de Investigación de Latinoamérica -->
-
-<!-- [Inscribite ahora](registro.qmd){.btn .btn-light .btn-lg} -->
-<!-- ::: -->
-
-
+:::
