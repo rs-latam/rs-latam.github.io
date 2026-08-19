@@ -193,4 +193,18 @@ Ingeniera en el Neuroinformatics Unit, un grupo de ingenieros de software de inv
 :::
 :::::
 
+::::: team-member
+![](images/placeholder-cc.jpg){.team-photo}
+
+[Maria Guadalupe Barrios Sazo]{.team-name}
+
+::: team-country
+
+:::
+
+::: social-links
+
+:::
+:::::
+
 :::::::::::::::
