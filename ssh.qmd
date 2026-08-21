@@ -40,6 +40,7 @@ SHA256:HiCF8gbV6DpBTC2rq2IMudwBc5+QuB9NqeGtc3pmqEY usuario@compu
 ```
 
 A partir de esto se generan dos archivos: 
+
 | Archivo | Qué es | Se comparte |
 |---|---|---|
 | `~/.ssh/id_ed25519` | Clave **privada** | ❌ Nunca |
@@ -49,7 +50,8 @@ La encontrará en la carpeta que indicaste al crear la clave. Por defecto es tu 
 
 ### 1.B — En Windows
 
-Windows 10/11 traen OpenSSH incorporado. 
+Windows 10/11 traen OpenSSH incorporado: 
+
 - Abre el PowerShell
 - Escribe `ssh-keygen -t ed25519` y presiona `enter` varias veces para aceptar la configuración por defecto. 
 - Las claves quedarán guardadas en `C:\Users\TU_USUARIO\.ssh\`.
@@ -58,21 +60,22 @@ Windows 10/11 traen OpenSSH incorporado.
 ### 1.C — En macOS
 
 macOS incluye OpenSSH de fábrica:
+
 - Debes abrir la app **Terminal** y correr `ssh-keygen -t ed25519`.
 - Produce exactamente el mismo resultado que en Linux, con los archivos en `~/.ssh/`.
 
-> ### ⚠️ "Creé la carpeta pero no la veo en Finder"
->
-> **Es normal y no es un error.** En macOS, cualquier archivo o carpeta cuyo nombre empieza con punto (como `.ssh`) está **oculto en Finder por diseño**. La carpeta existe; simplemente no se muestra.
->
-> Tres formas de llegar a ella:
->
-> 1. **Mostrar los ocultos temporalmente:** en Finder, apretá `Cmd` + `Shift` + `.` (punto). Los archivos ocultos aparecen en gris claro. La misma combinación los vuelve a esconder.
-> 2. **Ir directo a la carpeta:** en Finder, `Cmd` + `Shift` + `G`, escribir `~/.ssh` y Enter.
-> 3. **Abrirla desde la terminal:**
->    ```bash
->    open ~/.ssh
->    ```
+### ⚠️ "Creé la carpeta pero no la veo en Finder"
+
+**Es normal y no es un error.** En macOS, cualquier archivo o carpeta cuyo nombre empieza con punto (como `.ssh`) está **oculto en Finder por diseño**. La carpeta existe; simplemente no se muestra.
+
+Tres formas de llegar a ella:
+
+1. **Mostrar los ocultos temporalmente:** en Finder, apretá `Cmd` + `Shift` + `.` (punto). Los archivos ocultos aparecen en gris claro. La misma combinación los vuelve a esconder.
+2. **Ir directo a la carpeta:** en Finder, `Cmd` + `Shift` + `G`, escribir `~/.ssh` y Enter.
+3. **Abrirla desde la terminal:**
+   ```bash
+   open ~/.ssh
+   ```
 
 ## Paso 2 — Mostrar y copiar la clave pública
 
