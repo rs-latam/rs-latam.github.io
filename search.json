@@ -354,7 +354,7 @@
     "href": "tutorial-git.html#prerrequisitos",
     "title": "¡Miércoles, Git! Manejo de errores en Git y no morir en el intento",
     "section": "Prerrequisitos",
-    "text": "Prerrequisitos\nPara participar necesitarán una computadora con conexión a internet. Experiencia previa básica con Git y control de versiones es recomendable.\nDuración: 2 horas\nRegistro\n\n← Volver a Tutoriales"
+    "text": "Prerrequisitos\n\nComputadora personal para hacer los ejercicios (puede ser diferente de la que usás para conectarte al curso, solo que en este caso no se podrá compartir la pantalla en caso de problema).\nTener Git instalado en la computadora: https://happygitwithr.com/install-git y https://happygitwithr.com/hello-git.\nYa usar Git un poco (git commit, git pull/push, ramas, GitHub u otra plataforma). Si querés repasar un poco, te recomendamos el workshop https://yabellini.netlify.app/courses/git_rstudio_course/.\nInstalar {saperlipopette} en tu computadora:\ninstall.packages(\n  \"saperlipopette\",\n  repos = c(\"https://packages.ropensci.org\", \"https://cloud.r-project.org\")\n)\nMás información en https://docs.ropensci.org/saperlipopette/.\nSi querés, instalá Positron, pero los ejercicios se pueden hacer en RStudio o con tus herramientas usuales para R y Git.\n\nDuración: 2 horas\nRegistro\n\n← Volver a Tutoriales"
   },
   {
     "objectID": "tutorial-renv.html",
