@@ -14,6 +14,7 @@ project:
     - tutorial-git.qmd
     - tutorial-llms.qmd
     - tutorial-renv.qmd
+    - ssh.qmd
   output-dir: _site
   
 
