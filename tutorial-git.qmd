@@ -51,7 +51,20 @@ Este taller está orientado a personas que ya tienen alguna experiencia usando c
 
 ## Prerrequisitos
 
-Para participar necesitarán una computadora con conexión a internet. Experiencia previa básica con Git y control de versiones es recomendable.
+- Computadora personal para hacer los ejercicios (puede ser diferente de la que usás para conectarte al curso, solo que en este caso no se podrá compartir la pantalla en caso de problema).
+- Tener Git instalado en la computadora: <https://happygitwithr.com/install-git> y <https://happygitwithr.com/hello-git>.
+- Ya usar Git un poco (`git commit`, `git pull`/`push`, ramas, GitHub u otra plataforma). Si querés repasar un poco, te recomendamos el workshop <https://yabellini.netlify.app/courses/git_rstudio_course/>.
+- Instalar {saperlipopette} en tu computadora:
+
+  ```r
+  install.packages(
+    "saperlipopette",
+    repos = c("https://packages.ropensci.org", "https://cloud.r-project.org")
+  )
+  ```
+
+  Más información en <https://docs.ropensci.org/saperlipopette/>.
+- Si querés, instalá Positron, pero los ejercicios se pueden hacer en RStudio o con tus herramientas usuales para R y Git.
 
 **Duración:** 2 horas
 
