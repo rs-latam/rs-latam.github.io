@@ -43,6 +43,7 @@ Está dirigido tanto a personas sin experiencia en el uso de supercomputadoras c
 ## Prerrequisitos
 
 Conocimiento sugerido pero no excluyente: manejo básico de la terminal (unix shell / bash). 
+Enviar previamente la clave pública SSH a softwaredeinvestigacion@gmail.com para poder acceder a la supercomputadora durante el taller. [Puedes encontrar aquí las instrucciones para obtener la clave pública SSH.](ssh.qmd)
 
 **Duración:** 3 horas
 
