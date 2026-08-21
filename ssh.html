@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Introducción al Cómputo de Alto Rendimiento (HPC) – RSLA26</title>
+<title>ssh – RSLA26</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -25,6 +25,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -148,88 +183,81 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Introducción al Cómputo de Alto Rendimiento (HPC)</h1>
-</div>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta column-page">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p><a href="./tutoriales.html">← Volver a Tutoriales</a></p>
-<p><strong>Día y horario:</strong> Martes 25 de agosto</p>
-<ul>
-<li>9:00 hs México (UTC-6)</li>
-<li>10:00 hs Perú (UTC-5)</li>
-<li>11:00 hs Chile (UTC-4)</li>
-<li>12:00 hs Argentina (UTC-3)</li>
-</ul>
-<p><a href="https://everytimezone.com/s/08719064">Consulta tu hora local</a></p>
-<p><strong>Duración:</strong> 3 horas</p>
-<p><strong>Instructora:</strong> Yasel Quintero Lares (<a href="https://www.tudelft.nl/digital-competence-centre/team/yasel-quintero">TU Delft</a>)</p>
-<p>Al completar el <a href="https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086">registro para la conferencia</a>, podrás seleccionar los tutoriales en los que desees participar. La inscripción es flexible: puedes elegir un único tutorial o tantos como sean de tu interés.</p>
-<p>Los tutoriales tienen un costo de inscripción, que varía según la categoría del participante.</p>
-<ul>
-<li>Estudiantes de tiempo completo: US$ 7 por tutorial</li>
-<li>Academia (investigadores, docentes, etc.): US$ 10 por tutorial</li>
-<li>Industria: US$ 15 por tutorial</li>
-</ul>
-<p>Los fondos recaudados nos ayudan a cubrir los costos asociados a la organización del evento.</p>
-<p><a href="https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086" class="btn btn-primary">Registro</a></p>
+<section id="cómo-obtener-tu-clave-ssh-pública-para-acceder-a-unc-supercómputo-ccad" class="level1">
+<h1>Cómo obtener tu clave SSH pública para acceder a UNC Supercómputo (CCAD)</h1>
+<p><strong>Preparación para el taller “Introducción al Cómputo de Alto Rendimiento (HPC)” — RSLA26</strong> Martes 25 de agosto · 11:00 hs Chile (UTC-4) · 3 horas · Instructora: Yasel Quintero Lares (TU Delft)</p>
 <hr>
-<section id="descripción" class="level2">
-<h2 class="anchored" data-anchor-id="descripción">Descripción</h2>
-<p>Este taller ofrece una introducción práctica al uso de supercomputadoras y a los conceptos básicos del cómputo de alto rendimiento (HPC). Mediante una combinación de teoría y ejercicios, las y los participantes aprenderán a conectarse a un clúster, transferir archivos, utilizar el software disponible, ejecutar y monitorear trabajos mediante Slurm, y conocerán los fundamentos de la programación paralela con OpenMP y MPI.</p>
+<section id="qué-es-una-clave-ssh" class="level2">
+<h2 class="anchored" data-anchor-id="qué-es-una-clave-ssh">Qué es una clave SSH</h2>
+<p>El CCAD usa esta analogía en su wiki: el mecanismo son dos archivos, una <em>clave pública</em> y una <em>clave privada</em>. La pública es la <strong>cerradura</strong> que se instala en la puerta del clúster; la privada es la <strong>llave</strong> que la abre y que nunca sale de tu computadora. Tu enviás la pública. <strong>Nunca, bajo ninguna circunstancia, enviás la privada.</strong> En los clústeres del CCAD, la autenticación se hace <strong>exclusivamente</strong> mediante claves SSH: no hay contraseña para entrar al nodo cabecera.</p>
+<hr>
 </section>
-<section id="a-quién-está-dirigido" class="level2">
-<h2 class="anchored" data-anchor-id="a-quién-está-dirigido">A quién está dirigido</h2>
-<p>Está dirigido tanto a personas sin experiencia en el uso de supercomputadoras como a quienes ya cuentan con conocimientos básicos y desean fortalecer sus habilidades en HPC. Ideal para estudiantes, investigadores y profesionales que buscan iniciarse en el uso de clústeres y comprender los principios de la ejecución de aplicaciones en paralelo.</p>
+<section id="paso-1-generar-el-par-de-claves" class="level2">
+<h2 class="anchored" data-anchor-id="paso-1-generar-el-par-de-claves">Paso 1: Generar el par de claves</h2>
+<section id="a-en-linux" class="level3">
+<h3 class="anchored" data-anchor-id="a-en-linux">1.A — En Linux</h3>
+<p>Abre una terminal y ejecutá:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ssh-keygen</span> <span class="at">-t</span> ed25519</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Luego <strong>presiona <em>enter</em> varias veces para aceptar las opciones por defecto.</strong> &gt; <strong>Sobre la <em>passphrase</em>:</strong> el CCAD recomienda aceptar los valores por defecto (es decir, passphrase vacía).</p>
+<p>La salida se verá así:</p>
+<pre><code>Generating public/private ed25519 key pair.
+Enter file in which to save the key ($HOME/.ssh/id_ed25519):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in $HOME/.ssh/id_ed25519.
+Your public key has been saved in $HOME/.ssh/id_ed25519.pub.
+The key fingerprint is:
+SHA256:HiCF8gbV6DpBTC2rq2IMudwBc5+QuB9NqeGtc3pmqEY usuario@compu</code></pre>
+<p>A partir de esto se generan dos archivos: | Archivo | Qué es | Se comparte | |—|—|—| | <code>~/.ssh/id_ed25519</code> | Clave <strong>privada</strong> | ❌ Nunca | | <code>~/.ssh/id_ed25519.pub</code> | Clave <strong>pública</strong> | ✅ Sí, es la que envias |</p>
+<p>La encontrará en la carpeta que indicaste al crear la clave. Por defecto es tu home, carpeta .ssh/id_ed25519.pub</p>
 </section>
-<section id="prerrequisitos" class="level2">
-<h2 class="anchored" data-anchor-id="prerrequisitos">Prerrequisitos</h2>
-<p>Conocimiento sugerido pero no excluyente: manejo básico de la terminal (unix shell / bash). Enviar previamente la clave pública SSH a softwaredeinvestigacion@gmail.com para poder acceder a la supercomputadora durante el taller. <a href="./ssh.html">Puedes encontrar aquí las instrucciones para obtener la clave pública SSH.</a></p>
-<p><strong>Duración:</strong> 3 horas</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Cada supercomputadora está configurada de forma diferente. Aunque los conceptos y procedimientos presentados en este taller son ampliamente aplicables, algunos comandos y herramientas pueden variar entre sistemas.</p>
-</div>
-</div>
+<section id="b-en-windows" class="level3">
+<h3 class="anchored" data-anchor-id="b-en-windows">1.B — En Windows</h3>
+<p>Windows 10/11 traen OpenSSH incorporado. - Abre el PowerShell - Escribe <code>ssh-keygen -t ed25519</code> y presiona <code>enter</code> varias veces para aceptar la configuración por defecto. - Las claves quedarán guardadas en <code>C:\Users\TU_USUARIO\.ssh\</code>. - Recuerda enviar sólo la pública.</p>
 </section>
-<section id="temario" class="level2">
-<h2 class="anchored" data-anchor-id="temario">Temario</h2>
+<section id="c-en-macos" class="level3">
+<h3 class="anchored" data-anchor-id="c-en-macos">1.C — En macOS</h3>
+<p>macOS incluye OpenSSH de fábrica: - Debes abrir la app <strong>Terminal</strong> y correr <code>ssh-keygen -t ed25519</code>. - Produce exactamente el mismo resultado que en Linux, con los archivos en <code>~/.ssh/</code>.</p>
+<blockquote class="blockquote">
+<h3 id="creé-la-carpeta-pero-no-la-veo-en-finder" class="anchored">⚠️ “Creé la carpeta pero no la veo en Finder”</h3>
+<p><strong>Es normal y no es un error.</strong> En macOS, cualquier archivo o carpeta cuyo nombre empieza con punto (como <code>.ssh</code>) está <strong>oculto en Finder por diseño</strong>. La carpeta existe; simplemente no se muestra.</p>
+<p>Tres formas de llegar a ella:</p>
 <ol type="1">
-<li><strong>Introducción a las supercomputadoras</strong></li>
-<li><strong>Conexión y transferencia de datos</strong></li>
-<li><strong>Uso de software</strong></li>
-<li><strong>Slurm para ejecución de trabajos</strong></li>
-<li><strong>Introducción al cómputo en paralelo</strong></li>
+<li><p><strong>Mostrar los ocultos temporalmente:</strong> en Finder, apretá <code>Cmd</code> + <code>Shift</code> + <code>.</code> (punto). Los archivos ocultos aparecen en gris claro. La misma combinación los vuelve a esconder.</p></li>
+<li><p><strong>Ir directo a la carpeta:</strong> en Finder, <code>Cmd</code> + <code>Shift</code> + <code>G</code>, escribir <code>~/.ssh</code> y Enter.</p></li>
+<li><p><strong>Abrirla desde la terminal:</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">open</span> ~/.ssh</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div></li>
 </ol>
-<p><a href="https://www.eventbrite.com/e/rsla26-research-software-latinoamerica-tickets-1995193038086" class="btn btn-primary">Registro</a></p>
-<hr>
-<p><a href="./tutoriales.html">← Volver a Tutoriales</a></p>
+</blockquote>
+</section>
+</section>
+<section id="paso-2-mostrar-y-copiar-la-clave-pública" class="level2">
+<h2 class="anchored" data-anchor-id="paso-2-mostrar-y-copiar-la-clave-pública">Paso 2 — Mostrar y copiar la clave pública</h2>
+<p>Esta es la parte que puntualmente te interesa: <strong>“sacar” la clave pública</strong>.</p>
+<p>La clave pública es el archivo terminado en <strong><code>.pub</code></strong>. Para ver su contenido:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span> ~/.ssh/id_ed25519.pub</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>La wiki del CCAD lo documenta también como:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span> <span class="va">$HOME</span>/.ssh/id_ed25519.pub</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Vas a ver <strong>una sola línea larga</strong>, con este formato:</p>
+<pre><code>ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBLEURucCueNvq4hPRklEMHdt5tj/bSbirlC0BkXrPDI usuario@compu</code></pre>
+<section id="cómo-copiarla-bien" class="level3">
+<h3 class="anchored" data-anchor-id="cómo-copiarla-bien">Cómo copiarla bien</h3>
+<ul>
+<li>Selecciona y copia <strong>toda la línea completa</strong>: desde <code>ssh-ed25519</code> hasta el final, incluyendo el comentario final (<code>usuario@compu</code>).</li>
+<li><strong>Que quede en una sola línea.</strong> Si la pegas en un mail o formulario y el editor la parte en varias líneas, la clave deja de funcionar. Pegala como texto plano.</li>
+<li><strong>No agregues comillas, ni espacios adelante, ni saltos de línea.</strong></li>
+<li>Verificá que empiece con <code>ssh-ed25519</code> (o <code>ssh-rsa</code> si usaste RSA). <strong>Si el texto empieza con <code>-----BEGIN OPENSSH PRIVATE KEY-----</code>, estás copiando la clave PRIVADA. Frená, cerrá eso y volvé al archivo <code>.pub</code>.</strong></li>
+<li>Alternativa: enviar el archivo adjunto (asegurándote que se trate de la clave pública y no la privada)</li>
+</ul>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->
