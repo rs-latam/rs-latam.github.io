@@ -213,18 +213,55 @@ Your identification has been saved in $HOME/.ssh/id_ed25519.
 Your public key has been saved in $HOME/.ssh/id_ed25519.pub.
 The key fingerprint is:
 SHA256:HiCF8gbV6DpBTC2rq2IMudwBc5+QuB9NqeGtc3pmqEY usuario@compu</code></pre>
-<p>A partir de esto se generan dos archivos: | Archivo | Qué es | Se comparte | |—|—|—| | <code>~/.ssh/id_ed25519</code> | Clave <strong>privada</strong> | ❌ Nunca | | <code>~/.ssh/id_ed25519.pub</code> | Clave <strong>pública</strong> | ✅ Sí, es la que envias |</p>
+<p>A partir de esto se generan dos archivos:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Archivo</th>
+<th>Qué es</th>
+<th>Se comparte</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>~/.ssh/id_ed25519</code></td>
+<td>Clave <strong>privada</strong></td>
+<td>❌ Nunca</td>
+</tr>
+<tr class="even">
+<td><code>~/.ssh/id_ed25519.pub</code></td>
+<td>Clave <strong>pública</strong></td>
+<td>✅ Sí, es la que envias</td>
+</tr>
+</tbody>
+</table>
 <p>La encontrará en la carpeta que indicaste al crear la clave. Por defecto es tu home, carpeta .ssh/id_ed25519.pub</p>
 </section>
 <section id="b-en-windows" class="level3">
 <h3 class="anchored" data-anchor-id="b-en-windows">1.B — En Windows</h3>
-<p>Windows 10/11 traen OpenSSH incorporado. - Abre el PowerShell - Escribe <code>ssh-keygen -t ed25519</code> y presiona <code>enter</code> varias veces para aceptar la configuración por defecto. - Las claves quedarán guardadas en <code>C:\Users\TU_USUARIO\.ssh\</code>. - Recuerda enviar sólo la pública.</p>
+<p>Windows 10/11 traen OpenSSH incorporado:</p>
+<ul>
+<li>Abre el PowerShell</li>
+<li>Escribe <code>ssh-keygen -t ed25519</code> y presiona <code>enter</code> varias veces para aceptar la configuración por defecto.</li>
+<li>Las claves quedarán guardadas en <code>C:\Users\TU_USUARIO\.ssh\</code>.</li>
+<li>Recuerda enviar sólo la pública.</li>
+</ul>
 </section>
 <section id="c-en-macos" class="level3">
 <h3 class="anchored" data-anchor-id="c-en-macos">1.C — En macOS</h3>
-<p>macOS incluye OpenSSH de fábrica: - Debes abrir la app <strong>Terminal</strong> y correr <code>ssh-keygen -t ed25519</code>. - Produce exactamente el mismo resultado que en Linux, con los archivos en <code>~/.ssh/</code>.</p>
-<blockquote class="blockquote">
-<h3 id="creé-la-carpeta-pero-no-la-veo-en-finder" class="anchored">⚠️ “Creé la carpeta pero no la veo en Finder”</h3>
+<p>macOS incluye OpenSSH de fábrica:</p>
+<ul>
+<li>Debes abrir la app <strong>Terminal</strong> y correr <code>ssh-keygen -t ed25519</code>.</li>
+<li>Produce exactamente el mismo resultado que en Linux, con los archivos en <code>~/.ssh/</code>.</li>
+</ul>
+</section>
+<section id="creé-la-carpeta-pero-no-la-veo-en-finder" class="level3">
+<h3 class="anchored" data-anchor-id="creé-la-carpeta-pero-no-la-veo-en-finder">⚠️ “Creé la carpeta pero no la veo en Finder”</h3>
 <p><strong>Es normal y no es un error.</strong> En macOS, cualquier archivo o carpeta cuyo nombre empieza con punto (como <code>.ssh</code>) está <strong>oculto en Finder por diseño</strong>. La carpeta existe; simplemente no se muestra.</p>
 <p>Tres formas de llegar a ella:</p>
 <ol type="1">
@@ -233,7 +270,6 @@ SHA256:HiCF8gbV6DpBTC2rq2IMudwBc5+QuB9NqeGtc3pmqEY usuario@compu</code></pre>
 <li><p><strong>Abrirla desde la terminal:</strong></p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">open</span> ~/.ssh</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div></li>
 </ol>
-</blockquote>
 </section>
 </section>
 <section id="paso-2-mostrar-y-copiar-la-clave-pública" class="level2">
