@@ -312,7 +312,7 @@
     "href": "tutorial-hpc.html#prerrequisitos",
     "title": "Introducción al Cómputo de Alto Rendimiento (HPC)",
     "section": "Prerrequisitos",
-    "text": "Prerrequisitos\nConocimiento sugerido pero no excluyente: manejo básico de la terminal (unix shell / bash).\nDuración: 3 horas\n\n\n\n\n\n\nNote\n\n\n\nCada supercomputadora está configurada de forma diferente. Aunque los conceptos y procedimientos presentados en este taller son ampliamente aplicables, algunos comandos y herramientas pueden variar entre sistemas."
+    "text": "Prerrequisitos\nConocimiento sugerido pero no excluyente: manejo básico de la terminal (unix shell / bash). Enviar previamente la clave pública SSH a softwaredeinvestigacion@gmail.com para poder acceder a la supercomputadora durante el taller. Puedes encontrar aquí las instrucciones para obtener la clave pública SSH.\nDuración: 3 horas\n\n\n\n\n\n\nNote\n\n\n\nCada supercomputadora está configurada de forma diferente. Aunque los conceptos y procedimientos presentados en este taller son ampliamente aplicables, algunos comandos y herramientas pueden variar entre sistemas."
   },
   {
     "objectID": "tutorial-hpc.html#temario",
