@@ -106,7 +106,7 @@ Licenciada en Sistemas de Información y diplomada en Ciencia de Datos y Aprendi
 🇦🇷 Argentina
 :::
 
-Bióloga marina y doctora en Ciencias Biológicas de la Universidad de Buenos Aires, Argentina. Me especializo en análisis espaciotemporales, ciencia abierta y visualización de datos. Actualmente trabajo como Science Officer (Birds & Energy) en BirdLife International y participo en la organización de R-Ladies Buenos Aires y de la Red de Jóvenes Investigadores en Ciencias del Mar (JICMar).
+Bióloga marina y doctora en Ciencias Biológicas de la Universidad de Buenos Aires, Argentina. Especialista en análisis espaciotemporales, ciencia abierta y visualización de datos. Actualmente trabaja como Science Officer (Birds & Energy) en BirdLife International y participa en la organización de R-Ladies Buenos Aires y de la Red de Jóvenes Investigadores en Ciencias del Mar (JICMar).
 
 ::: social-links
 [{{< fa solid globe >}}](https://virginiagarciaalonso.github.io/) [{{< fa brands linkedin >}}](www.linkedin.com/in/virginia-garcia-alonso)
